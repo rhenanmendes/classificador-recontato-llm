@@ -1,0 +1,104 @@
+# Taxonomia de motivos de recontato
+#
+# Pensada para OPERAÇÃO, não só para análise: cada motivo aponta qual área
+# normalmente é dona da correção (Processos, Treinamento, Produto, WFM, etc.)
+# e qual alavanca costuma resolver. Assim, o Pareto de motivos já sai como
+# um plano de ação com responsáveis.
+#
+# Campo "acionavel": recontatos que NÃO indicam falha de resolução
+# (assunto novo, agradecimento) ficam fora da "taxa de recontato acionável".
+#
+# Regra de desempate: quando mais de um motivo se aplica, vale o que melhor
+# explica POR QUE o cliente precisou voltar (a causa), não o tom da mensagem.
+
+versao: "1.0"
+
+motivos:
+  - codigo: PROBLEMA_NAO_RESOLVIDO
+    nome: Problema não resolvido
+    definicao: >
+      O cliente volta porque o mesmo problema continua. A orientação ou solução
+      aplicada no contato anterior não funcionou.
+    sinais: ["ainda não funciona", "continua o mesmo erro", "fiz o que pediram e nada", "still not working", "same issue"]
+    dono: Processos / Base de conhecimento
+    acao_sugerida: Revisar o procedimento de solução e a árvore de diagnóstico; checar se o agente seguiu o fluxo.
+    acionavel: true
+
+  - codigo: INFORMACAO_INCOMPLETA
+    nome: Informação incompleta ou confusa
+    definicao: >
+      A resposta anterior foi genérica, incompleta ou ambígua, e o cliente volta
+      com uma dúvida derivada dela (precisa de um passo que não foi explicado).
+    sinais: ["não entendi", "onde fica essa opção", "e depois disso?", "what do you mean", "how do I"]
+    dono: Treinamento / Qualidade
+    acao_sugerida: Ajustar scripts e macros para respostas completas; calibrar com os agentes o checklist de resposta.
+    acionavel: true
+
+  - codigo: PROMESSA_NAO_CUMPRIDA
+    nome: Promessa ou prazo não cumprido
+    definicao: >
+      O atendimento prometeu algo com prazo (retorno, reembolso, crédito, entrega,
+      ligação) e isso não aconteceu no prazo informado.
+    sinais: ["disseram que em 48h", "até hoje não caiu", "prometeram ligar", "still waiting for the refund", "you said"]
+    dono: Processos / Áreas de backoffice
+    acao_sugerida: Auditar SLA das áreas que executam a promessa; alinhar o prazo comunicado ao prazo real.
+    acionavel: true
+
+  - codigo: DIRECIONAMENTO_SEM_RESOLUCAO
+    nome: Direcionado para outro canal sem resolução
+    definicao: >
+      O cliente foi enviado para outro canal, área, link ou telefone e não conseguiu
+      resolver por lá, então voltou ao canal original.
+    sinais: ["mandaram eu ligar e ninguém atende", "o link não ajuda", "fui transferido", "DM'd you", "the link doesn't help"]
+    dono: Processos / Roteamento
+    acao_sugerida: Rever regras de transferência e roteamento; aumentar a resolução no próprio canal.
+    acionavel: true
+
+  - codigo: DEMORA_OU_SEM_RETORNO
+    nome: Demora ou ausência de retorno
+    definicao: >
+      O cliente volta para cobrar uma resposta que não veio (sem prazo prometido
+      explicitamente), ou reclama da espera para ser atendido.
+    sinais: ["ninguém me respondeu", "estou aguardando há dias", "any update?", "no reply", "hello?"]
+    dono: Planejamento / WFM
+    acao_sugerida: Checar dimensionamento e SLA de primeira resposta no período; revisar filas paradas.
+    acionavel: true
+
+  - codigo: DISCORDANCIA_DA_SOLUCAO
+    nome: Discorda da solução ou da política
+    definicao: >
+      O cliente entendeu a resposta, mas não aceita a solução ou a regra aplicada
+      e volta para contestar ou pedir exceção/escalonamento.
+    sinais: ["isso é um absurdo", "quero falar com um supervisor", "não aceito", "this is unacceptable", "escalate"]
+    dono: Produto / Política comercial
+    acao_sugerida: Avaliar se a política gera atrito evitável; definir alçada de exceção para a ponta.
+    acionavel: true
+
+  - codigo: NOVO_ASSUNTO
+    nome: Assunto novo, sem relação com o anterior
+    definicao: >
+      O novo contato trata de um tema diferente do anterior. Conta como recontato
+      pela regra de janela, mas não indica falha de resolução.
+    sinais: ["outra dúvida", "aproveitando", "agora é sobre", "different question", "also"]
+    dono: "-"
+    acao_sugerida: Excluir da taxa de recontato acionável; acompanhar só como volume de demanda.
+    acionavel: false
+
+  - codigo: AGRADECIMENTO_OU_CONFIRMACAO
+    nome: Agradecimento ou confirmação
+    definicao: >
+      O cliente volta apenas para agradecer, elogiar ou confirmar que deu certo.
+    sinais: ["obrigado, resolveu", "deu certo", "thanks, it worked", "all good now"]
+    dono: "-"
+    acao_sugerida: Excluir da taxa de recontato acionável; é sinal positivo.
+    acionavel: false
+
+  - codigo: INDETERMINADO
+    nome: Indeterminado
+    definicao: >
+      Não há informação suficiente para identificar o motivo (mensagem vazia,
+      só emoji, link sem texto, idioma ilegível).
+    sinais: []
+    dono: "-"
+    acao_sugerida: Monitorar o volume; se crescer, revisar a qualidade dos dados de entrada.
+    acionavel: false

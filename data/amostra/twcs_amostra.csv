@@ -1,0 +1,1474 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+1005,115008,True,Wed Oct 25 07:27:01 +0000 2017,@AcmeMobileHelp I was charged twice this month,1012,
+1012,AcmeMobileHelp,False,Wed Oct 25 09:52:01 +0000 2017,"@115008 We've fixed it on our side, please check now. ^LS",1017,1005.0
+1017,115008,True,Wed Oct 25 11:07:01 +0000 2017,@AcmeMobileHelp will try,,1012.0
+1018,115040,True,Sun Oct 22 04:24:57 +0000 2017,@AcmeMobileHelp my data stopped working,1022,
+1022,AcmeMobileHelp,False,Sun Oct 22 07:55:57 +0000 2017,"@115040 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -DW",1025,1018.0
+1025,115040,True,Sun Oct 22 09:23:57 +0000 2017,@AcmeMobileHelp ok thanks,,1022.0
+1031,115040,True,Tue Oct 24 02:07:56 +0000 2017,"@AcmeMobileHelp your fix didn't work, my data plan is broken again",1032,
+1032,AcmeMobileHelp,False,Tue Oct 24 04:21:56 +0000 2017,@115040 We're sorry for the trouble. Can you share more details so we can check? -DW,,1031.0
+1039,115046,True,Thu Oct 26 18:00:35 +0000 2017,@AcmeMobileHelp my data stopped working,1042,
+1042,AcmeMobileHelp,False,Thu Oct 26 21:04:35 +0000 2017,"@115046 Unfortunately this is outside the refund window, so we can't refund it. ^KT",,1039.0
+1046,115046,True,Fri Oct 27 13:02:30 +0000 2017,@AcmeMobileHelp I've been a customer for 8 years and that's the best you can do? not ok,1053,
+1053,AcmeMobileHelp,False,Fri Oct 27 15:14:30 +0000 2017,@115046 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,1046.0
+1058,115078,True,Sun Nov 12 18:29:42 +0000 2017,@AcmeMobileHelp I was charged twice this month,1063,
+1063,AcmeMobileHelp,False,Sun Nov 12 21:58:42 +0000 2017,@115078 Please check this help article: https://t.co/hlp123 It has all the steps. ^AB,1070,1058.0
+1070,115078,True,Sun Nov 12 22:28:42 +0000 2017,@AcmeMobileHelp will try,,1063.0
+1075,115078,True,Mon Nov 13 08:00:25 +0000 2017,"@AcmeMobileHelp I called the number you gave me and waited 40 minutes, nobody picked up",1077,
+1077,AcmeMobileHelp,False,Mon Nov 13 09:52:25 +0000 2017,"@115078 Thanks for the update, we're on it. ^LS",,1075.0
+1081,115093,True,Mon Oct 30 20:35:14 +0000 2017,@AcmeMobileHelp no signal since this morning,1086,
+1086,AcmeMobileHelp,False,Mon Oct 30 23:29:14 +0000 2017,"@115093 Thanks, we've passed this to the team. We'll reply here soon. ^KT",1091,1081.0
+1091,115093,True,Tue Oct 31 00:53:14 +0000 2017,@AcmeMobileHelp will try,,1086.0
+1093,115093,True,Fri Nov 17 21:22:46 +0000 2017,"@AcmeMobileHelp hey, is there a student discount?",1096,
+1096,AcmeMobileHelp,False,Fri Nov 17 22:40:46 +0000 2017,@115093 We're sorry for the trouble. Can you share more details so we can check? -MC,,1093.0
+1099,115094,True,Mon Oct 09 09:38:52 +0000 2017,@AcmeMobileHelp no signal since this morning,1103,
+1103,AcmeMobileHelp,False,Mon Oct 09 12:38:52 +0000 2017,"@115094 It should be working now, let us know! ^LS",,1099.0
+1109,115094,True,Sat Oct 14 21:52:43 +0000 2017,@AcmeMobileHelp checked this morning and my phone signal is perfect now. cheers!,1116,
+1116,AcmeMobileHelp,False,Sun Oct 15 01:47:43 +0000 2017,"@115094 Thanks for the update, we're on it. ^AB",,1109.0
+1118,115113,True,Sun Oct 22 23:56:04 +0000 2017,@AcmeMobileHelp I was charged twice this month,1124,
+1124,AcmeMobileHelp,False,Mon Oct 23 01:47:04 +0000 2017,"@115113 Thanks, we've passed this to the team. We'll reply here soon. -MC",1125,1118.0
+1125,115113,True,Mon Oct 23 02:50:04 +0000 2017,@AcmeMobileHelp ok thanks,,1124.0
+1127,115113,True,Sat Nov 11 01:17:46 +0000 2017,"@AcmeMobileHelp quick one, do you ship to Canada?",1131,
+1131,AcmeMobileHelp,False,Sat Nov 11 04:31:46 +0000 2017,@115113 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,1127.0
+1136,115123,True,Sun Nov 12 15:21:56 +0000 2017,@AcmeMobileHelp I was charged twice this month,,
+1143,115158,True,Sun Oct 29 22:19:39 +0000 2017,@AcmeMobileHelp no signal since this morning,1145,
+1145,AcmeMobileHelp,False,Mon Oct 30 01:04:39 +0000 2017,@115158 Please check this help article: https://t.co/hlp123 It has all the steps. ^KT,1148,1143.0
+1148,115158,True,Mon Oct 30 01:06:39 +0000 2017,@AcmeMobileHelp will try,,1145.0
+1154,115158,True,Tue Nov 14 08:43:19 +0000 2017,"@AcmeMobileHelp hey, is there a student discount?",1156,
+1156,AcmeMobileHelp,False,Tue Nov 14 09:20:19 +0000 2017,"@115158 Thanks for the update, we're on it. ^RP",,1154.0
+1163,115189,True,Sun Oct 08 14:18:48 +0000 2017,@AcmeMobileHelp my data stopped working,1166,
+1166,AcmeMobileHelp,False,Sun Oct 08 17:41:48 +0000 2017,"@115189 Please update your settings and verify your account, that should do it. ^RP",,1163.0
+1173,115189,True,Wed Oct 11 07:49:10 +0000 2017,"@AcmeMobileHelp sorry, what do you mean by verify the account? where do I do that",1174,
+1174,AcmeMobileHelp,False,Wed Oct 11 08:42:10 +0000 2017,"@115189 Thanks for the update, we're on it. ^LS",,1173.0
+1179,115214,True,Wed Oct 04 21:24:07 +0000 2017,@AcmeMobileHelp no signal since this morning,1185,
+1185,AcmeMobileHelp,False,Wed Oct 04 23:28:07 +0000 2017,"@115214 We've fixed it on our side, please check now. ^KT",,1179.0
+1189,115214,True,Sat Oct 07 03:40:45 +0000 2017,"@AcmeMobileHelp just wanted to say thanks, it worked!",1196,
+1196,AcmeMobileHelp,False,Sat Oct 07 06:09:45 +0000 2017,@115214 We're sorry for the trouble. Can you share more details so we can check? ^RP,,1189.0
+1202,115225,True,Sun Oct 29 02:04:45 +0000 2017,@AcmeMobileHelp no signal since this morning,1206,
+1206,AcmeMobileHelp,False,Sun Oct 29 02:24:45 +0000 2017,"@115225 We've processed it on our side, it should be back within 3 business days. ^RP",1208,1202.0
+1208,115225,True,Sun Oct 29 02:30:45 +0000 2017,@AcmeMobileHelp will try,,1206.0
+1215,115225,True,Thu Nov 09 00:16:51 +0000 2017,@AcmeMobileHelp different question: how do I add a second user to my plan?,1217,
+1217,AcmeMobileHelp,False,Thu Nov 09 03:32:51 +0000 2017,@115225 We're sorry for the trouble. Can you share more details so we can check? -DW,,1215.0
+1223,115256,True,Wed Nov 01 21:15:31 +0000 2017,@AcmeMobileHelp my data stopped working,1227,
+1227,AcmeMobileHelp,False,Thu Nov 02 00:54:31 +0000 2017,"@115256 Please update your settings and verify your account, that should do it. ^JM",,1223.0
+1230,115256,True,Sun Nov 05 12:59:32 +0000 2017,@AcmeMobileHelp you told me to update the settings but which option exactly? I can't find it,1232,
+1232,AcmeMobileHelp,False,Sun Nov 05 13:49:32 +0000 2017,@115256 We're sorry for the trouble. Can you share more details so we can check? ^KT,,1230.0
+1239,115288,True,Sun Oct 15 09:42:01 +0000 2017,@AcmeMobileHelp I was charged twice this month,1242,
+1242,AcmeMobileHelp,False,Sun Oct 15 11:59:01 +0000 2017,"@115288 Please update your settings and verify your account, that should do it. -MC",1249,1239.0
+1249,115288,True,Sun Oct 15 12:13:01 +0000 2017,@AcmeMobileHelp will try,,1242.0
+1255,115288,True,Sun Oct 15 14:58:21 +0000 2017,@AcmeMobileHelp you told me to update the settings but which option exactly? I can't find it,1260,
+1260,AcmeMobileHelp,False,Sun Oct 15 16:25:21 +0000 2017,@115288 We're sorry for the trouble. Can you share more details so we can check? ^LS,,1255.0
+1265,115300,True,Wed Oct 18 06:46:22 +0000 2017,@AcmeMobileHelp no signal since this morning,1270,
+1270,AcmeMobileHelp,False,Wed Oct 18 09:52:22 +0000 2017,@115300 We're looking into this and will get back to you shortly. ^KT,,1265.0
+1274,115314,True,Sun Oct 15 18:50:34 +0000 2017,@AcmeMobileHelp my data stopped working,1280,
+1280,AcmeMobileHelp,False,Sun Oct 15 19:36:34 +0000 2017,"@115314 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",,1274.0
+1286,115314,True,Wed Oct 18 04:28:20 +0000 2017,"@AcmeMobileHelp restarted like you said, same issue with my data plan. nothing changed",1289,
+1289,AcmeMobileHelp,False,Wed Oct 18 04:58:20 +0000 2017,"@115314 Thanks for the update, we're on it. ^RP",,1286.0
+1293,115319,True,Mon Nov 13 09:06:48 +0000 2017,@AcmeMobileHelp I was charged twice this month,1294,
+1294,AcmeMobileHelp,False,Mon Nov 13 09:12:48 +0000 2017,"@115319 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",1295,1293.0
+1295,115319,True,Mon Nov 13 09:44:48 +0000 2017,@AcmeMobileHelp ok thanks,,1294.0
+1302,115319,True,Tue Nov 14 02:12:09 +0000 2017,"@AcmeMobileHelp your fix didn't work, my bill is broken again",1308,
+1308,AcmeMobileHelp,False,Tue Nov 14 04:11:09 +0000 2017,@115319 We're sorry for the trouble. Can you share more details so we can check? ^RP,,1302.0
+1309,115359,True,Mon Nov 13 04:06:24 +0000 2017,@AcmeMobileHelp no signal since this morning,1316,
+1316,AcmeMobileHelp,False,Mon Nov 13 07:04:24 +0000 2017,@115359 Please check this help article: https://t.co/hlp123 It has all the steps. ^KT,1322,1309.0
+1322,115359,True,Mon Nov 13 08:10:24 +0000 2017,@AcmeMobileHelp will try,,1316.0
+1328,115376,True,Sun Oct 15 17:17:54 +0000 2017,@AcmeMobileHelp I was charged twice this month,1334,
+1334,AcmeMobileHelp,False,Sun Oct 15 18:44:54 +0000 2017,@115376 We're looking into this and will get back to you shortly. ^KT,1337,1328.0
+1337,115376,True,Sun Oct 15 19:01:54 +0000 2017,@AcmeMobileHelp ok thanks,,1334.0
+1338,115397,True,Sun Nov 12 08:26:50 +0000 2017,@AcmeMobileHelp my data stopped working,1339,
+1339,AcmeMobileHelp,False,Sun Nov 12 09:10:50 +0000 2017,"@115397 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^RP",1340,1338.0
+1340,115397,True,Sun Nov 12 09:27:50 +0000 2017,@AcmeMobileHelp will try,,1339.0
+1344,115397,True,Tue Nov 14 17:59:10 +0000 2017,"@AcmeMobileHelp your fix didn't work, my data plan is broken again",1347,
+1347,AcmeMobileHelp,False,Tue Nov 14 20:30:10 +0000 2017,@115397 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,1344.0
+1353,115422,True,Mon Nov 06 10:27:38 +0000 2017,@AcmeMobileHelp no signal since this morning,1358,
+1358,AcmeMobileHelp,False,Mon Nov 06 12:48:38 +0000 2017,"@115422 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -DW",1361,1353.0
+1361,115422,True,Mon Nov 06 13:40:38 +0000 2017,@AcmeMobileHelp will try,,1358.0
+1367,115437,True,Tue Oct 03 11:09:24 +0000 2017,@AcmeMobileHelp no signal since this morning,1374,
+1374,AcmeMobileHelp,False,Tue Oct 03 13:43:24 +0000 2017,@115437 We've escalated this and someone will call you back tomorrow. ^AB,,1367.0
+1380,115437,True,Tue Oct 03 21:34:36 +0000 2017,@AcmeMobileHelp still waiting for the refund you promised for my phone signal,1386,
+1386,AcmeMobileHelp,False,Tue Oct 03 23:50:36 +0000 2017,@115437 We're sorry for the trouble. Can you share more details so we can check? -MC,,1380.0
+1393,115438,True,Wed Nov 15 16:23:44 +0000 2017,@AcmeMobileHelp my data stopped working,1396,
+1396,AcmeMobileHelp,False,Wed Nov 15 18:08:44 +0000 2017,"@115438 We've processed it on our side, it should be back within 3 business days. -DW",1401,1393.0
+1401,115438,True,Wed Nov 15 18:39:44 +0000 2017,@AcmeMobileHelp will try,,1396.0
+1406,115460,True,Thu Oct 19 12:32:16 +0000 2017,@AcmeMobileHelp no signal since this morning,1408,
+1408,AcmeMobileHelp,False,Thu Oct 19 13:54:16 +0000 2017,@115460 Please check this help article: https://t.co/hlp123 It has all the steps. ^JM,1412,1406.0
+1412,115460,True,Thu Oct 19 15:16:16 +0000 2017,@AcmeMobileHelp will try,,1408.0
+1418,115460,True,Wed Oct 25 10:54:58 +0000 2017,@AcmeMobileHelp phone support sent me back to twitter. so who actually fixes my phone signal?,1419,
+1419,AcmeMobileHelp,False,Wed Oct 25 12:41:58 +0000 2017,"@115460 Thanks for the update, we're on it. -MC",,1418.0
+1421,115466,True,Thu Oct 19 07:08:02 +0000 2017,@AcmeMobileHelp I was charged twice this month,1427,
+1427,AcmeMobileHelp,False,Thu Oct 19 10:48:02 +0000 2017,@115466 We're looking into this and will get back to you shortly. -MC,1430,1421.0
+1430,115466,True,Thu Oct 19 12:04:02 +0000 2017,@AcmeMobileHelp will try,,1427.0
+1435,115466,True,Wed Oct 25 17:13:15 +0000 2017,"@AcmeMobileHelp it has been 3 days, is anyone there?",1441,
+1441,AcmeMobileHelp,False,Wed Oct 25 20:43:15 +0000 2017,"@115466 Thanks for the update, we're on it. -DW",,1435.0
+1445,115466,True,Thu Oct 26 06:57:37 +0000 2017,"@AcmeMobileHelp restarted like you said, same issue with my bill. nothing changed",1448,
+1448,AcmeMobileHelp,False,Thu Oct 26 08:25:37 +0000 2017,"@115466 Thanks for the update, we're on it. ^RP",,1445.0
+1450,115486,True,Sat Nov 04 15:32:59 +0000 2017,@AcmeMobileHelp no signal since this morning,1456,
+1456,AcmeMobileHelp,False,Sat Nov 04 17:14:59 +0000 2017,@115486 We've escalated this and someone will call you back tomorrow. ^JM,1457,1450.0
+1457,115486,True,Sat Nov 04 18:36:59 +0000 2017,@AcmeMobileHelp ok thanks,,1456.0
+1462,115517,True,Wed Oct 18 17:16:38 +0000 2017,@AcmeMobileHelp I was charged twice this month,1463,
+1463,AcmeMobileHelp,False,Wed Oct 18 17:56:38 +0000 2017,"@115517 Please update your settings and verify your account, that should do it. ^JM",1468,1462.0
+1468,115517,True,Wed Oct 18 18:12:38 +0000 2017,@AcmeMobileHelp ok thanks,,1463.0
+1469,115517,True,Sat Nov 04 12:10:04 +0000 2017,@AcmeMobileHelp different question: how do I add a second user to my plan?,1471,
+1471,AcmeMobileHelp,False,Sat Nov 04 13:47:04 +0000 2017,@115517 We're sorry for the trouble. Can you share more details so we can check? ^KT,,1469.0
+1478,115552,True,Sun Oct 29 11:41:22 +0000 2017,@AcmeMobileHelp no signal since this morning,1479,
+1479,AcmeMobileHelp,False,Sun Oct 29 15:18:22 +0000 2017,"@115552 Happy to help, can you tell us more? -DW",,1478.0
+1482,115552,True,Thu Nov 02 16:19:01 +0000 2017,@AcmeMobileHelp ??,1483,
+1483,AcmeMobileHelp,False,Thu Nov 02 18:23:01 +0000 2017,@115552 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,1482.0
+1490,115568,True,Thu Nov 02 09:59:00 +0000 2017,@AcmeMobileHelp I was charged twice this month,1493,
+1493,AcmeMobileHelp,False,Thu Nov 02 12:08:00 +0000 2017,"@115568 We've processed it on our side, it should be back within 3 business days. -MC",,1490.0
+1497,115568,True,Mon Nov 06 20:05:53 +0000 2017,@AcmeMobileHelp I was told someone would call me back yesterday. no call at all,1500,
+1500,AcmeMobileHelp,False,Mon Nov 06 22:17:53 +0000 2017,@115568 We're sorry for the trouble. Can you share more details so we can check? ^RP,,1497.0
+1504,115600,True,Mon Oct 16 14:07:37 +0000 2017,@AcmeMobileHelp I was charged twice this month,1509,
+1509,AcmeMobileHelp,False,Mon Oct 16 17:42:37 +0000 2017,@115600 We've escalated this and someone will call you back tomorrow. -MC,1511,1504.0
+1511,115600,True,Mon Oct 16 18:32:37 +0000 2017,@AcmeMobileHelp ok thanks,,1509.0
+1514,115600,True,Sat Oct 21 14:58:12 +0000 2017,@AcmeMobileHelp I was told someone would call me back yesterday. no call at all,1515,
+1515,AcmeMobileHelp,False,Sat Oct 21 16:25:12 +0000 2017,@115600 We're sorry for the trouble. Can you share more details so we can check? -MC,,1514.0
+1518,115629,True,Mon Oct 09 01:33:28 +0000 2017,@AcmeMobileHelp I was charged twice this month,1524,
+1524,AcmeMobileHelp,False,Mon Oct 09 04:03:28 +0000 2017,"@115629 We've fixed it on our side, please check now. ^LS",1528,1518.0
+1528,115629,True,Mon Oct 09 04:56:28 +0000 2017,@AcmeMobileHelp ok thanks,,1524.0
+1529,115629,True,Fri Oct 13 21:16:35 +0000 2017,@AcmeMobileHelp checked this morning and my bill is perfect now. cheers!,1533,
+1533,AcmeMobileHelp,False,Sat Oct 14 00:12:35 +0000 2017,@115629 We're sorry for the trouble. Can you share more details so we can check? -MC,,1529.0
+1535,115664,True,Thu Oct 12 00:42:22 +0000 2017,@AcmeMobileHelp my data stopped working,1540,
+1540,AcmeMobileHelp,False,Thu Oct 12 00:47:22 +0000 2017,"@115664 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^KT",1542,1535.0
+1542,115664,True,Thu Oct 12 01:21:22 +0000 2017,@AcmeMobileHelp will try,,1540.0
+1549,115664,True,Mon Oct 16 06:35:19 +0000 2017,"@AcmeMobileHelp hey, tried it all again this morning and my data plan still acts up exactly like before",1552,
+1552,AcmeMobileHelp,False,Mon Oct 16 10:25:19 +0000 2017,@115664 We're sorry for the trouble. Can you share more details so we can check? ^LS,,1549.0
+1553,115664,True,Wed Oct 18 09:19:28 +0000 2017,@AcmeMobileHelp still no answer about my data plan,1560,
+1560,AcmeMobileHelp,False,Wed Oct 18 12:41:28 +0000 2017,@115664 We're sorry for the trouble. Can you share more details so we can check? ^JM,,1553.0
+1562,115694,True,Sun Oct 15 01:21:43 +0000 2017,@AcmeMobileHelp my data stopped working,1566,
+1566,AcmeMobileHelp,False,Sun Oct 15 02:48:43 +0000 2017,@115694 We're looking into this and will get back to you shortly. ^JM,,1562.0
+1571,115694,True,Thu Oct 19 12:28:34 +0000 2017,@AcmeMobileHelp still no answer about my data plan,1576,
+1576,AcmeMobileHelp,False,Thu Oct 19 14:17:34 +0000 2017,@115694 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,1571.0
+1582,115730,True,Sat Oct 07 09:19:01 +0000 2017,@AcmeMobileHelp no signal since this morning,1585,
+1585,AcmeMobileHelp,False,Sat Oct 07 12:11:01 +0000 2017,"@115730 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^KT",1588,1582.0
+1588,115730,True,Sat Oct 07 12:57:01 +0000 2017,@AcmeMobileHelp ok thanks,,1585.0
+1589,115730,True,Thu Oct 19 08:21:45 +0000 2017,"@AcmeMobileHelp quick one, do you ship to Canada?",1591,
+1591,AcmeMobileHelp,False,Thu Oct 19 11:08:45 +0000 2017,@115730 We're sorry for the trouble. Can you share more details so we can check? ^LS,,1589.0
+1596,115732,True,Tue Nov 07 21:59:01 +0000 2017,@AcmeMobileHelp I was charged twice this month,1600,
+1600,AcmeMobileHelp,False,Wed Nov 08 01:37:01 +0000 2017,@115732 You can fix this in your account preferences. Let us know! -DW,1602,1596.0
+1602,115732,True,Wed Nov 08 02:17:01 +0000 2017,@AcmeMobileHelp ok thanks,,1600.0
+1608,115732,True,Mon Nov 13 09:47:04 +0000 2017,@AcmeMobileHelp you told me to update the settings but which option exactly? I can't find it,1613,
+1613,AcmeMobileHelp,False,Mon Nov 13 12:35:04 +0000 2017,"@115732 Thanks for the update, we're on it. -DW",,1608.0
+1619,115752,True,Mon Oct 30 10:24:22 +0000 2017,@AcmeMobileHelp I was charged twice this month,1621,
+1621,AcmeMobileHelp,False,Mon Oct 30 11:53:22 +0000 2017,@115752 Please check this help article: https://t.co/hlp123 It has all the steps. ^KT,1626,1619.0
+1626,115752,True,Mon Oct 30 12:04:22 +0000 2017,@AcmeMobileHelp ok thanks,,1621.0
+1628,115764,True,Wed Nov 15 02:04:15 +0000 2017,@AcmeMobileHelp I was charged twice this month,1630,
+1630,AcmeMobileHelp,False,Wed Nov 15 02:14:15 +0000 2017,"@115764 We've processed it on our side, it should be back within 3 business days. ^LS",1634,1628.0
+1634,115764,True,Wed Nov 15 02:42:15 +0000 2017,@AcmeMobileHelp will try,,1630.0
+1641,115764,True,Sat Nov 18 13:47:49 +0000 2017,@AcmeMobileHelp I was told someone would call me back yesterday. no call at all,1645,
+1645,AcmeMobileHelp,False,Sat Nov 18 17:33:49 +0000 2017,@115764 We're sorry for the trouble. Can you share more details so we can check? -DW,,1641.0
+1651,115764,True,Tue Nov 21 06:33:51 +0000 2017,"@AcmeMobileHelp your fix didn't work, my bill is broken again",1656,
+1656,AcmeMobileHelp,False,Tue Nov 21 08:16:51 +0000 2017,@115764 We're sorry for the trouble. Can you share more details so we can check? ^RP,,1651.0
+1663,115799,True,Mon Oct 09 13:33:07 +0000 2017,@AcmeMobileHelp no signal since this morning,1669,
+1669,AcmeMobileHelp,False,Mon Oct 09 17:04:07 +0000 2017,"@115799 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -MC",,1663.0
+1676,115799,True,Sat Oct 14 22:33:15 +0000 2017,@AcmeMobileHelp I did everything you suggested and my phone signal is still not working,1678,
+1678,AcmeMobileHelp,False,Sat Oct 14 23:52:15 +0000 2017,@115799 We're sorry for the trouble. Can you share more details so we can check? -MC,,1676.0
+1680,115799,True,Tue Oct 17 02:41:04 +0000 2017,"@AcmeMobileHelp restarted like you said, same issue with my phone signal. nothing changed",1681,
+1681,AcmeMobileHelp,False,Tue Oct 17 03:31:04 +0000 2017,@115799 We're sorry for the trouble. Can you share more details so we can check? -DW,,1680.0
+1686,115811,True,Mon Oct 09 14:33:37 +0000 2017,@AcmeMobileHelp my data stopped working,1687,
+1687,AcmeMobileHelp,False,Mon Oct 09 16:09:37 +0000 2017,"@115811 It should be working now, let us know! ^RP",,1686.0
+1689,115811,True,Sat Oct 14 13:13:15 +0000 2017,"@AcmeMobileHelp all good now, thank you so much for the help",1690,
+1690,AcmeMobileHelp,False,Sat Oct 14 16:18:15 +0000 2017,@115811 We're sorry for the trouble. Can you share more details so we can check? ^RP,,1689.0
+1697,115842,True,Thu Oct 05 04:50:21 +0000 2017,@AcmeMobileHelp no signal since this morning,1702,
+1702,AcmeMobileHelp,False,Thu Oct 05 05:00:21 +0000 2017,"@115842 Thanks, we've passed this to the team. We'll reply here soon. ^JM",1709,1697.0
+1709,115842,True,Thu Oct 05 05:26:21 +0000 2017,@AcmeMobileHelp ok thanks,,1702.0
+1712,115870,True,Sat Oct 21 22:40:57 +0000 2017,@AcmeMobileHelp my data stopped working,1719,
+1719,AcmeMobileHelp,False,Sat Oct 21 23:23:57 +0000 2017,"@115870 Thanks, we've passed this to the team. We'll reply here soon. ^RP",,1712.0
+1721,115870,True,Tue Oct 24 18:34:06 +0000 2017,@AcmeMobileHelp still no answer about my data plan,1727,
+1727,AcmeMobileHelp,False,Tue Oct 24 19:56:06 +0000 2017,"@115870 Thanks for the update, we're on it. -DW",,1721.0
+1733,115906,True,Tue Oct 24 03:57:04 +0000 2017,@AcmeMobileHelp my data stopped working,1739,
+1739,AcmeMobileHelp,False,Tue Oct 24 06:53:04 +0000 2017,"@115906 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^RP",1740,1733.0
+1740,115906,True,Tue Oct 24 07:15:04 +0000 2017,@AcmeMobileHelp ok thanks,,1739.0
+1741,115906,True,Sat Oct 28 11:58:53 +0000 2017,"@AcmeMobileHelp restarted like you said, same issue with my data plan. nothing changed",1747,
+1747,AcmeMobileHelp,False,Sat Oct 28 14:21:53 +0000 2017,@115906 We're sorry for the trouble. Can you share more details so we can check? ^JM,,1741.0
+1752,115924,True,Sat Nov 04 21:02:48 +0000 2017,@AcmeMobileHelp I was charged twice this month,,
+1754,115954,True,Thu Nov 09 12:01:22 +0000 2017,@AcmeMobileHelp I was charged twice this month,1758,
+1758,AcmeMobileHelp,False,Thu Nov 09 13:35:22 +0000 2017,"@115954 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",1764,1754.0
+1764,115954,True,Thu Nov 09 14:54:22 +0000 2017,@AcmeMobileHelp will try,,1758.0
+1770,115954,True,Wed Nov 15 16:14:18 +0000 2017,"@AcmeMobileHelp your fix didn't work, my bill is broken again",1774,
+1774,AcmeMobileHelp,False,Wed Nov 15 16:37:18 +0000 2017,@115954 We're sorry for the trouble. Can you share more details so we can check? ^LS,,1770.0
+1779,115988,True,Tue Nov 14 02:49:08 +0000 2017,@AcmeMobileHelp my data stopped working,1784,
+1784,AcmeMobileHelp,False,Tue Nov 14 06:48:08 +0000 2017,"@115988 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",,1779.0
+1788,115988,True,Sun Nov 19 11:52:09 +0000 2017,"@AcmeMobileHelp hey, tried it all again this morning and my data plan still acts up exactly like before",1790,
+1790,AcmeMobileHelp,False,Sun Nov 19 14:13:09 +0000 2017,"@115988 Thanks for the update, we're on it. ^AB",,1788.0
+1796,115997,True,Sat Oct 07 03:07:55 +0000 2017,@AcmeMobileHelp no signal since this morning,1801,
+1801,AcmeMobileHelp,False,Sat Oct 07 03:28:55 +0000 2017,"@115997 Per our policy, a replacement fee applies in this case. -MC",,1796.0
+1803,115997,True,Wed Oct 11 22:16:39 +0000 2017,"@AcmeMobileHelp your answer is ridiculous, I'm not paying for a replacement",1805,
+1805,AcmeMobileHelp,False,Wed Oct 11 23:37:39 +0000 2017,"@115997 Thanks for the update, we're on it. ^LS",,1803.0
+1809,116027,True,Fri Oct 13 10:00:00 +0000 2017,@AcmeMobileHelp my data stopped working,1811,
+1811,AcmeMobileHelp,False,Fri Oct 13 11:06:00 +0000 2017,"@116027 All sorted, thanks for your patience! ^RP",,1809.0
+1815,116027,True,Wed Oct 18 11:29:36 +0000 2017,"@AcmeMobileHelp hey, is there a student discount?",1816,
+1816,AcmeMobileHelp,False,Wed Oct 18 13:35:36 +0000 2017,"@116027 Thanks for the update, we're on it. ^RP",,1815.0
+1823,116059,True,Thu Oct 19 16:03:55 +0000 2017,@AcmeMobileHelp no signal since this morning,1826,
+1826,AcmeMobileHelp,False,Thu Oct 19 18:19:55 +0000 2017,"@116059 All sorted, thanks for your patience! ^KT",,1823.0
+1831,116097,True,Wed Oct 18 14:36:50 +0000 2017,@AcmeMobileHelp no signal since this morning,1833,
+1833,AcmeMobileHelp,False,Wed Oct 18 14:58:50 +0000 2017,@116097 You can fix this in your account preferences. Let us know! ^RP,,1831.0
+1837,116097,True,Mon Oct 23 21:22:27 +0000 2017,@AcmeMobileHelp you told me to update the settings but which option exactly? I can't find it,1839,
+1839,AcmeMobileHelp,False,Mon Oct 23 21:26:27 +0000 2017,@116097 We're sorry for the trouble. Can you share more details so we can check? ^JM,,1837.0
+1842,116097,True,Wed Oct 25 12:38:48 +0000 2017,@AcmeMobileHelp still no answer about my phone signal,1844,
+1844,AcmeMobileHelp,False,Wed Oct 25 13:23:48 +0000 2017,@116097 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,1842.0
+1850,116133,True,Sun Nov 12 04:42:34 +0000 2017,@AcmeMobileHelp no signal since this morning,1852,
+1852,AcmeMobileHelp,False,Sun Nov 12 04:53:34 +0000 2017,@116133 We've escalated this and someone will call you back tomorrow. -MC,1858,1850.0
+1858,116133,True,Sun Nov 12 06:18:34 +0000 2017,@AcmeMobileHelp will try,,1852.0
+1861,116137,True,Fri Oct 06 11:29:36 +0000 2017,@AcmeMobileHelp I was charged twice this month,1867,
+1867,AcmeMobileHelp,False,Fri Oct 06 11:50:36 +0000 2017,"@116137 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -DW",1869,1861.0
+1869,116137,True,Fri Oct 06 13:01:36 +0000 2017,@AcmeMobileHelp ok thanks,,1867.0
+1876,116137,True,Mon Oct 09 22:35:51 +0000 2017,"@AcmeMobileHelp restarted like you said, same issue with my bill. nothing changed",1879,
+1879,AcmeMobileHelp,False,Mon Oct 09 22:51:51 +0000 2017,@116137 We're sorry for the trouble. Can you share more details so we can check? ^RP,,1876.0
+1880,116137,True,Wed Oct 11 09:52:54 +0000 2017,@AcmeMobileHelp that policy makes no sense. I want to speak to a manager,1885,
+1885,AcmeMobileHelp,False,Wed Oct 11 11:40:54 +0000 2017,@116137 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,1880.0
+1892,116143,True,Wed Nov 01 19:53:27 +0000 2017,@AcmeMobileHelp I was charged twice this month,1895,
+1895,AcmeMobileHelp,False,Wed Nov 01 21:22:27 +0000 2017,"@116143 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",1901,1892.0
+1901,116143,True,Wed Nov 01 22:46:27 +0000 2017,@AcmeMobileHelp will try,,1895.0
+1907,116143,True,Thu Nov 02 15:00:23 +0000 2017,"@AcmeMobileHelp your fix didn't work, my bill is broken again",1912,
+1912,AcmeMobileHelp,False,Thu Nov 02 18:15:23 +0000 2017,@116143 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,1907.0
+1913,116159,True,Fri Nov 10 14:45:01 +0000 2017,@AcmeMobileHelp I was charged twice this month,1920,
+1920,AcmeMobileHelp,False,Fri Nov 10 15:23:01 +0000 2017,@116159 We've escalated this and someone will call you back tomorrow. ^AB,1921,1913.0
+1921,116159,True,Fri Nov 10 16:13:01 +0000 2017,@AcmeMobileHelp will try,,1920.0
+1927,116191,True,Sat Oct 21 13:47:10 +0000 2017,@AcmeMobileHelp my data stopped working,1933,
+1933,AcmeMobileHelp,False,Sat Oct 21 16:21:10 +0000 2017,"@116191 We've fixed it on our side, please check now. ^AB",1935,1927.0
+1935,116191,True,Sat Oct 21 16:55:10 +0000 2017,@AcmeMobileHelp will try,,1933.0
+1941,116191,True,Fri Oct 27 10:04:50 +0000 2017,"@AcmeMobileHelp problem solved, appreciate it",1946,
+1946,AcmeMobileHelp,False,Fri Oct 27 12:34:50 +0000 2017,"@116191 Thanks for the update, we're on it. -DW",,1941.0
+1950,116203,True,Sat Nov 04 22:24:34 +0000 2017,@AcmeMobileHelp I was charged twice this month,1952,
+1952,AcmeMobileHelp,False,Sun Nov 05 00:58:34 +0000 2017,"@116203 We've processed it on our side, it should be back within 3 business days. ^AB",1956,1950.0
+1956,116203,True,Sun Nov 05 02:25:34 +0000 2017,@AcmeMobileHelp will try,,1952.0
+1960,116214,True,Tue Nov 14 15:00:47 +0000 2017,@AcmeMobileHelp my data stopped working,1964,
+1964,AcmeMobileHelp,False,Tue Nov 14 16:07:47 +0000 2017,"@116214 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",,1960.0
+1970,116214,True,Mon Dec 04 02:30:27 +0000 2017,"@AcmeMobileHelp hey, is there a student discount?",1975,
+1975,AcmeMobileHelp,False,Mon Dec 04 02:34:27 +0000 2017,"@116214 Thanks for the update, we're on it. ^LS",,1970.0
+1979,116222,True,Thu Oct 12 19:09:03 +0000 2017,@AcmeMobileHelp no signal since this morning,1985,
+1985,AcmeMobileHelp,False,Thu Oct 12 22:28:03 +0000 2017,"@116222 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^LS",1988,1979.0
+1988,116222,True,Thu Oct 12 23:08:03 +0000 2017,@AcmeMobileHelp ok thanks,,1985.0
+1995,116222,True,Tue Oct 17 00:55:51 +0000 2017,"@AcmeMobileHelp hey, tried it all again this morning and my phone signal still acts up exactly like before",1997,
+1997,AcmeMobileHelp,False,Tue Oct 17 02:18:51 +0000 2017,@116222 We're sorry for the trouble. Can you share more details so we can check? -MC,,1995.0
+2000,116222,True,Tue Oct 17 07:25:41 +0000 2017,"@AcmeMobileHelp restarted like you said, same issue with my phone signal. nothing changed",2004,
+2004,AcmeMobileHelp,False,Tue Oct 17 10:30:41 +0000 2017,"@116222 Thanks for the update, we're on it. -MC",,2000.0
+2007,116237,True,Wed Nov 01 08:41:00 +0000 2017,@AcmeMobileHelp my data stopped working,2011,
+2011,AcmeMobileHelp,False,Wed Nov 01 11:29:00 +0000 2017,"@116237 We've processed it on our side, it should be back within 3 business days. ^RP",2016,2007.0
+2016,116237,True,Wed Nov 01 11:57:00 +0000 2017,@AcmeMobileHelp will try,,2011.0
+2019,116237,True,Tue Nov 07 10:23:39 +0000 2017,@AcmeMobileHelp it's thursday and the money from monday's mistake is still not in my account,2023,
+2023,AcmeMobileHelp,False,Tue Nov 07 11:54:39 +0000 2017,"@116237 Thanks for the update, we're on it. -MC",,2019.0
+2025,116237,True,Wed Nov 08 11:45:02 +0000 2017,"@AcmeMobileHelp restarted like you said, same issue with my data plan. nothing changed",2031,
+2031,AcmeMobileHelp,False,Wed Nov 08 15:25:02 +0000 2017,@116237 We're sorry for the trouble. Can you share more details so we can check? ^LS,,2025.0
+2032,116275,True,Sun Oct 22 14:48:54 +0000 2017,@AcmeMobileHelp no signal since this morning,2037,
+2037,AcmeMobileHelp,False,Sun Oct 22 18:15:54 +0000 2017,"@116275 Thanks, we've passed this to the team. We'll reply here soon. ^RP",2042,2032.0
+2042,116275,True,Sun Oct 22 19:00:54 +0000 2017,@AcmeMobileHelp will try,,2037.0
+2049,116275,True,Wed Oct 25 12:46:29 +0000 2017,@AcmeMobileHelp still no answer about my phone signal,2052,
+2052,AcmeMobileHelp,False,Wed Oct 25 15:26:29 +0000 2017,"@116275 Thanks for the update, we're on it. ^RP",,2049.0
+2057,116298,True,Thu Oct 26 00:01:55 +0000 2017,@AcmeMobileHelp I was charged twice this month,2060,
+2060,AcmeMobileHelp,False,Thu Oct 26 02:33:55 +0000 2017,@116298 You can fix this in your account preferences. Let us know! ^LS,,2057.0
+2065,116300,True,Fri Oct 13 01:59:53 +0000 2017,@AcmeMobileHelp no signal since this morning,2066,
+2066,AcmeMobileHelp,False,Fri Oct 13 02:50:53 +0000 2017,"@116300 We've processed it on our side, it should be back within 3 business days. ^KT",2067,2065.0
+2067,116300,True,Fri Oct 13 04:01:53 +0000 2017,@AcmeMobileHelp ok thanks,,2066.0
+2069,116308,True,Fri Oct 20 13:08:51 +0000 2017,@AcmeMobileHelp no signal since this morning,2070,
+2070,AcmeMobileHelp,False,Fri Oct 20 14:33:51 +0000 2017,@116308 Please call our support line so the team can help you directly. ^KT,2071,2069.0
+2071,116308,True,Fri Oct 20 14:47:51 +0000 2017,@AcmeMobileHelp ok thanks,,2070.0
+2078,116318,True,Mon Oct 30 15:12:36 +0000 2017,@AcmeMobileHelp I was charged twice this month,2083,
+2083,AcmeMobileHelp,False,Mon Oct 30 17:19:36 +0000 2017,@116318 Done! It's fixed on our end. Anything else? ^KT,2084,2078.0
+2084,116318,True,Mon Oct 30 17:44:36 +0000 2017,@AcmeMobileHelp will try,,2083.0
+2091,116318,True,Wed Nov 01 08:11:40 +0000 2017,"@AcmeMobileHelp hey, is there a student discount?",2096,
+2096,AcmeMobileHelp,False,Wed Nov 01 12:08:40 +0000 2017,@116318 We're sorry for the trouble. Can you share more details so we can check? ^AB,,2091.0
+2097,116346,True,Fri Oct 06 18:21:28 +0000 2017,@AcmeMobileHelp no signal since this morning,2100,
+2100,AcmeMobileHelp,False,Fri Oct 06 20:18:28 +0000 2017,"@116346 Happy to help, can you tell us more? ^LS",2101,2097.0
+2101,116346,True,Fri Oct 06 20:32:28 +0000 2017,@AcmeMobileHelp ok thanks,,2100.0
+2107,116346,True,Mon Oct 09 16:28:34 +0000 2017,@AcmeMobileHelp ...,2109,
+2109,AcmeMobileHelp,False,Mon Oct 09 18:50:34 +0000 2017,@116346 We're sorry for the trouble. Can you share more details so we can check? ^RP,,2107.0
+2116,116369,True,Mon Oct 02 22:15:39 +0000 2017,@AcmeMobileHelp no signal since this morning,2118,
+2118,AcmeMobileHelp,False,Mon Oct 02 22:44:39 +0000 2017,"@116369 All sorted, thanks for your patience! -DW",2125,2116.0
+2125,116369,True,Mon Oct 02 23:32:39 +0000 2017,@AcmeMobileHelp ok thanks,,2118.0
+2132,116369,True,Sun Oct 08 16:28:37 +0000 2017,@AcmeMobileHelp different question: how do I add a second user to my plan?,2135,
+2135,AcmeMobileHelp,False,Sun Oct 08 19:09:37 +0000 2017,"@116369 Thanks for the update, we're on it. ^KT",,2132.0
+2139,116397,True,Fri Nov 10 13:23:21 +0000 2017,@AcmeMobileHelp my data stopped working,2144,
+2144,AcmeMobileHelp,False,Fri Nov 10 14:30:21 +0000 2017,@116397 Done! It's fixed on our end. Anything else? ^AB,2147,2139.0
+2147,116397,True,Fri Nov 10 15:50:21 +0000 2017,@AcmeMobileHelp will try,,2144.0
+2153,116397,True,Sun Nov 12 14:31:13 +0000 2017,"@AcmeMobileHelp quick one, do you ship to Canada?",2158,
+2158,AcmeMobileHelp,False,Sun Nov 12 17:51:13 +0000 2017,@116397 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,2153.0
+2160,116426,True,Wed Oct 18 19:15:51 +0000 2017,@AcmeMobileHelp no signal since this morning,2165,
+2165,AcmeMobileHelp,False,Wed Oct 18 19:18:51 +0000 2017,"@116426 We've processed it on our side, it should be back within 3 business days. ^JM",2168,2160.0
+2168,116426,True,Wed Oct 18 20:36:51 +0000 2017,@AcmeMobileHelp will try,,2165.0
+2171,116426,True,Sat Nov 04 20:48:27 +0000 2017,@AcmeMobileHelp different question: how do I add a second user to my plan?,2175,
+2175,AcmeMobileHelp,False,Sat Nov 04 22:34:27 +0000 2017,"@116426 Thanks for the update, we're on it. -DW",,2171.0
+2179,116466,True,Sun Oct 29 19:14:34 +0000 2017,@AcmeMobileHelp I was charged twice this month,2184,
+2184,AcmeMobileHelp,False,Sun Oct 29 21:46:34 +0000 2017,"@116466 Unfortunately this is outside the refund window, so we can't refund it. ^KT",2187,2179.0
+2187,116466,True,Sun Oct 29 22:36:34 +0000 2017,@AcmeMobileHelp will try,,2184.0
+2194,116466,True,Wed Nov 01 07:28:04 +0000 2017,"@AcmeMobileHelp your answer is ridiculous, I'm not paying for a replacement",2197,
+2197,AcmeMobileHelp,False,Wed Nov 01 09:33:04 +0000 2017,@116466 We're sorry for the trouble. Can you share more details so we can check? ^AB,,2194.0
+2204,116469,True,Tue Oct 03 14:00:27 +0000 2017,@AcmeMobileHelp my data stopped working,2207,
+2207,AcmeMobileHelp,False,Tue Oct 03 15:27:27 +0000 2017,@116469 Please call our support line so the team can help you directly. ^LS,,2204.0
+2209,116469,True,Mon Oct 09 14:17:18 +0000 2017,@AcmeMobileHelp phone support sent me back to twitter. so who actually fixes my data plan?,2210,
+2210,AcmeMobileHelp,False,Mon Oct 09 15:15:18 +0000 2017,@116469 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,2209.0
+2216,116469,True,Wed Oct 11 19:09:28 +0000 2017,"@AcmeMobileHelp it has been 3 days, is anyone there?",2221,
+2221,AcmeMobileHelp,False,Wed Oct 11 21:48:28 +0000 2017,@116469 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,2216.0
+2228,116509,True,Sun Oct 15 10:02:50 +0000 2017,@AcmeMobileHelp no signal since this morning,2233,
+2233,AcmeMobileHelp,False,Sun Oct 15 13:27:50 +0000 2017,"@116509 We've processed it on our side, it should be back within 3 business days. ^AB",,2228.0
+2236,116534,True,Sun Oct 08 21:27:53 +0000 2017,@NovaBankCares my debit card got blocked at the store,2243,
+2243,NovaBankCares,False,Sun Oct 08 23:52:53 +0000 2017,"@116534 Thanks, we've passed this to the team. We'll reply here soon. -DW",2245,2236.0
+2245,116534,True,Mon Oct 09 00:50:53 +0000 2017,@NovaBankCares ok thanks,,2243.0
+2249,116561,True,Mon Oct 09 10:41:02 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2256,
+2256,NovaBankCares,False,Mon Oct 09 13:10:02 +0000 2017,"@116561 We've processed it on our side, it should be back within 3 business days. ^LS",,2249.0
+2259,116561,True,Fri Oct 13 17:02:48 +0000 2017,@NovaBankCares I was told someone would call me back yesterday. no call at all,2260,
+2260,NovaBankCares,False,Fri Oct 13 20:24:48 +0000 2017,@116561 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,2259.0
+2267,116589,True,Sat Oct 14 19:12:07 +0000 2017,@NovaBankCares my debit card got blocked at the store,2270,
+2270,NovaBankCares,False,Sat Oct 14 22:40:07 +0000 2017,"@116589 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. -DW",,2267.0
+2271,116589,True,Sun Oct 15 16:32:21 +0000 2017,"@NovaBankCares hey, tried it all again this morning and my card still acts up exactly like before",2272,
+2272,NovaBankCares,False,Sun Oct 15 18:07:21 +0000 2017,@116589 We're sorry for the trouble. Can you share more details so we can check? ^LS,,2271.0
+2273,116590,True,Sat Oct 28 08:43:56 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2278,
+2278,NovaBankCares,False,Sat Oct 28 10:03:56 +0000 2017,"@116590 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^RP",2285,2273.0
+2285,116590,True,Sat Oct 28 10:19:56 +0000 2017,@NovaBankCares ok thanks,,2278.0
+2288,116590,True,Wed Nov 01 22:32:46 +0000 2017,"@NovaBankCares hey, tried it all again this morning and my transfer still acts up exactly like before",2295,
+2295,NovaBankCares,False,Thu Nov 02 01:56:46 +0000 2017,"@116590 Thanks for the update, we're on it. -MC",,2288.0
+2296,116590,True,Thu Nov 02 18:20:41 +0000 2017,@NovaBankCares still no answer about my transfer,2301,
+2301,NovaBankCares,False,Thu Nov 02 20:02:41 +0000 2017,"@116590 Thanks for the update, we're on it. ^KT",,2296.0
+2304,116621,True,Wed Oct 11 01:22:44 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2309,
+2309,NovaBankCares,False,Wed Oct 11 04:49:44 +0000 2017,"@116621 Please update your settings and verify your account, that should do it. -MC",2314,2304.0
+2314,116621,True,Wed Oct 11 04:57:44 +0000 2017,@NovaBankCares will try,,2309.0
+2320,116621,True,Tue Oct 17 07:01:52 +0000 2017,@NovaBankCares I opened the app but there's no menu like you described. what's the next step?,2323,
+2323,NovaBankCares,False,Tue Oct 17 10:59:52 +0000 2017,@116621 We're sorry for the trouble. Can you share more details so we can check? ^AB,,2320.0
+2326,116621,True,Wed Oct 18 17:05:13 +0000 2017,@NovaBankCares so I have to pay the fee even though it was your error? this is unacceptable,2332,
+2332,NovaBankCares,False,Wed Oct 18 17:39:13 +0000 2017,@116621 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,2326.0
+2335,116648,True,Tue Oct 24 01:54:27 +0000 2017,@NovaBankCares my debit card got blocked at the store,2336,
+2336,NovaBankCares,False,Tue Oct 24 05:10:27 +0000 2017,"@116648 We've fixed it on our side, please check now. ^LS",,2335.0
+2339,116661,True,Tue Oct 03 01:36:15 +0000 2017,@NovaBankCares I can't log into the app,2346,
+2346,NovaBankCares,False,Tue Oct 03 03:46:15 +0000 2017,@116661 Please check this help article: https://t.co/hlp123 It has all the steps. ^RP,,2339.0
+2349,116661,True,Thu Oct 05 09:15:39 +0000 2017,"@NovaBankCares the link you sent just goes to the FAQ, it doesn't help with the app",2354,
+2354,NovaBankCares,False,Thu Oct 05 12:53:39 +0000 2017,@116661 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,2349.0
+2360,116693,True,Sat Oct 21 21:06:02 +0000 2017,@NovaBankCares I can't log into the app,2367,
+2367,NovaBankCares,False,Sat Oct 21 23:23:02 +0000 2017,"@116693 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^KT",2372,2360.0
+2372,116693,True,Sun Oct 22 00:16:02 +0000 2017,@NovaBankCares will try,,2367.0
+2377,116699,True,Tue Oct 31 11:50:19 +0000 2017,@NovaBankCares I can't log into the app,2379,
+2379,NovaBankCares,False,Tue Oct 31 12:03:19 +0000 2017,"@116699 We've fixed it on our side, please check now. ^LS",2383,2377.0
+2383,116699,True,Tue Oct 31 13:29:19 +0000 2017,@NovaBankCares will try,,2379.0
+2386,116699,True,Sun Nov 05 05:24:30 +0000 2017,"@NovaBankCares problem solved, appreciate it",2390,
+2390,NovaBankCares,False,Sun Nov 05 05:57:30 +0000 2017,@116699 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,2386.0
+2396,116714,True,Wed Oct 11 19:50:44 +0000 2017,@NovaBankCares I can't log into the app,2399,
+2399,NovaBankCares,False,Wed Oct 11 22:08:44 +0000 2017,@116714 We're looking into this and will get back to you shortly. ^LS,,2396.0
+2405,116714,True,Tue Oct 17 19:04:58 +0000 2017,@NovaBankCares hello?? been waiting two days for an answer,2407,
+2407,NovaBankCares,False,Tue Oct 17 21:41:58 +0000 2017,@116714 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,2405.0
+2414,116742,True,Sat Oct 21 15:51:36 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2416,
+2416,NovaBankCares,False,Sat Oct 21 17:28:36 +0000 2017,"@116742 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. -MC",2421,2414.0
+2421,116742,True,Sat Oct 21 18:47:36 +0000 2017,@NovaBankCares ok thanks,,2416.0
+2428,116742,True,Mon Nov 06 02:01:34 +0000 2017,"@NovaBankCares hey, is there a student discount?",2430,
+2430,NovaBankCares,False,Mon Nov 06 03:25:34 +0000 2017,@116742 We're sorry for the trouble. Can you share more details so we can check? -DW,,2428.0
+2432,116764,True,Fri Oct 06 11:17:40 +0000 2017,@NovaBankCares I can't log into the app,2434,
+2434,NovaBankCares,False,Fri Oct 06 14:24:40 +0000 2017,"@116764 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. -MC",,2432.0
+2437,116804,True,Mon Oct 23 15:34:49 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,,
+2443,116823,True,Fri Oct 06 11:54:15 +0000 2017,@NovaBankCares I can't log into the app,2450,
+2450,NovaBankCares,False,Fri Oct 06 15:24:15 +0000 2017,"@116823 Unfortunately this is outside the refund window, so we can't refund it. ^AB",2455,2443.0
+2455,116823,True,Fri Oct 06 16:15:15 +0000 2017,@NovaBankCares ok thanks,,2450.0
+2456,116823,True,Wed Oct 11 12:56:39 +0000 2017,@NovaBankCares I've been a customer for 8 years and that's the best you can do? not ok,2459,
+2459,NovaBankCares,False,Wed Oct 11 15:57:39 +0000 2017,@116823 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,2456.0
+2462,116823,True,Fri Oct 13 06:56:59 +0000 2017,@NovaBankCares hello?? been waiting two days for an answer,2465,
+2465,NovaBankCares,False,Fri Oct 13 10:26:59 +0000 2017,@116823 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,2462.0
+2468,116838,True,Mon Oct 30 03:52:59 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,,
+2470,116849,True,Mon Nov 13 12:44:43 +0000 2017,@NovaBankCares I can't log into the app,2473,
+2473,NovaBankCares,False,Mon Nov 13 13:55:43 +0000 2017,"@116849 Thanks for reaching out, we're checking. -MC",2474,2470.0
+2474,116849,True,Mon Nov 13 14:47:43 +0000 2017,@NovaBankCares will try,,2473.0
+2478,116849,True,Sun Nov 19 21:07:32 +0000 2017,@NovaBankCares ??,2484,
+2484,NovaBankCares,False,Mon Nov 20 00:23:32 +0000 2017,@116849 We're sorry for the trouble. Can you share more details so we can check? ^RP,,2478.0
+2490,116849,True,Mon Nov 20 03:25:24 +0000 2017,@NovaBankCares I did everything you suggested and the app is still not working,2493,
+2493,NovaBankCares,False,Mon Nov 20 03:38:24 +0000 2017,@116849 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,2490.0
+2500,116858,True,Tue Oct 03 07:35:11 +0000 2017,@NovaBankCares my debit card got blocked at the store,2507,
+2507,NovaBankCares,False,Tue Oct 03 07:51:11 +0000 2017,@116858 Please call our support line so the team can help you directly. ^JM,2509,2500.0
+2509,116858,True,Tue Oct 03 09:09:11 +0000 2017,@NovaBankCares ok thanks,,2507.0
+2513,116858,True,Mon Oct 09 16:36:49 +0000 2017,"@NovaBankCares I called the number you gave me and waited 40 minutes, nobody picked up",2514,
+2514,NovaBankCares,False,Mon Oct 09 16:47:49 +0000 2017,@116858 We're sorry for the trouble. Can you share more details so we can check? ^JM,,2513.0
+2518,116891,True,Sun Oct 22 21:48:29 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2519,
+2519,NovaBankCares,False,Mon Oct 23 01:29:29 +0000 2017,"@116891 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",2523,2518.0
+2523,116891,True,Mon Oct 23 02:10:29 +0000 2017,@NovaBankCares will try,,2519.0
+2524,116891,True,Mon Oct 23 17:03:09 +0000 2017,@NovaBankCares I did everything you suggested and my transfer is still not working,2526,
+2526,NovaBankCares,False,Mon Oct 23 18:08:09 +0000 2017,@116891 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,2524.0
+2527,116895,True,Mon Oct 02 17:34:31 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,,
+2530,116915,True,Fri Oct 20 04:48:06 +0000 2017,@NovaBankCares my debit card got blocked at the store,2532,
+2532,NovaBankCares,False,Fri Oct 20 08:43:06 +0000 2017,"@116915 Unfortunately this is outside the refund window, so we can't refund it. ^KT",,2530.0
+2539,116931,True,Fri Oct 06 02:36:03 +0000 2017,@NovaBankCares my debit card got blocked at the store,2546,
+2546,NovaBankCares,False,Fri Oct 06 05:13:03 +0000 2017,"@116931 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -MC",,2539.0
+2551,116931,True,Fri Oct 06 10:21:13 +0000 2017,"@NovaBankCares your fix didn't work, my card is broken again",2556,
+2556,NovaBankCares,False,Fri Oct 06 13:28:13 +0000 2017,@116931 We're sorry for the trouble. Can you share more details so we can check? ^JM,,2551.0
+2560,116942,True,Sun Oct 29 10:53:01 +0000 2017,@NovaBankCares my debit card got blocked at the store,2562,
+2562,NovaBankCares,False,Sun Oct 29 11:11:01 +0000 2017,"@116942 Per our policy, a replacement fee applies in this case. -MC",,2560.0
+2566,116949,True,Sat Oct 21 11:19:43 +0000 2017,@NovaBankCares I can't log into the app,2572,
+2572,NovaBankCares,False,Sat Oct 21 15:18:43 +0000 2017,"@116949 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^AB",2576,2566.0
+2576,116949,True,Sat Oct 21 16:11:43 +0000 2017,@NovaBankCares ok thanks,,2572.0
+2577,116970,True,Fri Oct 27 01:50:00 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2581,
+2581,NovaBankCares,False,Fri Oct 27 03:34:00 +0000 2017,"@116970 We've processed it on our side, it should be back within 3 business days. ^LS",2583,2577.0
+2583,116970,True,Fri Oct 27 04:42:00 +0000 2017,@NovaBankCares ok thanks,,2581.0
+2587,116991,True,Mon Oct 23 09:16:38 +0000 2017,@NovaBankCares I can't log into the app,2593,
+2593,NovaBankCares,False,Mon Oct 23 13:07:38 +0000 2017,"@116991 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. -DW",,2587.0
+2597,116991,True,Sun Nov 05 16:24:25 +0000 2017,"@NovaBankCares hi, can you tell me your opening hours for the holidays?",2599,
+2599,NovaBankCares,False,Sun Nov 05 18:08:25 +0000 2017,"@116991 Thanks for the update, we're on it. -MC",,2597.0
+2605,117025,True,Sat Oct 28 05:19:44 +0000 2017,@NovaBankCares my debit card got blocked at the store,,
+2609,117034,True,Fri Nov 03 21:15:04 +0000 2017,@NovaBankCares I can't log into the app,2611,
+2611,NovaBankCares,False,Fri Nov 03 21:59:04 +0000 2017,"@117034 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^RP",,2609.0
+2612,117036,True,Tue Nov 07 11:20:53 +0000 2017,@NovaBankCares I can't log into the app,,
+2616,117044,True,Thu Nov 16 02:04:05 +0000 2017,@NovaBankCares I can't log into the app,2617,
+2617,NovaBankCares,False,Thu Nov 16 05:59:05 +0000 2017,@117044 We've escalated this and someone will call you back tomorrow. ^RP,,2616.0
+2621,117059,True,Sun Nov 05 04:06:53 +0000 2017,@NovaBankCares my debit card got blocked at the store,2627,
+2627,NovaBankCares,False,Sun Nov 05 07:15:53 +0000 2017,"@117059 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^JM",2632,2621.0
+2632,117059,True,Sun Nov 05 08:17:53 +0000 2017,@NovaBankCares will try,,2627.0
+2633,117068,True,Fri Oct 20 04:08:25 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2635,
+2635,NovaBankCares,False,Fri Oct 20 04:55:25 +0000 2017,"@117068 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",2638,2633.0
+2638,117068,True,Fri Oct 20 06:04:25 +0000 2017,@NovaBankCares will try,,2635.0
+2640,117068,True,Mon Oct 23 06:18:08 +0000 2017,@NovaBankCares I did everything you suggested and my transfer is still not working,2644,
+2644,NovaBankCares,False,Mon Oct 23 07:15:08 +0000 2017,@117068 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,2640.0
+2651,117106,True,Sun Oct 29 15:13:36 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2654,
+2654,NovaBankCares,False,Sun Oct 29 16:57:36 +0000 2017,@117106 We've escalated this and someone will call you back tomorrow. -MC,2655,2651.0
+2655,117106,True,Sun Oct 29 17:40:36 +0000 2017,@NovaBankCares ok thanks,,2654.0
+2656,117106,True,Sat Nov 04 09:30:40 +0000 2017,@NovaBankCares still waiting for the refund you promised for my transfer,2663,
+2663,NovaBankCares,False,Sat Nov 04 12:40:40 +0000 2017,@117106 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,2656.0
+2669,117106,True,Tue Nov 07 04:14:21 +0000 2017,"@NovaBankCares it has been 3 days, is anyone there?",2673,
+2673,NovaBankCares,False,Tue Nov 07 07:20:21 +0000 2017,@117106 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,2669.0
+2676,117111,True,Sun Oct 08 02:26:42 +0000 2017,@NovaBankCares I can't log into the app,2677,
+2677,NovaBankCares,False,Sun Oct 08 04:50:42 +0000 2017,@117111 Please call our support line so the team can help you directly. ^KT,2684,2676.0
+2684,117111,True,Sun Oct 08 06:08:42 +0000 2017,@NovaBankCares ok thanks,,2677.0
+2687,117111,True,Tue Oct 10 22:43:58 +0000 2017,"@NovaBankCares I called the number you gave me and waited 40 minutes, nobody picked up",2688,
+2688,NovaBankCares,False,Tue Oct 10 23:50:58 +0000 2017,@117111 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,2687.0
+2691,117114,True,Sun Nov 12 16:05:08 +0000 2017,@NovaBankCares my debit card got blocked at the store,2692,
+2692,NovaBankCares,False,Sun Nov 12 19:43:08 +0000 2017,"@117114 We've processed it on our side, it should be back within 3 business days. ^JM",,2691.0
+2697,117114,True,Fri Nov 17 12:17:03 +0000 2017,@NovaBankCares you said it would be back in 3 business days. it's been 6 and nothing,2702,
+2702,NovaBankCares,False,Fri Nov 17 16:09:03 +0000 2017,@117114 We're sorry for the trouble. Can you share more details so we can check? ^JM,,2697.0
+2707,117122,True,Wed Nov 15 21:34:27 +0000 2017,@NovaBankCares I can't log into the app,2713,
+2713,NovaBankCares,False,Wed Nov 15 23:20:27 +0000 2017,"@117122 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -DW",,2707.0
+2714,117122,True,Fri Nov 17 12:18:52 +0000 2017,"@NovaBankCares restarted like you said, same issue with the app. nothing changed",2716,
+2716,NovaBankCares,False,Fri Nov 17 16:12:52 +0000 2017,"@117122 Thanks for the update, we're on it. -DW",,2714.0
+2720,117122,True,Sun Nov 19 19:38:33 +0000 2017,"@NovaBankCares it has been 3 days, is anyone there?",2725,
+2725,NovaBankCares,False,Sun Nov 19 23:04:33 +0000 2017,@117122 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,2720.0
+2732,117152,True,Fri Oct 20 08:14:40 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2738,
+2738,NovaBankCares,False,Fri Oct 20 09:56:40 +0000 2017,"@117152 We've processed it on our side, it should be back within 3 business days. ^RP",2741,2732.0
+2741,117152,True,Fri Oct 20 10:39:40 +0000 2017,@NovaBankCares ok thanks,,2738.0
+2744,117152,True,Wed Nov 01 06:14:05 +0000 2017,"@NovaBankCares hey, is there a student discount?",2750,
+2750,NovaBankCares,False,Wed Nov 01 09:50:05 +0000 2017,@117152 We're sorry for the trouble. Can you share more details so we can check? ^AB,,2744.0
+2754,117163,True,Wed Nov 08 01:42:04 +0000 2017,@NovaBankCares I can't log into the app,2761,
+2761,NovaBankCares,False,Wed Nov 08 01:55:04 +0000 2017,"@117163 Thanks, we've passed this to the team. We'll reply here soon. ^KT",2762,2754.0
+2762,117163,True,Wed Nov 08 02:56:04 +0000 2017,@NovaBankCares ok thanks,,2761.0
+2765,117163,True,Thu Nov 09 15:58:42 +0000 2017,@NovaBankCares any update on the app? nobody replied since monday,2768,
+2768,NovaBankCares,False,Thu Nov 09 17:28:42 +0000 2017,"@117163 Thanks for the update, we're on it. ^AB",,2765.0
+2772,117187,True,Tue Oct 03 02:38:18 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,,
+2777,117204,True,Thu Oct 12 09:06:18 +0000 2017,@NovaBankCares I can't log into the app,2781,
+2781,NovaBankCares,False,Thu Oct 12 12:45:18 +0000 2017,"@117204 We've fixed it on our side, please check now. ^LS",2782,2777.0
+2782,117204,True,Thu Oct 12 13:00:18 +0000 2017,@NovaBankCares ok thanks,,2781.0
+2785,117204,True,Tue Oct 31 16:25:50 +0000 2017,"@NovaBankCares hey, is there a student discount?",2792,
+2792,NovaBankCares,False,Tue Oct 31 17:41:50 +0000 2017,@117204 We're sorry for the trouble. Can you share more details so we can check? ^LS,,2785.0
+2796,117243,True,Tue Nov 07 15:56:21 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2803,
+2803,NovaBankCares,False,Tue Nov 07 18:17:21 +0000 2017,"@117243 Please update your settings and verify your account, that should do it. ^JM",2810,2796.0
+2810,117243,True,Tue Nov 07 18:35:21 +0000 2017,@NovaBankCares ok thanks,,2803.0
+2813,117243,True,Tue Nov 14 05:00:20 +0000 2017,@NovaBankCares you told me to update the settings but which option exactly? I can't find it,2818,
+2818,NovaBankCares,False,Tue Nov 14 06:42:20 +0000 2017,@117243 We're sorry for the trouble. Can you share more details so we can check? ^RP,,2813.0
+2824,117266,True,Fri Oct 20 22:55:03 +0000 2017,@NovaBankCares my debit card got blocked at the store,2829,
+2829,NovaBankCares,False,Sat Oct 21 02:45:03 +0000 2017,"@117266 Please update your settings and verify your account, that should do it. ^JM",,2824.0
+2835,117266,True,Thu Oct 26 08:52:03 +0000 2017,@NovaBankCares you told me to update the settings but which option exactly? I can't find it,2839,
+2839,NovaBankCares,False,Thu Oct 26 11:11:03 +0000 2017,"@117266 Thanks for the update, we're on it. ^LS",,2835.0
+2845,117282,True,Sun Nov 12 17:17:38 +0000 2017,@NovaBankCares I can't log into the app,2847,
+2847,NovaBankCares,False,Sun Nov 12 17:25:38 +0000 2017,"@117282 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",2854,2845.0
+2854,117282,True,Sun Nov 12 18:32:38 +0000 2017,@NovaBankCares ok thanks,,2847.0
+2855,117282,True,Sat Nov 18 08:24:17 +0000 2017,"@NovaBankCares hey, tried it all again this morning and the app still acts up exactly like before",2859,
+2859,NovaBankCares,False,Sat Nov 18 11:07:17 +0000 2017,@117282 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,2855.0
+2865,117292,True,Thu Oct 26 00:22:24 +0000 2017,@NovaBankCares I can't log into the app,2872,
+2872,NovaBankCares,False,Thu Oct 26 02:02:24 +0000 2017,"@117292 Please update your settings and verify your account, that should do it. -DW",,2865.0
+2879,117292,True,Tue Oct 31 15:40:11 +0000 2017,"@NovaBankCares sorry, what do you mean by verify the account? where do I do that",2883,
+2883,NovaBankCares,False,Tue Oct 31 17:42:11 +0000 2017,@117292 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,2879.0
+2888,117317,True,Wed Oct 11 22:22:01 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2891,
+2891,NovaBankCares,False,Wed Oct 11 23:05:01 +0000 2017,"@117317 Thanks, we've passed this to the team. We'll reply here soon. ^AB",2897,2888.0
+2897,117317,True,Wed Oct 11 23:18:01 +0000 2017,@NovaBankCares ok thanks,,2891.0
+2901,117317,True,Wed Oct 18 04:18:44 +0000 2017,@NovaBankCares still no answer about my transfer,2906,
+2906,NovaBankCares,False,Wed Oct 18 07:05:44 +0000 2017,@117317 We're sorry for the trouble. Can you share more details so we can check? -MC,,2901.0
+2908,117343,True,Sun Oct 08 13:56:03 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2910,
+2910,NovaBankCares,False,Sun Oct 08 14:42:03 +0000 2017,"@117343 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^AB",,2908.0
+2912,117343,True,Wed Oct 25 08:57:14 +0000 2017,"@NovaBankCares hey, is there a student discount?",2916,
+2916,NovaBankCares,False,Wed Oct 25 12:44:14 +0000 2017,"@117343 Thanks for the update, we're on it. ^JM",,2912.0
+2919,117349,True,Thu Oct 26 02:22:24 +0000 2017,@NovaBankCares my debit card got blocked at the store,2925,
+2925,NovaBankCares,False,Thu Oct 26 05:15:24 +0000 2017,@117349 Please check this help article: https://t.co/hlp123 It has all the steps. ^AB,,2919.0
+2930,117349,True,Tue Oct 31 02:37:46 +0000 2017,@NovaBankCares phone support sent me back to twitter. so who actually fixes my card?,2934,
+2934,NovaBankCares,False,Tue Oct 31 03:26:46 +0000 2017,@117349 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,2930.0
+2940,117371,True,Tue Nov 14 18:12:29 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,2943,
+2943,NovaBankCares,False,Tue Nov 14 19:58:29 +0000 2017,"@117371 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^JM",2945,2940.0
+2945,117371,True,Tue Nov 14 20:41:29 +0000 2017,@NovaBankCares ok thanks,,2943.0
+2948,117371,True,Mon Nov 20 01:23:32 +0000 2017,"@NovaBankCares hey, tried it all again this morning and my transfer still acts up exactly like before",2955,
+2955,NovaBankCares,False,Mon Nov 20 02:46:32 +0000 2017,"@117371 Thanks for the update, we're on it. ^AB",,2948.0
+2956,117371,True,Tue Nov 21 07:38:13 +0000 2017,"@NovaBankCares your answer is ridiculous, I'm not paying for a replacement",2960,
+2960,NovaBankCares,False,Tue Nov 21 11:12:13 +0000 2017,@117371 We're sorry for the trouble. Can you share more details so we can check? ^RP,,2956.0
+2966,117395,True,Thu Oct 26 13:25:31 +0000 2017,@NovaBankCares I can't log into the app,2971,
+2971,NovaBankCares,False,Thu Oct 26 14:36:31 +0000 2017,"@117395 Per our policy, a replacement fee applies in this case. -DW",2972,2966.0
+2972,117395,True,Thu Oct 26 15:19:31 +0000 2017,@NovaBankCares ok thanks,,2971.0
+2973,117430,True,Wed Nov 15 03:33:25 +0000 2017,@NovaBankCares my debit card got blocked at the store,2979,
+2979,NovaBankCares,False,Wed Nov 15 04:42:25 +0000 2017,@117430 We've escalated this and someone will call you back tomorrow. -MC,2984,2973.0
+2984,117430,True,Wed Nov 15 04:47:25 +0000 2017,@NovaBankCares ok thanks,,2979.0
+2990,117430,True,Sun Nov 26 09:06:58 +0000 2017,"@NovaBankCares hey, is there a student discount?",2995,
+2995,NovaBankCares,False,Sun Nov 26 13:00:58 +0000 2017,"@117430 Thanks for the update, we're on it. ^AB",,2990.0
+2996,117452,True,Mon Nov 06 15:47:18 +0000 2017,@NovaBankCares I can't log into the app,3003,
+3003,NovaBankCares,False,Mon Nov 06 18:17:18 +0000 2017,"@117452 Thanks for reaching out, we're checking. -DW",,2996.0
+3006,117452,True,Sun Nov 12 15:17:30 +0000 2017,@NovaBankCares https://t.co/xYz9a1,3009,
+3009,NovaBankCares,False,Sun Nov 12 16:56:30 +0000 2017,@117452 We're sorry for the trouble. Can you share more details so we can check? ^AB,,3006.0
+3015,117452,True,Wed Nov 15 12:37:02 +0000 2017,"@NovaBankCares your answer is ridiculous, I'm not paying for a replacement",3021,
+3021,NovaBankCares,False,Wed Nov 15 13:43:02 +0000 2017,"@117452 Thanks for the update, we're on it. ^RP",,3015.0
+3026,117461,True,Wed Oct 04 16:33:58 +0000 2017,@NovaBankCares my debit card got blocked at the store,3028,
+3028,NovaBankCares,False,Wed Oct 04 20:02:58 +0000 2017,@117461 Please call our support line so the team can help you directly. -MC,3035,3026.0
+3035,117461,True,Wed Oct 04 21:27:58 +0000 2017,@NovaBankCares will try,,3028.0
+3040,117461,True,Mon Oct 09 02:12:53 +0000 2017,"@NovaBankCares I called the number you gave me and waited 40 minutes, nobody picked up",3042,
+3042,NovaBankCares,False,Mon Oct 09 04:49:53 +0000 2017,@117461 We're sorry for the trouble. Can you share more details so we can check? ^KT,,3040.0
+3045,117481,True,Thu Oct 12 10:38:34 +0000 2017,@NovaBankCares my debit card got blocked at the store,3049,
+3049,NovaBankCares,False,Thu Oct 12 14:19:34 +0000 2017,@117481 We've escalated this and someone will call you back tomorrow. ^AB,3052,3045.0
+3052,117481,True,Thu Oct 12 15:28:34 +0000 2017,@NovaBankCares will try,,3049.0
+3057,117500,True,Sat Oct 14 15:18:07 +0000 2017,@NovaBankCares my debit card got blocked at the store,3062,
+3062,NovaBankCares,False,Sat Oct 14 16:29:07 +0000 2017,@117500 We're looking into this and will get back to you shortly. ^RP,3068,3057.0
+3068,117500,True,Sat Oct 14 16:36:07 +0000 2017,@NovaBankCares ok thanks,,3062.0
+3074,117500,True,Tue Oct 17 02:52:18 +0000 2017,@NovaBankCares still no answer about my card,3076,
+3076,NovaBankCares,False,Tue Oct 17 06:21:18 +0000 2017,@117500 We're sorry for the trouble. Can you share more details so we can check? -MC,,3074.0
+3078,117512,True,Sat Oct 14 21:28:07 +0000 2017,@NovaBankCares I can't log into the app,3084,
+3084,NovaBankCares,False,Sat Oct 14 22:37:07 +0000 2017,@117512 You can fix this in your account preferences. Let us know! ^AB,3088,3078.0
+3088,117512,True,Sat Oct 14 23:23:07 +0000 2017,@NovaBankCares will try,,3084.0
+3092,117512,True,Tue Oct 17 10:33:15 +0000 2017,@NovaBankCares I opened the app but there's no menu like you described. what's the next step?,3095,
+3095,NovaBankCares,False,Tue Oct 17 13:05:15 +0000 2017,@117512 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,3092.0
+3098,117512,True,Wed Oct 18 18:42:23 +0000 2017,@NovaBankCares I did everything you suggested and the app is still not working,3100,
+3100,NovaBankCares,False,Wed Oct 18 21:33:23 +0000 2017,"@117512 Thanks for the update, we're on it. ^JM",,3098.0
+3103,117517,True,Sun Oct 29 22:23:38 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,3107,
+3107,NovaBankCares,False,Mon Oct 30 00:23:38 +0000 2017,"@117517 We've processed it on our side, it should be back within 3 business days. ^LS",3109,3103.0
+3109,117517,True,Mon Oct 30 01:14:38 +0000 2017,@NovaBankCares ok thanks,,3107.0
+3114,117517,True,Thu Nov 16 15:47:26 +0000 2017,"@NovaBankCares hey, is there a student discount?",3115,
+3115,NovaBankCares,False,Thu Nov 16 16:08:26 +0000 2017,"@117517 Thanks for the update, we're on it. ^RP",,3114.0
+3121,117537,True,Tue Nov 07 07:52:37 +0000 2017,@NovaBankCares I can't log into the app,3122,
+3122,NovaBankCares,False,Tue Nov 07 10:41:37 +0000 2017,"@117537 Please update your settings and verify your account, that should do it. ^KT",,3121.0
+3129,117565,True,Tue Oct 31 04:34:17 +0000 2017,@NovaBankCares I can't log into the app,3136,
+3136,NovaBankCares,False,Tue Oct 31 07:06:17 +0000 2017,"@117565 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. -DW",,3129.0
+3140,117583,True,Fri Oct 20 13:17:35 +0000 2017,@NovaBankCares I can't log into the app,3144,
+3144,NovaBankCares,False,Fri Oct 20 15:36:35 +0000 2017,"@117583 Thanks, we've passed this to the team. We'll reply here soon. ^AB",3150,3140.0
+3150,117583,True,Fri Oct 20 15:56:35 +0000 2017,@NovaBankCares ok thanks,,3144.0
+3152,117583,True,Mon Oct 23 05:40:30 +0000 2017,@NovaBankCares still no answer about the app,3153,
+3153,NovaBankCares,False,Mon Oct 23 09:24:30 +0000 2017,@117583 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,3152.0
+3156,117583,True,Wed Oct 25 02:12:51 +0000 2017,@NovaBankCares that policy makes no sense. I want to speak to a manager,3157,
+3157,NovaBankCares,False,Wed Oct 25 05:45:51 +0000 2017,"@117583 Thanks for the update, we're on it. ^RP",,3156.0
+3158,117594,True,Thu Oct 19 04:32:06 +0000 2017,@NovaBankCares I can't log into the app,3162,
+3162,NovaBankCares,False,Thu Oct 19 08:07:06 +0000 2017,"@117594 All sorted, thanks for your patience! ^LS",3167,3158.0
+3167,117594,True,Thu Oct 19 09:15:06 +0000 2017,@NovaBankCares will try,,3162.0
+3168,117594,True,Sat Oct 21 02:18:55 +0000 2017,"@NovaBankCares hey, is there a student discount?",3172,
+3172,NovaBankCares,False,Sat Oct 21 04:26:55 +0000 2017,"@117594 Thanks for the update, we're on it. ^RP",,3168.0
+3179,117629,True,Wed Oct 18 04:57:25 +0000 2017,@NovaBankCares I can't log into the app,3184,
+3184,NovaBankCares,False,Wed Oct 18 06:14:25 +0000 2017,@117629 You can fix this in your account preferences. Let us know! -DW,3191,3179.0
+3191,117629,True,Wed Oct 18 06:40:25 +0000 2017,@NovaBankCares ok thanks,,3184.0
+3192,117629,True,Fri Nov 03 14:07:10 +0000 2017,"@NovaBankCares hey, is there a student discount?",3198,
+3198,NovaBankCares,False,Fri Nov 03 16:28:10 +0000 2017,@117629 We're sorry for the trouble. Can you share more details so we can check? ^RP,,3192.0
+3202,117661,True,Tue Oct 17 15:11:11 +0000 2017,@NovaBankCares I can't log into the app,3206,
+3206,NovaBankCares,False,Tue Oct 17 15:31:11 +0000 2017,"@117661 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^LS",3211,3202.0
+3211,117661,True,Tue Oct 17 16:06:11 +0000 2017,@NovaBankCares will try,,3206.0
+3212,117674,True,Mon Oct 30 20:46:03 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,3219,
+3219,NovaBankCares,False,Mon Oct 30 22:42:03 +0000 2017,"@117674 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^JM",3224,3212.0
+3224,117674,True,Mon Oct 30 23:01:03 +0000 2017,@NovaBankCares will try,,3219.0
+3225,117674,True,Sat Nov 04 23:07:38 +0000 2017,"@NovaBankCares hey, tried it all again this morning and my transfer still acts up exactly like before",3226,
+3226,NovaBankCares,False,Sun Nov 05 00:30:38 +0000 2017,@117674 We're sorry for the trouble. Can you share more details so we can check? ^RP,,3225.0
+3227,117706,True,Wed Oct 25 08:57:50 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,3232,
+3232,NovaBankCares,False,Wed Oct 25 12:40:50 +0000 2017,"@117706 We've processed it on our side, it should be back within 3 business days. ^LS",,3227.0
+3235,117718,True,Thu Oct 12 07:58:45 +0000 2017,@NovaBankCares I can't log into the app,3241,
+3241,NovaBankCares,False,Thu Oct 12 11:17:45 +0000 2017,@117718 You can fix this in your account preferences. Let us know! ^AB,3243,3235.0
+3243,117718,True,Thu Oct 12 11:54:45 +0000 2017,@NovaBankCares ok thanks,,3241.0
+3245,117718,True,Fri Oct 13 08:17:44 +0000 2017,@NovaBankCares I opened the app but there's no menu like you described. what's the next step?,3250,
+3250,NovaBankCares,False,Fri Oct 13 10:27:44 +0000 2017,"@117718 Thanks for the update, we're on it. -DW",,3245.0
+3252,117744,True,Tue Oct 24 04:13:11 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,3254,
+3254,NovaBankCares,False,Tue Oct 24 05:13:11 +0000 2017,@117744 We've escalated this and someone will call you back tomorrow. ^AB,,3252.0
+3256,117762,True,Sun Oct 08 20:09:26 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,3259,
+3259,NovaBankCares,False,Sun Oct 08 23:18:26 +0000 2017,"@117762 Please update your settings and verify your account, that should do it. ^LS",,3256.0
+3261,117762,True,Sat Oct 14 14:26:48 +0000 2017,@NovaBankCares you told me to update the settings but which option exactly? I can't find it,3266,
+3266,NovaBankCares,False,Sat Oct 14 17:59:48 +0000 2017,@117762 We're sorry for the trouble. Can you share more details so we can check? ^AB,,3261.0
+3269,117780,True,Wed Oct 25 22:47:07 +0000 2017,@NovaBankCares my debit card got blocked at the store,3271,
+3271,NovaBankCares,False,Thu Oct 26 02:22:07 +0000 2017,"@117780 Per our policy, a replacement fee applies in this case. ^JM",,3269.0
+3272,117780,True,Thu Oct 26 18:43:08 +0000 2017,@NovaBankCares that policy makes no sense. I want to speak to a manager,3278,
+3278,NovaBankCares,False,Thu Oct 26 21:29:08 +0000 2017,"@117780 Thanks for the update, we're on it. ^KT",,3272.0
+3280,117802,True,Sun Oct 15 06:01:40 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,3284,
+3284,NovaBankCares,False,Sun Oct 15 09:41:40 +0000 2017,"@117802 All sorted, thanks for your patience! -DW",3286,3280.0
+3286,117802,True,Sun Oct 15 09:52:40 +0000 2017,@NovaBankCares ok thanks,,3284.0
+3292,117802,True,Sat Oct 21 14:24:37 +0000 2017,@NovaBankCares different question: how do I add a second user to my plan?,3294,
+3294,NovaBankCares,False,Sat Oct 21 15:43:37 +0000 2017,"@117802 Thanks for the update, we're on it. -DW",,3292.0
+3298,117828,True,Sat Nov 11 09:58:53 +0000 2017,@NovaBankCares a transfer has been pending for 2 days,3303,
+3303,NovaBankCares,False,Sat Nov 11 13:52:53 +0000 2017,"@117828 Thanks, we've passed this to the team. We'll reply here soon. -MC",,3298.0
+3306,117850,True,Thu Oct 12 23:07:37 +0000 2017,@NovaBankCares I can't log into the app,3313,
+3313,NovaBankCares,False,Thu Oct 12 23:47:37 +0000 2017,@117850 Done! It's fixed on our end. Anything else? ^RP,3316,3306.0
+3316,117850,True,Fri Oct 13 00:39:37 +0000 2017,@NovaBankCares will try,,3313.0
+3319,117850,True,Wed Oct 25 09:07:41 +0000 2017,@NovaBankCares different question: how do I add a second user to my plan?,3325,
+3325,NovaBankCares,False,Wed Oct 25 09:33:41 +0000 2017,@117850 We're sorry for the trouble. Can you share more details so we can check? -MC,,3319.0
+3332,117883,True,Wed Oct 04 15:41:59 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3336,
+3336,SwiftShipSupport,False,Wed Oct 04 17:17:59 +0000 2017,@117883 We've escalated this and someone will call you back tomorrow. ^KT,3342,3332.0
+3342,117883,True,Wed Oct 04 17:41:59 +0000 2017,@SwiftShipSupport ok thanks,,3336.0
+3349,117883,True,Tue Oct 10 06:13:05 +0000 2017,@SwiftShipSupport I was told someone would call me back yesterday. no call at all,3353,
+3353,SwiftShipSupport,False,Tue Oct 10 06:59:05 +0000 2017,@117883 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,3349.0
+3360,117900,True,Tue Nov 07 21:42:55 +0000 2017,@SwiftShipSupport my package arrived damaged,3361,
+3361,SwiftShipSupport,False,Tue Nov 07 22:53:55 +0000 2017,"@117900 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^JM",3368,3360.0
+3368,117900,True,Tue Nov 07 23:38:55 +0000 2017,@SwiftShipSupport will try,,3361.0
+3375,117901,True,Sat Oct 21 12:50:55 +0000 2017,@SwiftShipSupport my package arrived damaged,3380,
+3380,SwiftShipSupport,False,Sat Oct 21 14:17:55 +0000 2017,@117901 You can fix this in your account preferences. Let us know! ^KT,,3375.0
+3387,117918,True,Tue Oct 24 23:16:52 +0000 2017,@SwiftShipSupport my order is 4 days late,3393,
+3393,SwiftShipSupport,False,Wed Oct 25 00:51:52 +0000 2017,"@117918 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^RP",3399,3387.0
+3399,117918,True,Wed Oct 25 01:17:52 +0000 2017,@SwiftShipSupport will try,,3393.0
+3400,117918,True,Sat Nov 04 21:04:45 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,3402,
+3402,SwiftShipSupport,False,Sun Nov 05 00:21:45 +0000 2017,@117918 We're sorry for the trouble. Can you share more details so we can check? -DW,,3400.0
+3405,117945,True,Tue Oct 31 04:19:03 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3409,
+3409,SwiftShipSupport,False,Tue Oct 31 04:58:03 +0000 2017,"@117945 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -MC",3410,3405.0
+3410,117945,True,Tue Oct 31 06:05:03 +0000 2017,@SwiftShipSupport ok thanks,,3409.0
+3413,117945,True,Fri Nov 03 16:26:19 +0000 2017,"@SwiftShipSupport hey, tried it all again this morning and my package still acts up exactly like before",3414,
+3414,SwiftShipSupport,False,Fri Nov 03 19:36:19 +0000 2017,@117945 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,3413.0
+3421,117981,True,Mon Nov 06 12:58:58 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3427,
+3427,SwiftShipSupport,False,Mon Nov 06 15:23:58 +0000 2017,"@117981 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -MC",3434,3421.0
+3434,117981,True,Mon Nov 06 15:48:58 +0000 2017,@SwiftShipSupport will try,,3427.0
+3435,117981,True,Wed Nov 08 20:01:20 +0000 2017,"@SwiftShipSupport restarted like you said, same issue with my package. nothing changed",3439,
+3439,SwiftShipSupport,False,Wed Nov 08 23:10:20 +0000 2017,@117981 We're sorry for the trouble. Can you share more details so we can check? -DW,,3435.0
+3443,117981,True,Thu Nov 09 02:43:39 +0000 2017,@SwiftShipSupport I did everything you suggested and my package is still not working,3447,
+3447,SwiftShipSupport,False,Thu Nov 09 03:26:39 +0000 2017,"@117981 Thanks for the update, we're on it. ^LS",,3443.0
+3453,117996,True,Sat Oct 21 11:27:43 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3454,
+3454,SwiftShipSupport,False,Sat Oct 21 13:51:43 +0000 2017,"@117996 Please update your settings and verify your account, that should do it. -MC",3456,3453.0
+3456,117996,True,Sat Oct 21 14:27:43 +0000 2017,@SwiftShipSupport ok thanks,,3454.0
+3458,117996,True,Mon Oct 23 13:06:56 +0000 2017,@SwiftShipSupport you told me to update the settings but which option exactly? I can't find it,3461,
+3461,SwiftShipSupport,False,Mon Oct 23 14:52:56 +0000 2017,@117996 We're sorry for the trouble. Can you share more details so we can check? ^AB,,3458.0
+3467,118005,True,Tue Oct 17 12:10:34 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3471,
+3471,SwiftShipSupport,False,Tue Oct 17 13:39:34 +0000 2017,"@118005 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",3477,3467.0
+3477,118005,True,Tue Oct 17 14:38:34 +0000 2017,@SwiftShipSupport ok thanks,,3471.0
+3484,118015,True,Tue Oct 03 16:19:46 +0000 2017,@SwiftShipSupport my order is 4 days late,3486,
+3486,SwiftShipSupport,False,Tue Oct 03 18:49:46 +0000 2017,"@118015 Thanks, we've passed this to the team. We'll reply here soon. -MC",3488,3484.0
+3488,118015,True,Tue Oct 03 19:57:46 +0000 2017,@SwiftShipSupport will try,,3486.0
+3492,118053,True,Sat Nov 04 17:24:21 +0000 2017,@SwiftShipSupport my package arrived damaged,3493,
+3493,SwiftShipSupport,False,Sat Nov 04 18:54:21 +0000 2017,@118053 Please call our support line so the team can help you directly. ^LS,,3492.0
+3497,118078,True,Sat Oct 07 23:14:04 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3502,
+3502,SwiftShipSupport,False,Sun Oct 08 01:49:04 +0000 2017,"@118078 It should be working now, let us know! ^LS",3506,3497.0
+3506,118078,True,Sun Oct 08 02:21:04 +0000 2017,@SwiftShipSupport ok thanks,,3502.0
+3512,118078,True,Wed Oct 11 21:48:05 +0000 2017,"@SwiftShipSupport just wanted to say thanks, it worked!",3516,
+3516,SwiftShipSupport,False,Wed Oct 11 23:47:05 +0000 2017,@118078 We're sorry for the trouble. Can you share more details so we can check? -DW,,3512.0
+3520,118082,True,Sun Nov 12 06:56:02 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3524,
+3524,SwiftShipSupport,False,Sun Nov 12 07:10:02 +0000 2017,@118082 We've escalated this and someone will call you back tomorrow. ^JM,3529,3520.0
+3529,118082,True,Sun Nov 12 08:38:02 +0000 2017,@SwiftShipSupport will try,,3524.0
+3533,118082,True,Wed Nov 15 06:12:07 +0000 2017,@SwiftShipSupport still waiting for the refund you promised for my package,3536,
+3536,SwiftShipSupport,False,Wed Nov 15 07:26:07 +0000 2017,"@118082 Thanks for the update, we're on it. ^AB",,3533.0
+3542,118114,True,Wed Nov 01 10:32:35 +0000 2017,@SwiftShipSupport my order is 4 days late,3549,
+3549,SwiftShipSupport,False,Wed Nov 01 12:14:35 +0000 2017,"@118114 Please update your settings and verify your account, that should do it. -DW",3550,3542.0
+3550,118114,True,Wed Nov 01 12:40:35 +0000 2017,@SwiftShipSupport ok thanks,,3549.0
+3551,118134,True,Fri Oct 20 11:32:21 +0000 2017,@SwiftShipSupport my order is 4 days late,3553,
+3553,SwiftShipSupport,False,Fri Oct 20 13:36:21 +0000 2017,"@118134 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^RP",,3551.0
+3557,118155,True,Mon Oct 02 21:26:17 +0000 2017,@SwiftShipSupport my order is 4 days late,3561,
+3561,SwiftShipSupport,False,Tue Oct 03 00:19:17 +0000 2017,"@118155 We've processed it on our side, it should be back within 3 business days. ^RP",,3557.0
+3567,118155,True,Fri Oct 06 07:38:00 +0000 2017,@SwiftShipSupport still waiting for the refund you promised for my order,3574,
+3574,SwiftShipSupport,False,Fri Oct 06 10:30:00 +0000 2017,@118155 We're sorry for the trouble. Can you share more details so we can check? ^JM,,3567.0
+3576,118161,True,Fri Oct 13 01:32:09 +0000 2017,@SwiftShipSupport my order is 4 days late,3582,
+3582,SwiftShipSupport,False,Fri Oct 13 03:10:09 +0000 2017,"@118161 All sorted, thanks for your patience! ^KT",3588,3576.0
+3588,118161,True,Fri Oct 13 03:53:09 +0000 2017,@SwiftShipSupport will try,,3582.0
+3589,118189,True,Sat Oct 07 13:33:54 +0000 2017,@SwiftShipSupport my order is 4 days late,3590,
+3590,SwiftShipSupport,False,Sat Oct 07 13:57:54 +0000 2017,"@118189 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^JM",,3589.0
+3594,118189,True,Wed Oct 18 12:20:25 +0000 2017,"@SwiftShipSupport hey, is there a student discount?",3596,
+3596,SwiftShipSupport,False,Wed Oct 18 14:55:25 +0000 2017,@118189 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,3594.0
+3601,118216,True,Wed Nov 01 03:44:25 +0000 2017,@SwiftShipSupport my order is 4 days late,3608,
+3608,SwiftShipSupport,False,Wed Nov 01 06:35:25 +0000 2017,@118216 Please call our support line so the team can help you directly. ^LS,3609,3601.0
+3609,118216,True,Wed Nov 01 07:02:25 +0000 2017,@SwiftShipSupport ok thanks,,3608.0
+3614,118216,True,Sat Nov 04 21:08:10 +0000 2017,"@SwiftShipSupport I called the number you gave me and waited 40 minutes, nobody picked up",3615,
+3615,SwiftShipSupport,False,Sun Nov 05 00:03:10 +0000 2017,"@118216 Thanks for the update, we're on it. ^KT",,3614.0
+3620,118255,True,Wed Nov 08 03:03:47 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3622,
+3622,SwiftShipSupport,False,Wed Nov 08 04:42:47 +0000 2017,"@118255 It should be working now, let us know! ^JM",3625,3620.0
+3625,118255,True,Wed Nov 08 05:22:47 +0000 2017,@SwiftShipSupport ok thanks,,3622.0
+3629,118255,True,Fri Nov 24 02:11:12 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,3634,
+3634,SwiftShipSupport,False,Fri Nov 24 02:43:12 +0000 2017,@118255 We're sorry for the trouble. Can you share more details so we can check? -MC,,3629.0
+3641,118275,True,Thu Nov 09 20:51:10 +0000 2017,@SwiftShipSupport my package arrived damaged,,
+3646,118311,True,Sat Oct 21 02:06:12 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3653,
+3653,SwiftShipSupport,False,Sat Oct 21 05:28:12 +0000 2017,"@118311 It should be working now, let us know! ^LS",,3646.0
+3655,118311,True,Sat Oct 21 09:42:12 +0000 2017,"@SwiftShipSupport all good now, thank you so much for the help",3659,
+3659,SwiftShipSupport,False,Sat Oct 21 10:10:12 +0000 2017,@118311 We're sorry for the trouble. Can you share more details so we can check? ^RP,,3655.0
+3660,118314,True,Sun Oct 22 03:16:59 +0000 2017,@SwiftShipSupport my order is 4 days late,3661,
+3661,SwiftShipSupport,False,Sun Oct 22 06:16:59 +0000 2017,"@118314 Please update your settings and verify your account, that should do it. ^RP",3665,3660.0
+3665,118314,True,Sun Oct 22 06:55:59 +0000 2017,@SwiftShipSupport ok thanks,,3661.0
+3672,118314,True,Fri Oct 27 10:50:16 +0000 2017,"@SwiftShipSupport ok but after I go to preferences there are like 10 options for my order, which one?",3674,
+3674,SwiftShipSupport,False,Fri Oct 27 11:15:16 +0000 2017,@118314 We're sorry for the trouble. Can you share more details so we can check? -DW,,3672.0
+3676,118317,True,Tue Nov 14 20:57:44 +0000 2017,@SwiftShipSupport my order is 4 days late,3680,
+3680,SwiftShipSupport,False,Tue Nov 14 23:49:44 +0000 2017,@118317 Done! It's fixed on our end. Anything else? ^JM,3683,3676.0
+3683,118317,True,Wed Nov 15 00:14:44 +0000 2017,@SwiftShipSupport ok thanks,,3680.0
+3684,118317,True,Wed Nov 15 19:55:30 +0000 2017,"@SwiftShipSupport hey, is there a student discount?",3689,
+3689,SwiftShipSupport,False,Wed Nov 15 21:53:30 +0000 2017,"@118317 Thanks for the update, we're on it. ^RP",,3684.0
+3692,118349,True,Tue Oct 17 17:37:42 +0000 2017,@SwiftShipSupport my order is 4 days late,3694,
+3694,SwiftShipSupport,False,Tue Oct 17 18:12:42 +0000 2017,"@118349 All sorted, thanks for your patience! ^JM",3697,3692.0
+3697,118349,True,Tue Oct 17 19:36:42 +0000 2017,@SwiftShipSupport will try,,3694.0
+3700,118366,True,Sun Nov 05 04:34:22 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3702,
+3702,SwiftShipSupport,False,Sun Nov 05 05:27:22 +0000 2017,@118366 Please check this help article: https://t.co/hlp123 It has all the steps. ^KT,,3700.0
+3706,118366,True,Fri Nov 10 12:34:02 +0000 2017,"@SwiftShipSupport the link you sent just goes to the FAQ, it doesn't help with my package",3708,
+3708,SwiftShipSupport,False,Fri Nov 10 16:26:02 +0000 2017,@118366 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,3706.0
+3709,118388,True,Wed Oct 25 13:35:24 +0000 2017,@SwiftShipSupport my order is 4 days late,3710,
+3710,SwiftShipSupport,False,Wed Oct 25 14:44:24 +0000 2017,"@118388 Thanks for reaching out, we're checking. ^RP",,3709.0
+3714,118388,True,Tue Oct 31 13:44:27 +0000 2017,@SwiftShipSupport ...,3717,
+3717,SwiftShipSupport,False,Tue Oct 31 15:58:27 +0000 2017,@118388 We're sorry for the trouble. Can you share more details so we can check? ^LS,,3714.0
+3722,118388,True,Wed Nov 01 19:15:50 +0000 2017,@SwiftShipSupport hello?? been waiting two days for an answer,3728,
+3728,SwiftShipSupport,False,Wed Nov 01 21:23:50 +0000 2017,"@118388 Thanks for the update, we're on it. -MC",,3722.0
+3729,118418,True,Mon Oct 23 00:14:40 +0000 2017,@SwiftShipSupport my order is 4 days late,3730,
+3730,SwiftShipSupport,False,Mon Oct 23 00:20:40 +0000 2017,@118418 Please call our support line so the team can help you directly. ^RP,3732,3729.0
+3732,118418,True,Mon Oct 23 00:27:40 +0000 2017,@SwiftShipSupport will try,,3730.0
+3739,118427,True,Mon Oct 30 00:09:55 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3740,
+3740,SwiftShipSupport,False,Mon Oct 30 04:05:55 +0000 2017,@118427 We've escalated this and someone will call you back tomorrow. ^LS,3742,3739.0
+3742,118427,True,Mon Oct 30 04:23:55 +0000 2017,@SwiftShipSupport ok thanks,,3740.0
+3749,118427,True,Thu Nov 02 00:23:37 +0000 2017,@SwiftShipSupport it's thursday and the money from monday's mistake is still not in my account,3755,
+3755,SwiftShipSupport,False,Thu Nov 02 01:10:37 +0000 2017,"@118427 Thanks for the update, we're on it. ^AB",,3749.0
+3762,118443,True,Mon Nov 13 13:31:07 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3769,
+3769,SwiftShipSupport,False,Mon Nov 13 16:49:07 +0000 2017,"@118443 Please update your settings and verify your account, that should do it. ^KT",3771,3762.0
+3771,118443,True,Mon Nov 13 17:16:07 +0000 2017,@SwiftShipSupport ok thanks,,3769.0
+3772,118443,True,Sat Nov 18 23:45:49 +0000 2017,@SwiftShipSupport you told me to update the settings but which option exactly? I can't find it,3773,
+3773,SwiftShipSupport,False,Sun Nov 19 03:38:49 +0000 2017,@118443 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,3772.0
+3777,118443,True,Sun Nov 19 10:05:40 +0000 2017,"@SwiftShipSupport hey, tried it all again this morning and my package still acts up exactly like before",3784,
+3784,SwiftShipSupport,False,Sun Nov 19 10:37:40 +0000 2017,@118443 We're sorry for the trouble. Can you share more details so we can check? ^JM,,3777.0
+3786,118444,True,Tue Oct 17 05:43:23 +0000 2017,@SwiftShipSupport my package arrived damaged,3789,
+3789,SwiftShipSupport,False,Tue Oct 17 08:06:23 +0000 2017,@118444 Please call our support line so the team can help you directly. ^JM,3793,3786.0
+3793,118444,True,Tue Oct 17 08:10:23 +0000 2017,@SwiftShipSupport will try,,3789.0
+3797,118444,True,Fri Nov 03 23:38:31 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,3801,
+3801,SwiftShipSupport,False,Sat Nov 04 01:14:31 +0000 2017,@118444 We're sorry for the trouble. Can you share more details so we can check? ^LS,,3797.0
+3807,118449,True,Tue Nov 14 19:14:49 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3808,
+3808,SwiftShipSupport,False,Tue Nov 14 22:03:49 +0000 2017,"@118449 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^RP",,3807.0
+3815,118449,True,Sun Nov 19 14:41:22 +0000 2017,"@SwiftShipSupport hey, tried it all again this morning and my package still acts up exactly like before",3816,
+3816,SwiftShipSupport,False,Sun Nov 19 17:58:22 +0000 2017,"@118449 Thanks for the update, we're on it. ^JM",,3815.0
+3818,118449,True,Wed Nov 22 01:56:30 +0000 2017,@SwiftShipSupport that policy makes no sense. I want to speak to a manager,3822,
+3822,SwiftShipSupport,False,Wed Nov 22 04:00:30 +0000 2017,"@118449 Thanks for the update, we're on it. ^AB",,3818.0
+3827,118462,True,Thu Nov 09 21:53:34 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3832,
+3832,SwiftShipSupport,False,Thu Nov 09 23:11:34 +0000 2017,"@118462 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -DW",,3827.0
+3835,118462,True,Sat Nov 11 20:57:55 +0000 2017,"@SwiftShipSupport restarted like you said, same issue with my package. nothing changed",3842,
+3842,SwiftShipSupport,False,Sat Nov 11 22:03:55 +0000 2017,@118462 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,3835.0
+3843,118462,True,Tue Nov 14 03:25:19 +0000 2017,@SwiftShipSupport that policy makes no sense. I want to speak to a manager,3850,
+3850,SwiftShipSupport,False,Tue Nov 14 06:50:19 +0000 2017,@118462 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,3843.0
+3855,118478,True,Tue Nov 07 01:35:17 +0000 2017,@SwiftShipSupport my package arrived damaged,3858,
+3858,SwiftShipSupport,False,Tue Nov 07 05:15:17 +0000 2017,@118478 Please check this help article: https://t.co/hlp123 It has all the steps. -DW,,3855.0
+3860,118478,True,Sat Nov 11 03:24:58 +0000 2017,@SwiftShipSupport phone support sent me back to twitter. so who actually fixes the box?,3861,
+3861,SwiftShipSupport,False,Sat Nov 11 03:57:58 +0000 2017,@118478 We're sorry for the trouble. Can you share more details so we can check? -DW,,3860.0
+3867,118486,True,Wed Oct 25 08:53:24 +0000 2017,@SwiftShipSupport my order is 4 days late,3871,
+3871,SwiftShipSupport,False,Wed Oct 25 10:18:24 +0000 2017,"@118486 We've processed it on our side, it should be back within 3 business days. ^LS",,3867.0
+3878,118486,True,Tue Oct 31 02:50:32 +0000 2017,@SwiftShipSupport you said it would be back in 3 business days. it's been 6 and nothing,3879,
+3879,SwiftShipSupport,False,Tue Oct 31 03:40:32 +0000 2017,@118486 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,3878.0
+3880,118494,True,Fri Oct 27 07:15:51 +0000 2017,@SwiftShipSupport my order is 4 days late,3884,
+3884,SwiftShipSupport,False,Fri Oct 27 09:57:51 +0000 2017,@118494 Please check this help article: https://t.co/hlp123 It has all the steps. ^KT,3889,3880.0
+3889,118494,True,Fri Oct 27 10:05:51 +0000 2017,@SwiftShipSupport will try,,3884.0
+3895,118512,True,Mon Oct 30 07:22:31 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3900,
+3900,SwiftShipSupport,False,Mon Oct 30 09:56:31 +0000 2017,@118512 Please check this help article: https://t.co/hlp123 It has all the steps. ^KT,,3895.0
+3901,118512,True,Fri Nov 03 13:19:39 +0000 2017,"@SwiftShipSupport I called the number you gave me and waited 40 minutes, nobody picked up",3902,
+3902,SwiftShipSupport,False,Fri Nov 03 15:27:39 +0000 2017,"@118512 Thanks for the update, we're on it. ^AB",,3901.0
+3909,118543,True,Sat Oct 14 12:49:24 +0000 2017,@SwiftShipSupport my package arrived damaged,3915,
+3915,SwiftShipSupport,False,Sat Oct 14 14:04:24 +0000 2017,"@118543 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. -DW",,3909.0
+3921,118543,True,Fri Oct 20 22:26:45 +0000 2017,@SwiftShipSupport I did everything you suggested and the box is still not working,3924,
+3924,SwiftShipSupport,False,Sat Oct 21 02:14:45 +0000 2017,@118543 We're sorry for the trouble. Can you share more details so we can check? ^JM,,3921.0
+3926,118546,True,Sat Oct 28 05:37:13 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3930,
+3930,SwiftShipSupport,False,Sat Oct 28 08:24:13 +0000 2017,"@118546 We've processed it on our side, it should be back within 3 business days. ^KT",,3926.0
+3931,118546,True,Sun Oct 29 10:14:33 +0000 2017,@SwiftShipSupport I was told someone would call me back yesterday. no call at all,3935,
+3935,SwiftShipSupport,False,Sun Oct 29 13:29:33 +0000 2017,@118546 We're sorry for the trouble. Can you share more details so we can check? ^LS,,3931.0
+3939,118570,True,Mon Oct 16 03:10:44 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,3941,
+3941,SwiftShipSupport,False,Mon Oct 16 04:37:44 +0000 2017,"@118570 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",,3939.0
+3948,118574,True,Sat Oct 07 10:30:10 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,,
+3954,118603,True,Tue Nov 14 13:02:53 +0000 2017,@SwiftShipSupport my order is 4 days late,3960,
+3960,SwiftShipSupport,False,Tue Nov 14 13:34:53 +0000 2017,"@118603 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^KT",3964,3954.0
+3964,118603,True,Tue Nov 14 14:03:53 +0000 2017,@SwiftShipSupport will try,,3960.0
+3965,118603,True,Mon Dec 04 13:51:27 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,3969,
+3969,SwiftShipSupport,False,Mon Dec 04 15:49:27 +0000 2017,@118603 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,3965.0
+3976,118611,True,Tue Oct 10 03:17:59 +0000 2017,@SwiftShipSupport my order is 4 days late,3979,
+3979,SwiftShipSupport,False,Tue Oct 10 06:34:59 +0000 2017,"@118611 All sorted, thanks for your patience! ^AB",3981,3976.0
+3981,118611,True,Tue Oct 10 07:23:59 +0000 2017,@SwiftShipSupport will try,,3979.0
+3982,118611,True,Wed Oct 11 23:09:31 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,3983,
+3983,SwiftShipSupport,False,Thu Oct 12 00:02:31 +0000 2017,@118611 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,3982.0
+3988,118612,True,Tue Oct 31 10:48:14 +0000 2017,@SwiftShipSupport my package arrived damaged,3992,
+3992,SwiftShipSupport,False,Tue Oct 31 11:20:14 +0000 2017,@118612 We're looking into this and will get back to you shortly. ^RP,3995,3988.0
+3995,118612,True,Tue Oct 31 12:39:14 +0000 2017,@SwiftShipSupport will try,,3992.0
+4002,118612,True,Mon Nov 13 20:41:13 +0000 2017,"@SwiftShipSupport hey, is there a student discount?",4004,
+4004,SwiftShipSupport,False,Mon Nov 13 21:14:13 +0000 2017,@118612 We're sorry for the trouble. Can you share more details so we can check? ^JM,,4002.0
+4010,118630,True,Sat Nov 04 04:30:41 +0000 2017,@SwiftShipSupport my package arrived damaged,4015,
+4015,SwiftShipSupport,False,Sat Nov 04 07:32:41 +0000 2017,"@118630 Unfortunately this is outside the refund window, so we can't refund it. ^LS",4018,4010.0
+4018,118630,True,Sat Nov 04 08:48:41 +0000 2017,@SwiftShipSupport will try,,4015.0
+4021,118630,True,Sat Nov 18 10:01:31 +0000 2017,"@SwiftShipSupport quick one, do you ship to Canada?",4022,
+4022,SwiftShipSupport,False,Sat Nov 18 11:06:31 +0000 2017,@118630 We're sorry for the trouble. Can you share more details so we can check? ^JM,,4021.0
+4029,118633,True,Wed Nov 08 05:43:38 +0000 2017,@SwiftShipSupport my order is 4 days late,4030,
+4030,SwiftShipSupport,False,Wed Nov 08 07:19:38 +0000 2017,@118633 We've escalated this and someone will call you back tomorrow. -DW,4031,4029.0
+4031,118633,True,Wed Nov 08 08:37:38 +0000 2017,@SwiftShipSupport ok thanks,,4030.0
+4033,118633,True,Mon Nov 13 07:16:19 +0000 2017,@SwiftShipSupport I was told someone would call me back yesterday. no call at all,4036,
+4036,SwiftShipSupport,False,Mon Nov 13 08:33:19 +0000 2017,@118633 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,4033.0
+4038,118655,True,Mon Oct 30 10:59:25 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4041,
+4041,SwiftShipSupport,False,Mon Oct 30 13:33:25 +0000 2017,"@118655 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^KT",4044,4038.0
+4044,118655,True,Mon Oct 30 13:37:25 +0000 2017,@SwiftShipSupport ok thanks,,4041.0
+4049,118655,True,Sat Nov 04 08:57:31 +0000 2017,@SwiftShipSupport I did everything you suggested and my package is still not working,4055,
+4055,SwiftShipSupport,False,Sat Nov 04 10:43:31 +0000 2017,@118655 We're sorry for the trouble. Can you share more details so we can check? ^KT,,4049.0
+4061,118658,True,Sat Nov 04 04:55:58 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4067,
+4067,SwiftShipSupport,False,Sat Nov 04 05:04:58 +0000 2017,"@118658 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^RP",4074,4061.0
+4074,118658,True,Sat Nov 04 05:49:58 +0000 2017,@SwiftShipSupport will try,,4067.0
+4081,118658,True,Thu Nov 09 02:04:32 +0000 2017,@SwiftShipSupport I did everything you suggested and my package is still not working,4083,
+4083,SwiftShipSupport,False,Thu Nov 09 03:43:32 +0000 2017,@118658 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,4081.0
+4089,118682,True,Sat Oct 21 19:51:22 +0000 2017,@SwiftShipSupport my order is 4 days late,4091,
+4091,SwiftShipSupport,False,Sat Oct 21 22:57:22 +0000 2017,@118682 You can fix this in your account preferences. Let us know! ^LS,4093,4089.0
+4093,118682,True,Sat Oct 21 23:13:22 +0000 2017,@SwiftShipSupport will try,,4091.0
+4097,118682,True,Sun Oct 22 17:35:46 +0000 2017,@SwiftShipSupport you told me to update the settings but which option exactly? I can't find it,4100,
+4100,SwiftShipSupport,False,Sun Oct 22 19:14:46 +0000 2017,@118682 We're sorry for the trouble. Can you share more details so we can check? -MC,,4097.0
+4106,118682,True,Mon Oct 23 08:13:21 +0000 2017,"@SwiftShipSupport your fix didn't work, my order is broken again",4108,
+4108,SwiftShipSupport,False,Mon Oct 23 10:08:21 +0000 2017,@118682 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,4106.0
+4113,118698,True,Tue Oct 31 05:52:45 +0000 2017,@SwiftShipSupport my package arrived damaged,4118,
+4118,SwiftShipSupport,False,Tue Oct 31 07:36:45 +0000 2017,@118698 Please check this help article: https://t.co/hlp123 It has all the steps. ^KT,,4113.0
+4121,118698,True,Fri Nov 03 10:42:45 +0000 2017,"@SwiftShipSupport that article doesn't cover my case at all, I'm back to square one",4127,
+4127,SwiftShipSupport,False,Fri Nov 03 14:14:45 +0000 2017,"@118698 Thanks for the update, we're on it. ^RP",,4121.0
+4129,118717,True,Wed Nov 08 09:48:58 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4132,
+4132,SwiftShipSupport,False,Wed Nov 08 13:08:58 +0000 2017,"@118717 We've processed it on our side, it should be back within 3 business days. -MC",4136,4129.0
+4136,118717,True,Wed Nov 08 14:25:58 +0000 2017,@SwiftShipSupport will try,,4132.0
+4137,118720,True,Wed Oct 11 23:08:04 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4141,
+4141,SwiftShipSupport,False,Thu Oct 12 00:11:04 +0000 2017,"@118720 Thanks, we've passed this to the team. We'll reply here soon. ^AB",4144,4137.0
+4144,118720,True,Thu Oct 12 01:21:04 +0000 2017,@SwiftShipSupport will try,,4141.0
+4146,118720,True,Sat Oct 21 21:33:35 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,4147,
+4147,SwiftShipSupport,False,Sat Oct 21 22:41:35 +0000 2017,@118720 We're sorry for the trouble. Can you share more details so we can check? ^RP,,4146.0
+4150,118755,True,Sat Oct 14 18:26:22 +0000 2017,@SwiftShipSupport my package arrived damaged,4155,
+4155,SwiftShipSupport,False,Sat Oct 14 22:25:22 +0000 2017,@118755 Please call our support line so the team can help you directly. ^JM,4160,4150.0
+4160,118755,True,Sat Oct 14 23:09:22 +0000 2017,@SwiftShipSupport will try,,4155.0
+4161,118795,True,Mon Nov 13 00:39:12 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4162,
+4162,SwiftShipSupport,False,Mon Nov 13 03:19:12 +0000 2017,"@118795 We've processed it on our side, it should be back within 3 business days. ^KT",,4161.0
+4164,118795,True,Mon Nov 27 00:28:02 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,4171,
+4171,SwiftShipSupport,False,Mon Nov 27 02:27:02 +0000 2017,"@118795 Thanks for the update, we're on it. ^LS",,4164.0
+4175,118818,True,Fri Oct 06 08:43:23 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4178,
+4178,SwiftShipSupport,False,Fri Oct 06 09:11:23 +0000 2017,"@118818 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^JM",4184,4175.0
+4184,118818,True,Fri Oct 06 09:40:23 +0000 2017,@SwiftShipSupport will try,,4178.0
+4188,118858,True,Sat Oct 28 16:52:47 +0000 2017,@SwiftShipSupport my package arrived damaged,4191,
+4191,SwiftShipSupport,False,Sat Oct 28 17:33:47 +0000 2017,@118858 We've escalated this and someone will call you back tomorrow. ^AB,4194,4188.0
+4194,118858,True,Sat Oct 28 18:16:47 +0000 2017,@SwiftShipSupport will try,,4191.0
+4200,118858,True,Mon Oct 30 22:04:41 +0000 2017,@SwiftShipSupport it's thursday and the money from monday's mistake is still not in my account,4202,
+4202,SwiftShipSupport,False,Mon Oct 30 22:43:41 +0000 2017,@118858 We're sorry for the trouble. Can you share more details so we can check? ^JM,,4200.0
+4208,118894,True,Fri Oct 06 22:58:33 +0000 2017,@SwiftShipSupport my order is 4 days late,4211,
+4211,SwiftShipSupport,False,Sat Oct 07 01:32:33 +0000 2017,@118894 Please check this help article: https://t.co/hlp123 It has all the steps. -DW,4215,4208.0
+4215,118894,True,Sat Oct 07 01:35:33 +0000 2017,@SwiftShipSupport ok thanks,,4211.0
+4219,118899,True,Wed Oct 18 19:01:46 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4223,
+4223,SwiftShipSupport,False,Wed Oct 18 22:14:46 +0000 2017,@118899 We've escalated this and someone will call you back tomorrow. -DW,,4219.0
+4227,118899,True,Thu Nov 02 21:53:07 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,4231,
+4231,SwiftShipSupport,False,Thu Nov 02 23:15:07 +0000 2017,@118899 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,4227.0
+4238,118915,True,Tue Nov 14 02:09:50 +0000 2017,@SwiftShipSupport my package arrived damaged,4239,
+4239,SwiftShipSupport,False,Tue Nov 14 05:13:50 +0000 2017,"@118915 Please update your settings and verify your account, that should do it. ^RP",4244,4238.0
+4244,118915,True,Tue Nov 14 06:41:50 +0000 2017,@SwiftShipSupport ok thanks,,4239.0
+4250,118915,True,Tue Nov 14 21:32:54 +0000 2017,@SwiftShipSupport you told me to update the settings but which option exactly? I can't find it,4255,
+4255,SwiftShipSupport,False,Tue Nov 14 22:43:54 +0000 2017,@118915 We're sorry for the trouble. Can you share more details so we can check? ^AB,,4250.0
+4259,118922,True,Tue Oct 03 00:18:44 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4260,
+4260,SwiftShipSupport,False,Tue Oct 03 01:44:44 +0000 2017,"@118922 We've processed it on our side, it should be back within 3 business days. -MC",,4259.0
+4266,118922,True,Sun Oct 08 22:32:46 +0000 2017,@SwiftShipSupport I was told someone would call me back yesterday. no call at all,4269,
+4269,SwiftShipSupport,False,Mon Oct 09 00:59:46 +0000 2017,@118922 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,4266.0
+4273,118922,True,Mon Oct 09 04:50:59 +0000 2017,@SwiftShipSupport I did everything you suggested and my package is still not working,4276,
+4276,SwiftShipSupport,False,Mon Oct 09 08:06:59 +0000 2017,@118922 We're sorry for the trouble. Can you share more details so we can check? ^KT,,4273.0
+4277,118941,True,Wed Nov 15 13:53:57 +0000 2017,@SwiftShipSupport my package arrived damaged,,
+4282,118979,True,Sat Oct 14 18:56:43 +0000 2017,@SwiftShipSupport my order is 4 days late,4285,
+4285,SwiftShipSupport,False,Sat Oct 14 22:44:43 +0000 2017,"@118979 Please update your settings and verify your account, that should do it. ^KT",,4282.0
+4288,118979,True,Thu Oct 19 11:16:09 +0000 2017,@SwiftShipSupport you told me to update the settings but which option exactly? I can't find it,4290,
+4290,SwiftShipSupport,False,Thu Oct 19 12:17:09 +0000 2017,@118979 We're sorry for the trouble. Can you share more details so we can check? ^AB,,4288.0
+4293,118999,True,Mon Oct 30 16:08:28 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4296,
+4296,SwiftShipSupport,False,Mon Oct 30 17:32:28 +0000 2017,@118999 You can fix this in your account preferences. Let us know! ^KT,,4293.0
+4298,118999,True,Tue Oct 31 19:28:26 +0000 2017,@SwiftShipSupport you told me to update the settings but which option exactly? I can't find it,4301,
+4301,SwiftShipSupport,False,Tue Oct 31 22:25:26 +0000 2017,@118999 We're sorry for the trouble. Can you share more details so we can check? ^AB,,4298.0
+4308,119031,True,Mon Oct 30 16:42:27 +0000 2017,@SwiftShipSupport my package arrived damaged,4315,
+4315,SwiftShipSupport,False,Mon Oct 30 18:11:27 +0000 2017,"@119031 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",4320,4308.0
+4320,119031,True,Mon Oct 30 19:21:27 +0000 2017,@SwiftShipSupport will try,,4315.0
+4324,119031,True,Sat Nov 04 06:08:39 +0000 2017,"@SwiftShipSupport your fix didn't work, the box is broken again",4325,
+4325,SwiftShipSupport,False,Sat Nov 04 09:23:39 +0000 2017,"@119031 Thanks for the update, we're on it. ^KT",,4324.0
+4328,119031,True,Sun Nov 05 21:07:31 +0000 2017,@SwiftShipSupport I've been a customer for 8 years and that's the best you can do? not ok,4332,
+4332,SwiftShipSupport,False,Sun Nov 05 21:32:31 +0000 2017,"@119031 Thanks for the update, we're on it. -DW",,4328.0
+4335,119065,True,Mon Oct 30 00:38:51 +0000 2017,@SwiftShipSupport my order is 4 days late,4340,
+4340,SwiftShipSupport,False,Mon Oct 30 02:52:51 +0000 2017,"@119065 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^RP",4345,4335.0
+4345,119065,True,Mon Oct 30 03:04:51 +0000 2017,@SwiftShipSupport ok thanks,,4340.0
+4351,119065,True,Wed Nov 01 09:39:42 +0000 2017,@SwiftShipSupport I did everything you suggested and my order is still not working,4355,
+4355,SwiftShipSupport,False,Wed Nov 01 11:13:42 +0000 2017,@119065 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,4351.0
+4360,119101,True,Mon Nov 13 08:15:45 +0000 2017,@SwiftShipSupport my order is 4 days late,4362,
+4362,SwiftShipSupport,False,Mon Nov 13 09:46:45 +0000 2017,"@119101 Thanks, we've passed this to the team. We'll reply here soon. ^LS",,4360.0
+4367,119135,True,Wed Oct 11 13:26:11 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4370,
+4370,SwiftShipSupport,False,Wed Oct 11 15:12:11 +0000 2017,"@119135 We've processed it on our side, it should be back within 3 business days. ^JM",,4367.0
+4373,119135,True,Sun Oct 15 21:23:44 +0000 2017,@SwiftShipSupport it's thursday and the money from monday's mistake is still not in my account,4379,
+4379,SwiftShipSupport,False,Sun Oct 15 21:41:44 +0000 2017,@119135 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,4373.0
+4386,119143,True,Sun Nov 12 08:13:47 +0000 2017,@SwiftShipSupport my order is 4 days late,4387,
+4387,SwiftShipSupport,False,Sun Nov 12 11:46:47 +0000 2017,"@119143 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -MC",4394,4386.0
+4394,119143,True,Sun Nov 12 12:34:47 +0000 2017,@SwiftShipSupport ok thanks,,4387.0
+4398,119161,True,Tue Nov 07 19:01:52 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4400,
+4400,SwiftShipSupport,False,Tue Nov 07 21:42:52 +0000 2017,"@119161 All sorted, thanks for your patience! ^RP",,4398.0
+4406,119161,True,Wed Nov 08 17:13:50 +0000 2017,@SwiftShipSupport different question: how do I add a second user to my plan?,4408,
+4408,SwiftShipSupport,False,Wed Nov 08 21:01:50 +0000 2017,@119161 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,4406.0
+4410,119193,True,Sat Oct 28 23:27:20 +0000 2017,@SwiftShipSupport my package shows delivered but I never got it,4415,
+4415,SwiftShipSupport,False,Sun Oct 29 02:07:20 +0000 2017,@119193 Done! It's fixed on our end. Anything else? -MC,4420,4410.0
+4420,119193,True,Sun Oct 29 03:37:20 +0000 2017,@SwiftShipSupport will try,,4415.0
+4421,119193,True,Sat Nov 04 12:01:04 +0000 2017,"@SwiftShipSupport hey, is there a student discount?",4428,
+4428,SwiftShipSupport,False,Sat Nov 04 13:04:04 +0000 2017,@119193 We're sorry for the trouble. Can you share more details so we can check? -DW,,4421.0
+4432,119218,True,Sun Oct 08 13:07:01 +0000 2017,@SwiftShipSupport my order is 4 days late,,
+4436,119239,True,Sun Oct 15 01:52:49 +0000 2017,@StreamBoxHelp I was charged after cancelling,4443,
+4443,StreamBoxHelp,False,Sun Oct 15 02:53:49 +0000 2017,"@119239 Unfortunately this is outside the refund window, so we can't refund it. ^RP",,4436.0
+4448,119239,True,Fri Oct 20 10:08:21 +0000 2017,@StreamBoxHelp that policy makes no sense. I want to speak to a manager,4450,
+4450,StreamBoxHelp,False,Fri Oct 20 10:42:21 +0000 2017,@119239 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,4448.0
+4454,119271,True,Sun Nov 05 12:07:21 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4459,
+4459,StreamBoxHelp,False,Sun Nov 05 15:50:21 +0000 2017,@119271 We've escalated this and someone will call you back tomorrow. ^AB,4465,4454.0
+4465,119271,True,Sun Nov 05 16:45:21 +0000 2017,@StreamBoxHelp will try,,4459.0
+4471,119271,True,Tue Nov 07 01:17:53 +0000 2017,@StreamBoxHelp still waiting for the refund you promised for the app,4474,
+4474,StreamBoxHelp,False,Tue Nov 07 04:19:53 +0000 2017,"@119271 Thanks for the update, we're on it. ^RP",,4471.0
+4475,119271,True,Wed Nov 08 00:53:38 +0000 2017,@StreamBoxHelp hello?? been waiting two days for an answer,4478,
+4478,StreamBoxHelp,False,Wed Nov 08 02:08:38 +0000 2017,@119271 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,4475.0
+4480,119291,True,Thu Oct 26 08:16:44 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4481,
+4481,StreamBoxHelp,False,Thu Oct 26 08:39:44 +0000 2017,"@119291 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^JM",4485,4480.0
+4485,119291,True,Thu Oct 26 08:59:44 +0000 2017,@StreamBoxHelp ok thanks,,4481.0
+4487,119291,True,Thu Nov 09 16:16:07 +0000 2017,"@StreamBoxHelp hi, can you tell me your opening hours for the holidays?",4488,
+4488,StreamBoxHelp,False,Thu Nov 09 18:22:07 +0000 2017,@119291 We're sorry for the trouble. Can you share more details so we can check? ^AB,,4487.0
+4494,119297,True,Mon Oct 23 21:24:30 +0000 2017,@StreamBoxHelp I was charged after cancelling,4496,
+4496,StreamBoxHelp,False,Mon Oct 23 22:14:30 +0000 2017,@119297 Done! It's fixed on our end. Anything else? ^RP,,4494.0
+4497,119297,True,Fri Oct 27 03:39:02 +0000 2017,@StreamBoxHelp different question: how do I add a second user to my plan?,4504,
+4504,StreamBoxHelp,False,Fri Oct 27 05:40:02 +0000 2017,"@119297 Thanks for the update, we're on it. ^JM",,4497.0
+4507,119322,True,Fri Oct 06 16:58:38 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4513,
+4513,StreamBoxHelp,False,Fri Oct 06 19:12:38 +0000 2017,"@119322 Unfortunately this is outside the refund window, so we can't refund it. -DW",4514,4507.0
+4514,119322,True,Fri Oct 06 20:08:38 +0000 2017,@StreamBoxHelp ok thanks,,4513.0
+4516,119322,True,Mon Oct 16 03:53:45 +0000 2017,"@StreamBoxHelp hi, can you tell me your opening hours for the holidays?",4522,
+4522,StreamBoxHelp,False,Mon Oct 16 07:16:45 +0000 2017,"@119322 Thanks for the update, we're on it. -DW",,4516.0
+4525,119333,True,Tue Oct 10 22:54:38 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4528,
+4528,StreamBoxHelp,False,Tue Oct 10 23:53:38 +0000 2017,"@119333 Please update your settings and verify your account, that should do it. -DW",4530,4525.0
+4530,119333,True,Wed Oct 11 00:34:38 +0000 2017,@StreamBoxHelp ok thanks,,4528.0
+4531,119333,True,Wed Oct 11 17:07:08 +0000 2017,"@StreamBoxHelp sorry, what do you mean by verify the account? where do I do that",4537,
+4537,StreamBoxHelp,False,Wed Oct 11 20:09:08 +0000 2017,@119333 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,4531.0
+4544,119343,True,Sat Oct 14 17:42:38 +0000 2017,@StreamBoxHelp my profile settings reset,4546,
+4546,StreamBoxHelp,False,Sat Oct 14 19:26:38 +0000 2017,"@119343 All sorted, thanks for your patience! ^KT",4548,4544.0
+4548,119343,True,Sat Oct 14 20:51:38 +0000 2017,@StreamBoxHelp ok thanks,,4546.0
+4552,119377,True,Wed Oct 11 17:47:30 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4557,
+4557,StreamBoxHelp,False,Wed Oct 11 19:06:30 +0000 2017,"@119377 Per our policy, a replacement fee applies in this case. -MC",4558,4552.0
+4558,119377,True,Wed Oct 11 19:55:30 +0000 2017,@StreamBoxHelp ok thanks,,4557.0
+4565,119389,True,Wed Oct 25 00:45:01 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4566,
+4566,StreamBoxHelp,False,Wed Oct 25 03:36:01 +0000 2017,"@119389 Please update your settings and verify your account, that should do it. ^JM",4570,4565.0
+4570,119389,True,Wed Oct 25 04:10:01 +0000 2017,@StreamBoxHelp ok thanks,,4566.0
+4573,119410,True,Thu Oct 12 13:52:56 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4576,
+4576,StreamBoxHelp,False,Thu Oct 12 15:18:56 +0000 2017,"@119410 We've processed it on our side, it should be back within 3 business days. -DW",4581,4573.0
+4581,119410,True,Thu Oct 12 16:16:56 +0000 2017,@StreamBoxHelp will try,,4576.0
+4583,119410,True,Mon Oct 16 06:20:09 +0000 2017,@StreamBoxHelp still waiting for the refund you promised for the app,4589,
+4589,StreamBoxHelp,False,Mon Oct 16 07:17:09 +0000 2017,@119410 We're sorry for the trouble. Can you share more details so we can check? ^RP,,4583.0
+4593,119410,True,Wed Oct 18 16:21:00 +0000 2017,"@StreamBoxHelp your fix didn't work, the app is broken again",4596,
+4596,StreamBoxHelp,False,Wed Oct 18 17:43:00 +0000 2017,@119410 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,4593.0
+4600,119415,True,Thu Oct 12 01:36:01 +0000 2017,@StreamBoxHelp my profile settings reset,,
+4604,119439,True,Fri Oct 13 16:16:06 +0000 2017,@StreamBoxHelp my profile settings reset,4607,
+4607,StreamBoxHelp,False,Fri Oct 13 19:53:06 +0000 2017,@119439 We've escalated this and someone will call you back tomorrow. ^RP,,4604.0
+4610,119439,True,Fri Oct 20 07:41:51 +0000 2017,@StreamBoxHelp you said it would be back in 3 business days. it's been 6 and nothing,4614,
+4614,StreamBoxHelp,False,Fri Oct 20 09:21:51 +0000 2017,"@119439 Thanks for the update, we're on it. ^AB",,4610.0
+4621,119448,True,Wed Oct 25 06:25:01 +0000 2017,@StreamBoxHelp I was charged after cancelling,4626,
+4626,StreamBoxHelp,False,Wed Oct 25 08:20:01 +0000 2017,@119448 We've escalated this and someone will call you back tomorrow. ^KT,,4621.0
+4632,119448,True,Tue Oct 31 10:20:03 +0000 2017,@StreamBoxHelp still waiting for the refund you promised for my subscription,4633,
+4633,StreamBoxHelp,False,Tue Oct 31 13:38:03 +0000 2017,@119448 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,4632.0
+4636,119448,True,Wed Nov 01 07:13:45 +0000 2017,@StreamBoxHelp any update on my subscription? nobody replied since monday,4641,
+4641,StreamBoxHelp,False,Wed Nov 01 08:46:45 +0000 2017,@119448 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,4636.0
+4643,119468,True,Sat Nov 04 08:34:29 +0000 2017,@StreamBoxHelp I was charged after cancelling,4650,
+4650,StreamBoxHelp,False,Sat Nov 04 09:33:29 +0000 2017,"@119468 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",4654,4643.0
+4654,119468,True,Sat Nov 04 10:45:29 +0000 2017,@StreamBoxHelp ok thanks,,4650.0
+4660,119468,True,Thu Nov 16 05:38:42 +0000 2017,"@StreamBoxHelp hi, can you tell me your opening hours for the holidays?",4663,
+4663,StreamBoxHelp,False,Thu Nov 16 07:51:42 +0000 2017,"@119468 Thanks for the update, we're on it. ^KT",,4660.0
+4665,119485,True,Tue Oct 17 13:01:54 +0000 2017,@StreamBoxHelp I was charged after cancelling,4666,
+4666,StreamBoxHelp,False,Tue Oct 17 16:41:54 +0000 2017,"@119485 We've processed it on our side, it should be back within 3 business days. ^AB",4671,4665.0
+4671,119485,True,Tue Oct 17 17:09:54 +0000 2017,@StreamBoxHelp ok thanks,,4666.0
+4678,119485,True,Fri Oct 27 21:36:40 +0000 2017,@StreamBoxHelp different question: how do I add a second user to my plan?,4684,
+4684,StreamBoxHelp,False,Fri Oct 27 22:40:40 +0000 2017,@119485 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,4678.0
+4690,119508,True,Thu Oct 05 20:30:26 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4692,
+4692,StreamBoxHelp,False,Thu Oct 05 23:39:26 +0000 2017,"@119508 We've processed it on our side, it should be back within 3 business days. ^JM",4697,4690.0
+4697,119508,True,Fri Oct 06 00:32:26 +0000 2017,@StreamBoxHelp ok thanks,,4692.0
+4703,119534,True,Mon Oct 16 17:01:20 +0000 2017,@StreamBoxHelp my profile settings reset,4704,
+4704,StreamBoxHelp,False,Mon Oct 16 20:54:20 +0000 2017,"@119534 All sorted, thanks for your patience! -DW",4707,4703.0
+4707,119534,True,Mon Oct 16 21:27:20 +0000 2017,@StreamBoxHelp ok thanks,,4704.0
+4714,119534,True,Fri Oct 20 04:10:44 +0000 2017,"@StreamBoxHelp hey, is there a student discount?",4715,
+4715,StreamBoxHelp,False,Fri Oct 20 06:40:44 +0000 2017,"@119534 Thanks for the update, we're on it. ^KT",,4714.0
+4721,119559,True,Mon Oct 16 20:22:00 +0000 2017,@StreamBoxHelp I was charged after cancelling,4725,
+4725,StreamBoxHelp,False,Mon Oct 16 22:16:00 +0000 2017,"@119559 Happy to help, can you tell us more? -DW",4729,4721.0
+4729,119559,True,Mon Oct 16 23:14:00 +0000 2017,@StreamBoxHelp ok thanks,,4725.0
+4735,119577,True,Wed Oct 25 04:47:13 +0000 2017,@StreamBoxHelp I was charged after cancelling,,
+4742,119591,True,Tue Nov 07 01:00:03 +0000 2017,@StreamBoxHelp my profile settings reset,4745,
+4745,StreamBoxHelp,False,Tue Nov 07 02:38:03 +0000 2017,"@119591 Thanks, we've passed this to the team. We'll reply here soon. ^KT",,4742.0
+4747,119591,True,Wed Nov 08 23:48:44 +0000 2017,@StreamBoxHelp hello?? been waiting two days for an answer,4753,
+4753,StreamBoxHelp,False,Thu Nov 09 02:19:44 +0000 2017,@119591 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,4747.0
+4756,119591,True,Thu Nov 09 22:15:01 +0000 2017,@StreamBoxHelp still no answer about my account,4763,
+4763,StreamBoxHelp,False,Fri Nov 10 01:56:01 +0000 2017,"@119591 Thanks for the update, we're on it. ^AB",,4756.0
+4767,119623,True,Thu Nov 16 05:18:21 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4768,
+4768,StreamBoxHelp,False,Thu Nov 16 05:52:21 +0000 2017,@119623 Done! It's fixed on our end. Anything else? ^AB,,4767.0
+4769,119623,True,Mon Nov 27 15:03:33 +0000 2017,"@StreamBoxHelp hi, can you tell me your opening hours for the holidays?",4776,
+4776,StreamBoxHelp,False,Mon Nov 27 18:46:33 +0000 2017,@119623 We're sorry for the trouble. Can you share more details so we can check? ^JM,,4769.0
+4781,119626,True,Mon Nov 13 01:12:59 +0000 2017,@StreamBoxHelp my profile settings reset,4784,
+4784,StreamBoxHelp,False,Mon Nov 13 02:34:59 +0000 2017,"@119626 All sorted, thanks for your patience! ^AB",4791,4781.0
+4791,119626,True,Mon Nov 13 03:20:59 +0000 2017,@StreamBoxHelp ok thanks,,4784.0
+4794,119639,True,Tue Oct 31 14:30:44 +0000 2017,@StreamBoxHelp my profile settings reset,4798,
+4798,StreamBoxHelp,False,Tue Oct 31 17:03:44 +0000 2017,@119639 Done! It's fixed on our end. Anything else? ^JM,4799,4794.0
+4799,119639,True,Tue Oct 31 17:43:44 +0000 2017,@StreamBoxHelp ok thanks,,4798.0
+4805,119639,True,Mon Nov 06 17:41:49 +0000 2017,"@StreamBoxHelp hi, can you tell me your opening hours for the holidays?",4812,
+4812,StreamBoxHelp,False,Mon Nov 06 21:38:49 +0000 2017,@119639 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,4805.0
+4818,119659,True,Tue Nov 14 01:24:49 +0000 2017,@StreamBoxHelp I was charged after cancelling,4825,
+4825,StreamBoxHelp,False,Tue Nov 14 02:43:49 +0000 2017,"@119659 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^LS",4827,4818.0
+4827,119659,True,Tue Nov 14 03:04:49 +0000 2017,@StreamBoxHelp will try,,4825.0
+4828,119662,True,Sat Nov 11 20:29:00 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4830,
+4830,StreamBoxHelp,False,Sat Nov 11 22:44:00 +0000 2017,"@119662 It should be working now, let us know! ^RP",,4828.0
+4833,119662,True,Sun Nov 12 23:47:04 +0000 2017,"@StreamBoxHelp problem solved, appreciate it",4838,
+4838,StreamBoxHelp,False,Mon Nov 13 03:30:04 +0000 2017,"@119662 Thanks for the update, we're on it. -DW",,4833.0
+4841,119702,True,Thu Nov 02 00:09:13 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4846,
+4846,StreamBoxHelp,False,Thu Nov 02 00:49:13 +0000 2017,"@119702 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^KT",4848,4841.0
+4848,119702,True,Thu Nov 02 01:16:13 +0000 2017,@StreamBoxHelp will try,,4846.0
+4849,119702,True,Fri Nov 03 15:22:04 +0000 2017,"@StreamBoxHelp hey, tried it all again this morning and the app still acts up exactly like before",4856,
+4856,StreamBoxHelp,False,Fri Nov 03 17:47:04 +0000 2017,@119702 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,4849.0
+4863,119733,True,Wed Nov 01 03:06:22 +0000 2017,@StreamBoxHelp I was charged after cancelling,4868,
+4868,StreamBoxHelp,False,Wed Nov 01 05:21:22 +0000 2017,"@119733 We've processed it on our side, it should be back within 3 business days. -MC",4869,4863.0
+4869,119733,True,Wed Nov 01 06:51:22 +0000 2017,@StreamBoxHelp ok thanks,,4868.0
+4873,119733,True,Sat Nov 11 00:06:02 +0000 2017,@StreamBoxHelp different question: how do I add a second user to my plan?,4877,
+4877,StreamBoxHelp,False,Sat Nov 11 01:06:02 +0000 2017,"@119733 Thanks for the update, we're on it. -DW",,4873.0
+4880,119765,True,Fri Oct 06 12:53:05 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4883,
+4883,StreamBoxHelp,False,Fri Oct 06 14:35:05 +0000 2017,@119765 Please check this help article: https://t.co/hlp123 It has all the steps. -MC,,4880.0
+4884,119780,True,Wed Oct 18 23:57:51 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,4888,
+4888,StreamBoxHelp,False,Thu Oct 19 03:15:51 +0000 2017,@119780 Please check this help article: https://t.co/hlp123 It has all the steps. -MC,,4884.0
+4891,119793,True,Fri Oct 13 22:20:39 +0000 2017,@StreamBoxHelp I was charged after cancelling,4896,
+4896,StreamBoxHelp,False,Sat Oct 14 00:44:39 +0000 2017,"@119793 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^JM",,4891.0
+4900,119801,True,Thu Oct 12 10:18:00 +0000 2017,@StreamBoxHelp I was charged after cancelling,4902,
+4902,StreamBoxHelp,False,Thu Oct 12 11:40:00 +0000 2017,@119801 You can fix this in your account preferences. Let us know! -MC,4907,4900.0
+4907,119801,True,Thu Oct 12 12:52:00 +0000 2017,@StreamBoxHelp will try,,4902.0
+4914,119813,True,Sun Nov 12 06:35:03 +0000 2017,@StreamBoxHelp my profile settings reset,4916,
+4916,StreamBoxHelp,False,Sun Nov 12 07:41:03 +0000 2017,"@119813 Thanks, we've passed this to the team. We'll reply here soon. ^RP",,4914.0
+4918,119813,True,Mon Nov 13 11:59:26 +0000 2017,@StreamBoxHelp any update on my account? nobody replied since monday,4924,
+4924,StreamBoxHelp,False,Mon Nov 13 14:38:26 +0000 2017,@119813 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,4918.0
+4925,119813,True,Tue Nov 14 04:16:13 +0000 2017,"@StreamBoxHelp hey, tried it all again this morning and my account still acts up exactly like before",4929,
+4929,StreamBoxHelp,False,Tue Nov 14 05:41:13 +0000 2017,"@119813 Thanks for the update, we're on it. ^KT",,4925.0
+4933,119847,True,Wed Oct 04 23:50:00 +0000 2017,@StreamBoxHelp I was charged after cancelling,4938,
+4938,StreamBoxHelp,False,Thu Oct 05 02:01:00 +0000 2017,@119847 Done! It's fixed on our end. Anything else? ^KT,4940,4933.0
+4940,119847,True,Thu Oct 05 03:03:00 +0000 2017,@StreamBoxHelp ok thanks,,4938.0
+4941,119847,True,Fri Oct 06 03:07:17 +0000 2017,"@StreamBoxHelp hey, is there a student discount?",4942,
+4942,StreamBoxHelp,False,Fri Oct 06 06:30:17 +0000 2017,@119847 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,4941.0
+4948,119855,True,Sun Oct 22 20:55:13 +0000 2017,@StreamBoxHelp my profile settings reset,4954,
+4954,StreamBoxHelp,False,Sun Oct 22 21:47:13 +0000 2017,@119855 We've escalated this and someone will call you back tomorrow. ^KT,4957,4948.0
+4957,119855,True,Sun Oct 22 21:54:13 +0000 2017,@StreamBoxHelp will try,,4954.0
+4960,119855,True,Wed Oct 25 15:02:02 +0000 2017,@StreamBoxHelp it's thursday and the money from monday's mistake is still not in my account,4961,
+4961,StreamBoxHelp,False,Wed Oct 25 15:38:02 +0000 2017,@119855 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,4960.0
+4963,119890,True,Fri Oct 13 00:03:24 +0000 2017,@StreamBoxHelp I was charged after cancelling,4964,
+4964,StreamBoxHelp,False,Fri Oct 13 02:27:24 +0000 2017,@119890 We've escalated this and someone will call you back tomorrow. ^AB,4969,4963.0
+4969,119890,True,Fri Oct 13 03:15:24 +0000 2017,@StreamBoxHelp ok thanks,,4964.0
+4973,119890,True,Fri Oct 13 17:38:34 +0000 2017,@StreamBoxHelp still waiting for the refund you promised for my subscription,4980,
+4980,StreamBoxHelp,False,Fri Oct 13 17:52:34 +0000 2017,@119890 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,4973.0
+4985,119890,True,Mon Oct 16 07:59:56 +0000 2017,@StreamBoxHelp that policy makes no sense. I want to speak to a manager,4987,
+4987,StreamBoxHelp,False,Mon Oct 16 11:38:56 +0000 2017,@119890 We're sorry for the trouble. Can you share more details so we can check? ^JM,,4985.0
+4991,119922,True,Thu Oct 19 19:21:15 +0000 2017,@StreamBoxHelp my profile settings reset,4993,
+4993,StreamBoxHelp,False,Thu Oct 19 22:52:15 +0000 2017,@119922 Please check this help article: https://t.co/hlp123 It has all the steps. -MC,4997,4991.0
+4997,119922,True,Thu Oct 19 23:18:15 +0000 2017,@StreamBoxHelp ok thanks,,4993.0
+5004,119922,True,Sun Oct 22 08:41:52 +0000 2017,"@StreamBoxHelp that article doesn't cover my case at all, I'm back to square one",5005,
+5005,StreamBoxHelp,False,Sun Oct 22 11:12:52 +0000 2017,"@119922 Thanks for the update, we're on it. ^LS",,5004.0
+5011,119922,True,Tue Oct 24 11:27:07 +0000 2017,@StreamBoxHelp that policy makes no sense. I want to speak to a manager,5013,
+5013,StreamBoxHelp,False,Tue Oct 24 11:52:07 +0000 2017,@119922 We're sorry for the trouble. Can you share more details so we can check? ^JM,,5011.0
+5020,119940,True,Thu Oct 12 05:39:28 +0000 2017,@StreamBoxHelp my profile settings reset,5021,
+5021,StreamBoxHelp,False,Thu Oct 12 06:15:28 +0000 2017,@119940 Please call our support line so the team can help you directly. ^KT,5028,5020.0
+5028,119940,True,Thu Oct 12 07:01:28 +0000 2017,@StreamBoxHelp ok thanks,,5021.0
+5033,119940,True,Sun Oct 15 15:59:29 +0000 2017,"@StreamBoxHelp the link you sent just goes to the FAQ, it doesn't help with my account",5036,
+5036,StreamBoxHelp,False,Sun Oct 15 18:57:29 +0000 2017,@119940 We're sorry for the trouble. Can you share more details so we can check? ^JM,,5033.0
+5042,119943,True,Thu Oct 12 22:01:43 +0000 2017,@StreamBoxHelp I was charged after cancelling,5045,
+5045,StreamBoxHelp,False,Thu Oct 12 22:04:43 +0000 2017,"@119943 Happy to help, can you tell us more? ^JM",,5042.0
+5048,119943,True,Mon Oct 16 20:37:55 +0000 2017,@StreamBoxHelp https://t.co/xYz9a1,5054,
+5054,StreamBoxHelp,False,Tue Oct 17 00:27:55 +0000 2017,"@119943 Thanks for the update, we're on it. ^AB",,5048.0
+5061,119975,True,Fri Oct 06 20:15:23 +0000 2017,@StreamBoxHelp I was charged after cancelling,5064,
+5064,StreamBoxHelp,False,Fri Oct 06 20:24:23 +0000 2017,"@119975 We've fixed it on our side, please check now. -DW",5065,5061.0
+5065,119975,True,Fri Oct 06 20:27:23 +0000 2017,@StreamBoxHelp ok thanks,,5064.0
+5069,119975,True,Sat Oct 07 09:55:39 +0000 2017,"@StreamBoxHelp just wanted to say thanks, it worked!",5075,
+5075,StreamBoxHelp,False,Sat Oct 07 11:42:39 +0000 2017,"@119975 Thanks for the update, we're on it. ^KT",,5069.0
+5078,120012,True,Wed Oct 04 01:13:32 +0000 2017,@StreamBoxHelp my profile settings reset,5084,
+5084,StreamBoxHelp,False,Wed Oct 04 01:53:32 +0000 2017,@120012 Please call our support line so the team can help you directly. -DW,5089,5078.0
+5089,120012,True,Wed Oct 04 02:47:32 +0000 2017,@StreamBoxHelp ok thanks,,5084.0
+5096,120020,True,Thu Oct 26 22:01:05 +0000 2017,@StreamBoxHelp I was charged after cancelling,5101,
+5101,StreamBoxHelp,False,Thu Oct 26 23:55:05 +0000 2017,"@120020 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^KT",5108,5096.0
+5108,120020,True,Fri Oct 27 01:17:05 +0000 2017,@StreamBoxHelp will try,,5101.0
+5111,120020,True,Wed Nov 15 05:18:15 +0000 2017,"@StreamBoxHelp hi, can you tell me your opening hours for the holidays?",5117,
+5117,StreamBoxHelp,False,Wed Nov 15 09:06:15 +0000 2017,"@120020 Thanks for the update, we're on it. -DW",,5111.0
+5118,120049,True,Mon Oct 30 23:20:51 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5125,
+5125,StreamBoxHelp,False,Tue Oct 31 02:40:51 +0000 2017,@120049 You can fix this in your account preferences. Let us know! ^JM,5128,5118.0
+5128,120049,True,Tue Oct 31 03:37:51 +0000 2017,@StreamBoxHelp will try,,5125.0
+5134,120049,True,Sat Nov 04 23:07:51 +0000 2017,@StreamBoxHelp I opened the app but there's no menu like you described. what's the next step?,5137,
+5137,StreamBoxHelp,False,Sat Nov 04 23:35:51 +0000 2017,@120049 We're sorry for the trouble. Can you share more details so we can check? ^KT,,5134.0
+5144,120074,True,Sun Oct 15 04:09:53 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5147,
+5147,StreamBoxHelp,False,Sun Oct 15 08:09:53 +0000 2017,"@120074 Unfortunately this is outside the refund window, so we can't refund it. -DW",5150,5144.0
+5150,120074,True,Sun Oct 15 08:26:53 +0000 2017,@StreamBoxHelp ok thanks,,5147.0
+5153,120074,True,Thu Oct 19 10:53:52 +0000 2017,@StreamBoxHelp I've been a customer for 8 years and that's the best you can do? not ok,5157,
+5157,StreamBoxHelp,False,Thu Oct 19 12:56:52 +0000 2017,"@120074 Thanks for the update, we're on it. ^JM",,5153.0
+5161,120097,True,Tue Nov 07 16:58:23 +0000 2017,@StreamBoxHelp my profile settings reset,5162,
+5162,StreamBoxHelp,False,Tue Nov 07 19:34:23 +0000 2017,"@120097 We've processed it on our side, it should be back within 3 business days. ^KT",5168,5161.0
+5168,120097,True,Tue Nov 07 21:00:23 +0000 2017,@StreamBoxHelp will try,,5162.0
+5171,120097,True,Thu Nov 09 10:30:26 +0000 2017,@StreamBoxHelp you said it would be back in 3 business days. it's been 6 and nothing,5178,
+5178,StreamBoxHelp,False,Thu Nov 09 12:33:26 +0000 2017,"@120097 Thanks for the update, we're on it. -MC",,5171.0
+5184,120097,True,Sat Nov 11 02:16:59 +0000 2017,@StreamBoxHelp hello?? been waiting two days for an answer,5191,
+5191,StreamBoxHelp,False,Sat Nov 11 05:49:59 +0000 2017,"@120097 Thanks for the update, we're on it. ^JM",,5184.0
+5197,120121,True,Sat Nov 11 09:00:43 +0000 2017,@StreamBoxHelp I was charged after cancelling,5198,
+5198,StreamBoxHelp,False,Sat Nov 11 12:39:43 +0000 2017,"@120121 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^RP",5205,5197.0
+5205,120121,True,Sat Nov 11 13:03:43 +0000 2017,@StreamBoxHelp ok thanks,,5198.0
+5211,120121,True,Wed Nov 15 07:03:52 +0000 2017,"@StreamBoxHelp hey, tried it all again this morning and my subscription still acts up exactly like before",5216,
+5216,StreamBoxHelp,False,Wed Nov 15 10:57:52 +0000 2017,@120121 We're sorry for the trouble. Can you share more details so we can check? ^LS,,5211.0
+5222,120143,True,Fri Nov 10 13:18:45 +0000 2017,@StreamBoxHelp I was charged after cancelling,5226,
+5226,StreamBoxHelp,False,Fri Nov 10 16:40:45 +0000 2017,"@120143 We've processed it on our side, it should be back within 3 business days. ^KT",,5222.0
+5232,120143,True,Tue Nov 21 03:57:09 +0000 2017,"@StreamBoxHelp hey, is there a student discount?",5239,
+5239,StreamBoxHelp,False,Tue Nov 21 07:41:09 +0000 2017,"@120143 Thanks for the update, we're on it. ^LS",,5232.0
+5245,120145,True,Sun Nov 12 14:31:20 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5246,
+5246,StreamBoxHelp,False,Sun Nov 12 15:24:20 +0000 2017,"@120145 We've fixed it on our side, please check now. ^KT",5250,5245.0
+5250,120145,True,Sun Nov 12 16:22:20 +0000 2017,@StreamBoxHelp will try,,5246.0
+5257,120145,True,Wed Nov 15 15:05:59 +0000 2017,"@StreamBoxHelp problem solved, appreciate it",5264,
+5264,StreamBoxHelp,False,Wed Nov 15 16:46:59 +0000 2017,"@120145 Thanks for the update, we're on it. ^KT",,5257.0
+5270,120147,True,Fri Oct 06 07:57:18 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5271,
+5271,StreamBoxHelp,False,Fri Oct 06 08:28:18 +0000 2017,"@120147 Please update your settings and verify your account, that should do it. ^RP",5272,5270.0
+5272,120147,True,Fri Oct 06 09:50:18 +0000 2017,@StreamBoxHelp will try,,5271.0
+5278,120147,True,Fri Oct 20 12:48:49 +0000 2017,"@StreamBoxHelp hi, can you tell me your opening hours for the holidays?",5279,
+5279,StreamBoxHelp,False,Fri Oct 20 14:18:49 +0000 2017,@120147 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,5278.0
+5285,120155,True,Wed Oct 04 11:19:42 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5286,
+5286,StreamBoxHelp,False,Wed Oct 04 14:24:42 +0000 2017,@120155 You can fix this in your account preferences. Let us know! ^LS,5287,5285.0
+5287,120155,True,Wed Oct 04 14:32:42 +0000 2017,@StreamBoxHelp will try,,5286.0
+5294,120183,True,Sun Nov 12 14:57:54 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5298,
+5298,StreamBoxHelp,False,Sun Nov 12 15:47:54 +0000 2017,@120183 We've escalated this and someone will call you back tomorrow. -DW,,5294.0
+5303,120186,True,Tue Oct 03 14:47:55 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5310,
+5310,StreamBoxHelp,False,Tue Oct 03 18:28:55 +0000 2017,@120186 We've escalated this and someone will call you back tomorrow. ^LS,,5303.0
+5315,120186,True,Fri Oct 06 21:05:06 +0000 2017,@StreamBoxHelp you said it would be back in 3 business days. it's been 6 and nothing,5317,
+5317,StreamBoxHelp,False,Sat Oct 07 00:10:06 +0000 2017,@120186 We're sorry for the trouble. Can you share more details so we can check? ^LS,,5315.0
+5319,120222,True,Thu Nov 09 12:05:26 +0000 2017,@StreamBoxHelp I was charged after cancelling,5323,
+5323,StreamBoxHelp,False,Thu Nov 09 12:26:26 +0000 2017,"@120222 Please update your settings and verify your account, that should do it. ^RP",,5319.0
+5327,120227,True,Sat Oct 14 17:42:11 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5330,
+5330,StreamBoxHelp,False,Sat Oct 14 19:57:11 +0000 2017,@120227 We've escalated this and someone will call you back tomorrow. ^RP,5336,5327.0
+5336,120227,True,Sat Oct 14 20:33:11 +0000 2017,@StreamBoxHelp ok thanks,,5330.0
+5341,120227,True,Thu Oct 19 00:40:20 +0000 2017,@StreamBoxHelp it's thursday and the money from monday's mistake is still not in my account,5345,
+5345,StreamBoxHelp,False,Thu Oct 19 00:50:20 +0000 2017,@120227 We're sorry for the trouble. Can you share more details so we can check? ^KT,,5341.0
+5352,120244,True,Thu Oct 26 08:05:00 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5358,
+5358,StreamBoxHelp,False,Thu Oct 26 11:00:00 +0000 2017,@120244 Please check this help article: https://t.co/hlp123 It has all the steps. ^JM,5362,5352.0
+5362,120244,True,Thu Oct 26 11:48:00 +0000 2017,@StreamBoxHelp ok thanks,,5358.0
+5366,120244,True,Tue Nov 14 22:07:00 +0000 2017,"@StreamBoxHelp quick one, do you ship to Canada?",5372,
+5372,StreamBoxHelp,False,Tue Nov 14 23:31:00 +0000 2017,@120244 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,5366.0
+5378,120274,True,Sun Oct 22 08:19:54 +0000 2017,@StreamBoxHelp I was charged after cancelling,5382,
+5382,StreamBoxHelp,False,Sun Oct 22 10:07:54 +0000 2017,"@120274 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. -DW",,5378.0
+5388,120274,True,Tue Oct 24 14:56:53 +0000 2017,"@StreamBoxHelp hey, tried it all again this morning and my subscription still acts up exactly like before",5392,
+5392,StreamBoxHelp,False,Tue Oct 24 17:20:53 +0000 2017,@120274 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,5388.0
+5397,120274,True,Tue Oct 24 23:06:00 +0000 2017,"@StreamBoxHelp it has been 3 days, is anyone there?",5401,
+5401,StreamBoxHelp,False,Tue Oct 24 23:25:00 +0000 2017,@120274 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,5397.0
+5404,120301,True,Tue Oct 03 07:12:51 +0000 2017,@StreamBoxHelp my profile settings reset,5406,
+5406,StreamBoxHelp,False,Tue Oct 03 09:57:51 +0000 2017,@120301 Please check this help article: https://t.co/hlp123 It has all the steps. ^LS,,5404.0
+5410,120301,True,Fri Oct 06 06:45:54 +0000 2017,"@StreamBoxHelp that article doesn't cover my case at all, I'm back to square one",5416,
+5416,StreamBoxHelp,False,Fri Oct 06 09:48:54 +0000 2017,@120301 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,5410.0
+5423,120322,True,Tue Oct 03 08:51:58 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5426,
+5426,StreamBoxHelp,False,Tue Oct 03 10:42:58 +0000 2017,"@120322 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -DW",,5423.0
+5430,120322,True,Tue Oct 03 14:03:05 +0000 2017,"@StreamBoxHelp your fix didn't work, the app is broken again",5433,
+5433,StreamBoxHelp,False,Tue Oct 03 16:57:05 +0000 2017,@120322 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^AB,,5430.0
+5440,120322,True,Wed Oct 04 22:42:38 +0000 2017,@StreamBoxHelp that policy makes no sense. I want to speak to a manager,5441,
+5441,StreamBoxHelp,False,Thu Oct 05 02:38:38 +0000 2017,"@120322 Thanks for the update, we're on it. ^JM",,5440.0
+5448,120357,True,Thu Oct 05 15:15:53 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5454,
+5454,StreamBoxHelp,False,Thu Oct 05 15:19:53 +0000 2017,"@120357 Thanks, we've passed this to the team. We'll reply here soon. ^LS",,5448.0
+5455,120357,True,Tue Oct 10 02:02:19 +0000 2017,@StreamBoxHelp hello?? been waiting two days for an answer,5459,
+5459,StreamBoxHelp,False,Tue Oct 10 04:16:19 +0000 2017,"@120357 Thanks for the update, we're on it. ^RP",,5455.0
+5465,120365,True,Wed Nov 15 02:23:15 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5466,
+5466,StreamBoxHelp,False,Wed Nov 15 06:18:15 +0000 2017,"@120365 It should be working now, let us know! ^JM",,5465.0
+5469,120369,True,Sun Oct 29 01:16:34 +0000 2017,@StreamBoxHelp I was charged after cancelling,5473,
+5473,StreamBoxHelp,False,Sun Oct 29 01:54:34 +0000 2017,"@120369 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^AB",5477,5469.0
+5477,120369,True,Sun Oct 29 02:08:34 +0000 2017,@StreamBoxHelp ok thanks,,5473.0
+5484,120369,True,Wed Nov 01 04:00:35 +0000 2017,"@StreamBoxHelp your fix didn't work, my subscription is broken again",5487,
+5487,StreamBoxHelp,False,Wed Nov 01 07:17:35 +0000 2017,@120369 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,5484.0
+5491,120397,True,Tue Oct 24 23:01:14 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5498,
+5498,StreamBoxHelp,False,Wed Oct 25 02:36:14 +0000 2017,"@120397 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^LS",5504,5491.0
+5504,120397,True,Wed Oct 25 03:07:14 +0000 2017,@StreamBoxHelp ok thanks,,5498.0
+5510,120397,True,Mon Nov 13 23:57:02 +0000 2017,"@StreamBoxHelp quick one, do you ship to Canada?",5517,
+5517,StreamBoxHelp,False,Tue Nov 14 00:25:02 +0000 2017,@120397 We're sorry for the trouble. Can you share more details so we can check? ^JM,,5510.0
+5523,120422,True,Sun Nov 12 13:25:10 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5526,
+5526,StreamBoxHelp,False,Sun Nov 12 15:32:10 +0000 2017,@120422 Done! It's fixed on our end. Anything else? ^RP,5528,5523.0
+5528,120422,True,Sun Nov 12 15:50:10 +0000 2017,@StreamBoxHelp will try,,5526.0
+5532,120422,True,Sun Nov 12 19:39:35 +0000 2017,"@StreamBoxHelp hey, is there a student discount?",5534,
+5534,StreamBoxHelp,False,Sun Nov 12 22:50:35 +0000 2017,@120422 We're sorry for the trouble. Can you share more details so we can check? ^LS,,5532.0
+5537,120458,True,Fri Oct 13 22:26:35 +0000 2017,@StreamBoxHelp my profile settings reset,5541,
+5541,StreamBoxHelp,False,Sat Oct 14 02:08:35 +0000 2017,"@120458 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^KT",5547,5537.0
+5547,120458,True,Sat Oct 14 02:23:35 +0000 2017,@StreamBoxHelp ok thanks,,5541.0
+5553,120458,True,Wed Oct 18 06:47:52 +0000 2017,"@StreamBoxHelp restarted like you said, same issue with my account. nothing changed",5560,
+5560,StreamBoxHelp,False,Wed Oct 18 08:43:52 +0000 2017,@120458 We're sorry for the trouble. Can you share more details so we can check? ^JM,,5553.0
+5561,120487,True,Wed Oct 11 14:55:53 +0000 2017,@StreamBoxHelp my profile settings reset,5567,
+5567,StreamBoxHelp,False,Wed Oct 11 17:13:53 +0000 2017,@120487 Done! It's fixed on our end. Anything else? ^AB,,5561.0
+5568,120501,True,Sun Nov 05 05:02:30 +0000 2017,@StreamBoxHelp the app keeps crashing on my TV,5571,
+5571,StreamBoxHelp,False,Sun Nov 05 07:05:30 +0000 2017,@120501 Please check this help article: https://t.co/hlp123 It has all the steps. -DW,5578,5568.0
+5578,120501,True,Sun Nov 05 07:40:30 +0000 2017,@StreamBoxHelp ok thanks,,5571.0
+5581,120501,True,Mon Nov 06 00:14:43 +0000 2017,"@StreamBoxHelp that article doesn't cover my case at all, I'm back to square one",5582,
+5582,StreamBoxHelp,False,Mon Nov 06 02:47:43 +0000 2017,"@120501 Thanks for the update, we're on it. ^LS",,5581.0
+5587,120540,True,Tue Nov 07 00:49:32 +0000 2017,@StreamBoxHelp my profile settings reset,,
+5591,120559,True,Tue Oct 10 13:41:35 +0000 2017,@StreamBoxHelp my profile settings reset,5594,
+5594,StreamBoxHelp,False,Tue Oct 10 15:34:35 +0000 2017,"@120559 Thanks, we've passed this to the team. We'll reply here soon. ^JM",5598,5591.0
+5598,120559,True,Tue Oct 10 15:43:35 +0000 2017,@StreamBoxHelp ok thanks,,5594.0
+5603,120559,True,Sun Oct 15 13:23:31 +0000 2017,"@StreamBoxHelp it has been 3 days, is anyone there?",5609,
+5609,StreamBoxHelp,False,Sun Oct 15 17:16:31 +0000 2017,@120559 We're sorry for the trouble. Can you share more details so we can check? ^LS,,5603.0
+5614,120568,True,Sat Nov 11 11:20:40 +0000 2017,@StreamBoxHelp my profile settings reset,,
+5617,120578,True,Sun Oct 22 02:13:39 +0000 2017,@StreamBoxHelp I was charged after cancelling,,
+5623,120588,True,Tue Oct 17 09:35:04 +0000 2017,@StreamBoxHelp my profile settings reset,5624,
+5624,StreamBoxHelp,False,Tue Oct 17 11:34:04 +0000 2017,"@120588 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^KT",,5623.0
+5625,120604,True,Thu Oct 05 23:47:51 +0000 2017,@PixelStoreCare I got the wrong item,5626,
+5626,PixelStoreCare,False,Fri Oct 06 03:44:51 +0000 2017,@120604 We're looking into this and will get back to you shortly. ^LS,,5625.0
+5631,120632,True,Fri Oct 13 20:46:16 +0000 2017,@PixelStoreCare I got the wrong item,5632,
+5632,PixelStoreCare,False,Fri Oct 13 22:01:16 +0000 2017,"@120632 Please update your settings and verify your account, that should do it. -DW",,5631.0
+5638,120632,True,Tue Oct 17 10:33:29 +0000 2017,@PixelStoreCare you told me to update the settings but which option exactly? I can't find it,5644,
+5644,PixelStoreCare,False,Tue Oct 17 13:20:29 +0000 2017,@120632 We're sorry for the trouble. Can you share more details so we can check? ^AB,,5638.0
+5648,120647,True,Mon Oct 16 23:16:50 +0000 2017,@PixelStoreCare I returned an item and need a refund,5653,
+5653,PixelStoreCare,False,Tue Oct 17 02:25:50 +0000 2017,"@120647 Per our policy, a replacement fee applies in this case. -MC",5659,5648.0
+5659,120647,True,Tue Oct 17 02:56:50 +0000 2017,@PixelStoreCare ok thanks,,5653.0
+5661,120666,True,Mon Nov 06 10:55:06 +0000 2017,@PixelStoreCare I returned an item and need a refund,5667,
+5667,PixelStoreCare,False,Mon Nov 06 14:22:06 +0000 2017,@120666 You can fix this in your account preferences. Let us know! -MC,5668,5661.0
+5668,120666,True,Mon Nov 06 15:07:06 +0000 2017,@PixelStoreCare will try,,5667.0
+5674,120666,True,Fri Nov 17 22:15:24 +0000 2017,@PixelStoreCare different question: how do I add a second user to my plan?,5675,
+5675,PixelStoreCare,False,Sat Nov 18 01:12:24 +0000 2017,@120666 We're sorry for the trouble. Can you share more details so we can check? -DW,,5674.0
+5682,120668,True,Tue Nov 14 17:21:25 +0000 2017,@PixelStoreCare my voucher code is not accepted,5685,
+5685,PixelStoreCare,False,Tue Nov 14 17:53:25 +0000 2017,@120668 Please check this help article: https://t.co/hlp123 It has all the steps. ^AB,5688,5682.0
+5688,120668,True,Tue Nov 14 19:02:25 +0000 2017,@PixelStoreCare will try,,5685.0
+5691,120668,True,Fri Nov 24 06:20:47 +0000 2017,"@PixelStoreCare hi, can you tell me your opening hours for the holidays?",5697,
+5697,PixelStoreCare,False,Fri Nov 24 06:57:47 +0000 2017,@120668 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,5691.0
+5702,120671,True,Fri Nov 10 11:15:27 +0000 2017,@PixelStoreCare I got the wrong item,5709,
+5709,PixelStoreCare,False,Fri Nov 10 12:42:27 +0000 2017,"@120671 Thanks, we've passed this to the team. We'll reply here soon. ^KT",5712,5702.0
+5712,120671,True,Fri Nov 10 12:58:27 +0000 2017,@PixelStoreCare ok thanks,,5709.0
+5717,120671,True,Thu Nov 23 10:12:49 +0000 2017,"@PixelStoreCare quick one, do you ship to Canada?",5719,
+5719,PixelStoreCare,False,Thu Nov 23 11:10:49 +0000 2017,@120671 We're sorry for the trouble. Can you share more details so we can check? ^AB,,5717.0
+5721,120684,True,Sat Nov 04 01:15:36 +0000 2017,@PixelStoreCare I returned an item and need a refund,5727,
+5727,PixelStoreCare,False,Sat Nov 04 02:03:36 +0000 2017,"@120684 We've fixed it on our side, please check now. ^LS",5731,5721.0
+5731,120684,True,Sat Nov 04 03:31:36 +0000 2017,@PixelStoreCare will try,,5727.0
+5736,120684,True,Sat Nov 18 01:48:50 +0000 2017,"@PixelStoreCare quick one, do you ship to Canada?",5738,
+5738,PixelStoreCare,False,Sat Nov 18 03:58:50 +0000 2017,@120684 We're sorry for the trouble. Can you share more details so we can check? -DW,,5736.0
+5742,120714,True,Thu Nov 02 20:38:32 +0000 2017,@PixelStoreCare my voucher code is not accepted,5749,
+5749,PixelStoreCare,False,Thu Nov 02 20:50:32 +0000 2017,@120714 We're looking into this and will get back to you shortly. -MC,,5742.0
+5755,120714,True,Thu Nov 09 06:42:35 +0000 2017,@PixelStoreCare still no answer about the voucher,5760,
+5760,PixelStoreCare,False,Thu Nov 09 09:13:35 +0000 2017,@120714 We're sorry for the trouble. Can you share more details so we can check? ^KT,,5755.0
+5761,120714,True,Sat Nov 11 08:32:43 +0000 2017,@PixelStoreCare I've been a customer for 8 years and that's the best you can do? not ok,5766,
+5766,PixelStoreCare,False,Sat Nov 11 09:56:43 +0000 2017,"@120714 Thanks for the update, we're on it. ^RP",,5761.0
+5772,120728,True,Thu Nov 09 15:36:52 +0000 2017,@PixelStoreCare I got the wrong item,5773,
+5773,PixelStoreCare,False,Thu Nov 09 17:42:52 +0000 2017,"@120728 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^KT",5774,5772.0
+5774,120728,True,Thu Nov 09 18:44:52 +0000 2017,@PixelStoreCare ok thanks,,5773.0
+5775,120728,True,Wed Nov 15 14:37:59 +0000 2017,@PixelStoreCare I did everything you suggested and my order is still not working,5782,
+5782,PixelStoreCare,False,Wed Nov 15 17:00:59 +0000 2017,@120728 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,5775.0
+5788,120728,True,Thu Nov 16 03:38:10 +0000 2017,@PixelStoreCare any update on my order? nobody replied since monday,5790,
+5790,PixelStoreCare,False,Thu Nov 16 07:07:10 +0000 2017,@120728 We're sorry for the trouble. Can you share more details so we can check? ^JM,,5788.0
+5796,120756,True,Tue Oct 31 18:19:17 +0000 2017,@PixelStoreCare I returned an item and need a refund,5798,
+5798,PixelStoreCare,False,Tue Oct 31 18:42:17 +0000 2017,@120756 We've escalated this and someone will call you back tomorrow. ^KT,5800,5796.0
+5800,120756,True,Tue Oct 31 19:07:17 +0000 2017,@PixelStoreCare will try,,5798.0
+5803,120756,True,Tue Nov 14 22:18:43 +0000 2017,"@PixelStoreCare quick one, do you ship to Canada?",5807,
+5807,PixelStoreCare,False,Tue Nov 14 23:38:43 +0000 2017,@120756 We're sorry for the trouble. Can you share more details so we can check? ^KT,,5803.0
+5813,120789,True,Thu Nov 02 21:26:23 +0000 2017,@PixelStoreCare I got the wrong item,5814,
+5814,PixelStoreCare,False,Thu Nov 02 23:28:23 +0000 2017,"@120789 Per our policy, a replacement fee applies in this case. ^JM",5820,5813.0
+5820,120789,True,Fri Nov 03 00:36:23 +0000 2017,@PixelStoreCare will try,,5814.0
+5823,120789,True,Thu Nov 09 09:35:29 +0000 2017,@PixelStoreCare I've been a customer for 8 years and that's the best you can do? not ok,5828,
+5828,PixelStoreCare,False,Thu Nov 09 09:49:29 +0000 2017,@120789 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,5823.0
+5835,120818,True,Sun Oct 08 02:23:14 +0000 2017,@PixelStoreCare I returned an item and need a refund,5841,
+5841,PixelStoreCare,False,Sun Oct 08 05:54:14 +0000 2017,"@120818 Thanks, we've passed this to the team. We'll reply here soon. ^LS",,5835.0
+5847,120818,True,Thu Oct 19 07:13:18 +0000 2017,@PixelStoreCare different question: how do I add a second user to my plan?,5848,
+5848,PixelStoreCare,False,Thu Oct 19 08:47:18 +0000 2017,@120818 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,5847.0
+5853,120833,True,Mon Oct 30 04:28:16 +0000 2017,@PixelStoreCare my voucher code is not accepted,5856,
+5856,PixelStoreCare,False,Mon Oct 30 08:13:16 +0000 2017,"@120833 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^JM",5861,5853.0
+5861,120833,True,Mon Oct 30 09:25:16 +0000 2017,@PixelStoreCare ok thanks,,5856.0
+5868,120833,True,Fri Nov 03 19:34:41 +0000 2017,@PixelStoreCare I did everything you suggested and the voucher is still not working,5872,
+5872,PixelStoreCare,False,Fri Nov 03 21:03:41 +0000 2017,"@120833 Thanks for the update, we're on it. -MC",,5868.0
+5878,120833,True,Sun Nov 05 00:25:20 +0000 2017,"@PixelStoreCare hey, tried it all again this morning and the voucher still acts up exactly like before",5884,
+5884,PixelStoreCare,False,Sun Nov 05 03:32:20 +0000 2017,"@120833 Thanks for the update, we're on it. -MC",,5878.0
+5890,120835,True,Tue Oct 10 17:56:46 +0000 2017,@PixelStoreCare my voucher code is not accepted,5896,
+5896,PixelStoreCare,False,Tue Oct 10 19:47:46 +0000 2017,@120835 You can fix this in your account preferences. Let us know! -MC,5902,5890.0
+5902,120835,True,Tue Oct 10 20:18:46 +0000 2017,@PixelStoreCare will try,,5896.0
+5909,120858,True,Thu Oct 19 23:57:50 +0000 2017,@PixelStoreCare I got the wrong item,5912,
+5912,PixelStoreCare,False,Fri Oct 20 03:42:50 +0000 2017,"@120858 We've processed it on our side, it should be back within 3 business days. ^KT",,5909.0
+5914,120858,True,Wed Oct 25 18:09:24 +0000 2017,@PixelStoreCare it's thursday and the money from monday's mistake is still not in my account,5916,
+5916,PixelStoreCare,False,Wed Oct 25 21:11:24 +0000 2017,"@120858 Thanks for the update, we're on it. ^KT",,5914.0
+5917,120890,True,Mon Oct 09 21:54:52 +0000 2017,@PixelStoreCare I returned an item and need a refund,5922,
+5922,PixelStoreCare,False,Mon Oct 09 22:54:52 +0000 2017,"@120890 Unfortunately this is outside the refund window, so we can't refund it. ^AB",,5917.0
+5928,120929,True,Wed Oct 25 08:53:58 +0000 2017,@PixelStoreCare my voucher code is not accepted,5929,
+5929,PixelStoreCare,False,Wed Oct 25 09:24:58 +0000 2017,"@120929 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",5934,5928.0
+5934,120929,True,Wed Oct 25 10:12:58 +0000 2017,@PixelStoreCare will try,,5929.0
+5939,120929,True,Sun Oct 29 03:24:40 +0000 2017,@PixelStoreCare I did everything you suggested and the voucher is still not working,5945,
+5945,PixelStoreCare,False,Sun Oct 29 05:12:40 +0000 2017,@120929 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,5939.0
+5948,120937,True,Sat Nov 11 07:23:50 +0000 2017,@PixelStoreCare I returned an item and need a refund,5949,
+5949,PixelStoreCare,False,Sat Nov 11 07:40:50 +0000 2017,@120937 You can fix this in your account preferences. Let us know! ^AB,,5948.0
+5952,120937,True,Mon Nov 13 15:01:55 +0000 2017,"@PixelStoreCare sorry, what do you mean by verify the account? where do I do that",5957,
+5957,PixelStoreCare,False,Mon Nov 13 15:04:55 +0000 2017,@120937 We're sorry for the trouble. Can you share more details so we can check? -MC,,5952.0
+5958,120938,True,Mon Oct 16 23:09:52 +0000 2017,@PixelStoreCare I returned an item and need a refund,5961,
+5961,PixelStoreCare,False,Tue Oct 17 02:07:52 +0000 2017,"@120938 All sorted, thanks for your patience! ^KT",5965,5958.0
+5965,120938,True,Tue Oct 17 02:42:52 +0000 2017,@PixelStoreCare ok thanks,,5961.0
+5968,120938,True,Fri Nov 03 14:42:45 +0000 2017,"@PixelStoreCare hi, can you tell me your opening hours for the holidays?",5973,
+5973,PixelStoreCare,False,Fri Nov 03 16:15:45 +0000 2017,@120938 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^RP,,5968.0
+5975,120952,True,Fri Nov 10 18:29:07 +0000 2017,@PixelStoreCare I got the wrong item,5977,
+5977,PixelStoreCare,False,Fri Nov 10 21:54:07 +0000 2017,@120952 We've escalated this and someone will call you back tomorrow. -DW,5979,5975.0
+5979,120952,True,Fri Nov 10 22:23:07 +0000 2017,@PixelStoreCare ok thanks,,5977.0
+5985,120952,True,Tue Nov 14 01:42:04 +0000 2017,@PixelStoreCare you said it would be back in 3 business days. it's been 6 and nothing,5990,
+5990,PixelStoreCare,False,Tue Nov 14 02:23:04 +0000 2017,@120952 We're sorry for the trouble. Can you share more details so we can check? ^AB,,5985.0
+5993,120952,True,Wed Nov 15 15:13:39 +0000 2017,"@PixelStoreCare it has been 3 days, is anyone there?",5996,
+5996,PixelStoreCare,False,Wed Nov 15 16:08:39 +0000 2017,"@120952 Thanks for the update, we're on it. ^RP",,5993.0
+6001,120986,True,Sat Oct 07 02:17:53 +0000 2017,@PixelStoreCare I got the wrong item,6007,
+6007,PixelStoreCare,False,Sat Oct 07 04:22:53 +0000 2017,@120986 You can fix this in your account preferences. Let us know! ^JM,,6001.0
+6013,120986,True,Mon Oct 16 13:42:41 +0000 2017,"@PixelStoreCare hi, can you tell me your opening hours for the holidays?",6016,
+6016,PixelStoreCare,False,Mon Oct 16 14:15:41 +0000 2017,"@120986 Thanks for the update, we're on it. ^LS",,6013.0
+6019,120995,True,Wed Oct 25 18:23:55 +0000 2017,@PixelStoreCare I got the wrong item,6023,
+6023,PixelStoreCare,False,Wed Oct 25 21:18:55 +0000 2017,@120995 Please call our support line so the team can help you directly. ^JM,,6019.0
+6029,120995,True,Fri Oct 27 21:19:14 +0000 2017,@PixelStoreCare phone support sent me back to twitter. so who actually fixes my order?,6035,
+6035,PixelStoreCare,False,Fri Oct 27 22:17:14 +0000 2017,@120995 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,6029.0
+6040,120998,True,Sat Nov 04 06:35:37 +0000 2017,@PixelStoreCare I got the wrong item,6045,
+6045,PixelStoreCare,False,Sat Nov 04 09:08:37 +0000 2017,"@120998 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -DW",6049,6040.0
+6049,120998,True,Sat Nov 04 09:28:37 +0000 2017,@PixelStoreCare ok thanks,,6045.0
+6052,121038,True,Thu Nov 09 02:04:22 +0000 2017,@PixelStoreCare I got the wrong item,6058,
+6058,PixelStoreCare,False,Thu Nov 09 05:33:22 +0000 2017,"@121038 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. -MC",,6052.0
+6064,121038,True,Wed Nov 29 02:20:13 +0000 2017,"@PixelStoreCare hey, is there a student discount?",6070,
+6070,PixelStoreCare,False,Wed Nov 29 05:01:13 +0000 2017,"@121038 Thanks for the update, we're on it. ^RP",,6064.0
+6071,121072,True,Wed Oct 18 12:37:57 +0000 2017,@PixelStoreCare I returned an item and need a refund,6074,
+6074,PixelStoreCare,False,Wed Oct 18 13:35:57 +0000 2017,"@121072 Unfortunately this is outside the refund window, so we can't refund it. -MC",,6071.0
+6075,121072,True,Sat Nov 04 14:31:30 +0000 2017,@PixelStoreCare different question: how do I add a second user to my plan?,6078,
+6078,PixelStoreCare,False,Sat Nov 04 16:35:30 +0000 2017,"@121072 Thanks for the update, we're on it. ^JM",,6075.0
+6079,121073,True,Mon Nov 13 10:32:40 +0000 2017,@PixelStoreCare I returned an item and need a refund,6081,
+6081,PixelStoreCare,False,Mon Nov 13 13:13:40 +0000 2017,@121073 Please check this help article: https://t.co/hlp123 It has all the steps. ^LS,,6079.0
+6083,121073,True,Tue Nov 14 22:36:51 +0000 2017,@PixelStoreCare phone support sent me back to twitter. so who actually fixes my refund?,6087,
+6087,PixelStoreCare,False,Wed Nov 15 01:22:51 +0000 2017,@121073 We're sorry for the trouble. Can you share more details so we can check? ^JM,,6083.0
+6091,121091,True,Fri Oct 20 03:17:55 +0000 2017,@PixelStoreCare I returned an item and need a refund,6097,
+6097,PixelStoreCare,False,Fri Oct 20 03:25:55 +0000 2017,@121091 Please call our support line so the team can help you directly. -MC,6100,6091.0
+6100,121091,True,Fri Oct 20 03:34:55 +0000 2017,@PixelStoreCare will try,,6097.0
+6103,121091,True,Wed Oct 25 10:19:05 +0000 2017,"@PixelStoreCare that article doesn't cover my case at all, I'm back to square one",6110,
+6110,PixelStoreCare,False,Wed Oct 25 12:50:05 +0000 2017,@121091 We're sorry for the trouble. Can you share more details so we can check? -MC,,6103.0
+6116,121116,True,Wed Oct 04 08:40:16 +0000 2017,@PixelStoreCare I returned an item and need a refund,6123,
+6123,PixelStoreCare,False,Wed Oct 04 10:48:16 +0000 2017,@121116 Done! It's fixed on our end. Anything else? ^JM,6125,6116.0
+6125,121116,True,Wed Oct 04 11:08:16 +0000 2017,@PixelStoreCare will try,,6123.0
+6132,121116,True,Fri Oct 06 12:08:54 +0000 2017,"@PixelStoreCare quick one, do you ship to Canada?",6134,
+6134,PixelStoreCare,False,Fri Oct 06 12:27:54 +0000 2017,"@121116 Thanks for the update, we're on it. -DW",,6132.0
+6138,121153,True,Thu Oct 12 05:33:12 +0000 2017,@PixelStoreCare my voucher code is not accepted,6143,
+6143,PixelStoreCare,False,Thu Oct 12 07:08:12 +0000 2017,@121153 You can fix this in your account preferences. Let us know! ^RP,,6138.0
+6147,121153,True,Sun Oct 22 15:49:59 +0000 2017,"@PixelStoreCare hi, can you tell me your opening hours for the holidays?",6149,
+6149,PixelStoreCare,False,Sun Oct 22 16:19:59 +0000 2017,@121153 We're sorry for the trouble. Can you share more details so we can check? -DW,,6147.0
+6153,121154,True,Tue Nov 14 09:23:17 +0000 2017,@PixelStoreCare my voucher code is not accepted,6159,
+6159,PixelStoreCare,False,Tue Nov 14 09:29:17 +0000 2017,@121154 You can fix this in your account preferences. Let us know! ^AB,6160,6153.0
+6160,121154,True,Tue Nov 14 10:43:17 +0000 2017,@PixelStoreCare will try,,6159.0
+6165,121154,True,Sat Nov 18 07:23:24 +0000 2017,@PixelStoreCare you told me to update the settings but which option exactly? I can't find it,6168,
+6168,PixelStoreCare,False,Sat Nov 18 07:50:24 +0000 2017,@121154 We're sorry for the trouble. Can you share more details so we can check? ^LS,,6165.0
+6173,121177,True,Sat Nov 04 01:58:10 +0000 2017,@PixelStoreCare my voucher code is not accepted,6179,
+6179,PixelStoreCare,False,Sat Nov 04 02:27:10 +0000 2017,@121177 You can fix this in your account preferences. Let us know! -MC,6184,6173.0
+6184,121177,True,Sat Nov 04 03:08:10 +0000 2017,@PixelStoreCare ok thanks,,6179.0
+6186,121177,True,Sun Nov 19 01:15:22 +0000 2017,@PixelStoreCare different question: how do I add a second user to my plan?,6188,
+6188,PixelStoreCare,False,Sun Nov 19 02:44:22 +0000 2017,"@121177 Thanks for the update, we're on it. ^JM",,6186.0
+6191,121201,True,Fri Nov 03 09:09:08 +0000 2017,@PixelStoreCare I returned an item and need a refund,6198,
+6198,PixelStoreCare,False,Fri Nov 03 09:24:08 +0000 2017,"@121201 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",6199,6191.0
+6199,121201,True,Fri Nov 03 10:23:08 +0000 2017,@PixelStoreCare will try,,6198.0
+6202,121201,True,Tue Nov 07 20:47:12 +0000 2017,"@PixelStoreCare restarted like you said, same issue with my refund. nothing changed",6203,
+6203,PixelStoreCare,False,Tue Nov 07 23:25:12 +0000 2017,"@121201 Thanks for the update, we're on it. -MC",,6202.0
+6208,121218,True,Mon Oct 09 01:45:07 +0000 2017,@PixelStoreCare my voucher code is not accepted,6213,
+6213,PixelStoreCare,False,Mon Oct 09 03:44:07 +0000 2017,@121218 Done! It's fixed on our end. Anything else? ^RP,6220,6208.0
+6220,121218,True,Mon Oct 09 03:53:07 +0000 2017,@PixelStoreCare ok thanks,,6213.0
+6225,121236,True,Thu Oct 12 05:16:11 +0000 2017,@PixelStoreCare I returned an item and need a refund,6230,
+6230,PixelStoreCare,False,Thu Oct 12 09:03:11 +0000 2017,@121236 We're looking into this and will get back to you shortly. -MC,6233,6225.0
+6233,121236,True,Thu Oct 12 09:35:11 +0000 2017,@PixelStoreCare will try,,6230.0
+6239,121236,True,Fri Oct 13 12:35:14 +0000 2017,@PixelStoreCare hello?? been waiting two days for an answer,6241,
+6241,PixelStoreCare,False,Fri Oct 13 13:28:14 +0000 2017,@121236 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,6239.0
+6247,121254,True,Mon Nov 06 07:06:45 +0000 2017,@PixelStoreCare my voucher code is not accepted,6253,
+6253,PixelStoreCare,False,Mon Nov 06 08:58:45 +0000 2017,"@121254 Please update your settings and verify your account, that should do it. -DW",6255,6247.0
+6255,121254,True,Mon Nov 06 09:50:45 +0000 2017,@PixelStoreCare will try,,6253.0
+6260,121282,True,Sun Oct 15 12:04:35 +0000 2017,@PixelStoreCare I returned an item and need a refund,6267,
+6267,PixelStoreCare,False,Sun Oct 15 12:10:35 +0000 2017,"@121282 Unfortunately this is outside the refund window, so we can't refund it. ^AB",,6260.0
+6272,121282,True,Wed Oct 18 12:16:14 +0000 2017,@PixelStoreCare that policy makes no sense. I want to speak to a manager,6279,
+6279,PixelStoreCare,False,Wed Oct 18 15:37:14 +0000 2017,@121282 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,6272.0
+6284,121294,True,Thu Oct 12 22:02:14 +0000 2017,@PixelStoreCare I returned an item and need a refund,6285,
+6285,PixelStoreCare,False,Thu Oct 12 23:25:14 +0000 2017,"@121294 Please update your settings and verify your account, that should do it. ^RP",,6284.0
+6290,121330,True,Sat Oct 14 14:27:19 +0000 2017,@PixelStoreCare I got the wrong item,6293,
+6293,PixelStoreCare,False,Sat Oct 14 14:46:19 +0000 2017,"@121330 Thanks, we've passed this to the team. We'll reply here soon. ^KT",,6290.0
+6294,121330,True,Thu Oct 19 11:04:31 +0000 2017,@PixelStoreCare still no answer about my order,6295,
+6295,PixelStoreCare,False,Thu Oct 19 14:34:31 +0000 2017,"@121330 Thanks for the update, we're on it. ^JM",,6294.0
+6302,121364,True,Mon Oct 09 01:36:24 +0000 2017,@PixelStoreCare I got the wrong item,6306,
+6306,PixelStoreCare,False,Mon Oct 09 02:47:24 +0000 2017,"@121364 Happy to help, can you tell us more? ^JM",,6302.0
+6307,121364,True,Tue Oct 10 14:44:39 +0000 2017,@PixelStoreCare ??,6311,
+6311,PixelStoreCare,False,Tue Oct 10 15:34:39 +0000 2017,@121364 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,6307.0
+6312,121400,True,Wed Nov 01 09:41:40 +0000 2017,@PixelStoreCare my voucher code is not accepted,6314,
+6314,PixelStoreCare,False,Wed Nov 01 11:51:40 +0000 2017,"@121400 All sorted, thanks for your patience! ^LS",6315,6312.0
+6315,121400,True,Wed Nov 01 12:03:40 +0000 2017,@PixelStoreCare ok thanks,,6314.0
+6322,121400,True,Fri Nov 03 19:23:10 +0000 2017,@PixelStoreCare different question: how do I add a second user to my plan?,6323,
+6323,PixelStoreCare,False,Fri Nov 03 20:24:10 +0000 2017,"@121400 Thanks for the update, we're on it. -MC",,6322.0
+6329,121406,True,Tue Oct 31 21:21:06 +0000 2017,@PixelStoreCare my voucher code is not accepted,6333,
+6333,PixelStoreCare,False,Tue Oct 31 22:23:06 +0000 2017,"@121406 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^JM",6334,6329.0
+6334,121406,True,Tue Oct 31 22:31:06 +0000 2017,@PixelStoreCare ok thanks,,6333.0
+6340,121420,True,Mon Oct 30 12:48:47 +0000 2017,@PixelStoreCare my voucher code is not accepted,6345,
+6345,PixelStoreCare,False,Mon Oct 30 15:27:47 +0000 2017,"@121420 Per our policy, a replacement fee applies in this case. ^KT",6349,6340.0
+6349,121420,True,Mon Oct 30 16:29:47 +0000 2017,@PixelStoreCare will try,,6345.0
+6350,121420,True,Sat Nov 04 00:52:50 +0000 2017,@PixelStoreCare I've been a customer for 8 years and that's the best you can do? not ok,6357,
+6357,PixelStoreCare,False,Sat Nov 04 02:55:50 +0000 2017,@121420 We're sorry for the trouble. Can you share more details so we can check? ^RP,,6350.0
+6359,121450,True,Thu Oct 19 00:04:16 +0000 2017,@PixelStoreCare my voucher code is not accepted,6362,
+6362,PixelStoreCare,False,Thu Oct 19 03:47:16 +0000 2017,"@121450 We've processed it on our side, it should be back within 3 business days. ^LS",,6359.0
+6364,121450,True,Tue Oct 24 18:36:51 +0000 2017,@PixelStoreCare you said it would be back in 3 business days. it's been 6 and nothing,6367,
+6367,PixelStoreCare,False,Tue Oct 24 20:52:51 +0000 2017,@121450 We're sorry for the trouble. Can you share more details so we can check? -DW,,6364.0
+6369,121463,True,Wed Oct 18 02:21:39 +0000 2017,@PixelStoreCare I got the wrong item,6376,
+6376,PixelStoreCare,False,Wed Oct 18 02:55:39 +0000 2017,"@121463 Unfortunately this is outside the refund window, so we can't refund it. ^JM",6380,6369.0
+6380,121463,True,Wed Oct 18 04:16:39 +0000 2017,@PixelStoreCare will try,,6376.0
+6382,121463,True,Wed Nov 01 19:28:16 +0000 2017,"@PixelStoreCare hey, is there a student discount?",6387,
+6387,PixelStoreCare,False,Wed Nov 01 21:06:16 +0000 2017,"@121463 Thanks for the update, we're on it. ^AB",,6382.0
+6394,121502,True,Fri Oct 20 07:15:48 +0000 2017,@PixelStoreCare my voucher code is not accepted,6401,
+6401,PixelStoreCare,False,Fri Oct 20 07:58:48 +0000 2017,@121502 Please call our support line so the team can help you directly. ^JM,,6394.0
+6402,121502,True,Sun Oct 22 00:20:49 +0000 2017,"@PixelStoreCare the link you sent just goes to the FAQ, it doesn't help with the voucher",6406,
+6406,PixelStoreCare,False,Sun Oct 22 02:42:49 +0000 2017,@121502 We're sorry for the trouble. Can you share more details so we can check? -MC,,6402.0
+6411,121502,True,Sun Oct 22 11:34:23 +0000 2017,@PixelStoreCare that policy makes no sense. I want to speak to a manager,6417,
+6417,PixelStoreCare,False,Sun Oct 22 14:48:23 +0000 2017,@121502 We're sorry for the trouble. Can you share more details so we can check? ^JM,,6411.0
+6420,121535,True,Sat Oct 28 15:42:08 +0000 2017,@PixelStoreCare my voucher code is not accepted,6426,
+6426,PixelStoreCare,False,Sat Oct 28 16:29:08 +0000 2017,@121535 We've escalated this and someone will call you back tomorrow. ^AB,,6420.0
+6427,121535,True,Tue Nov 14 15:56:54 +0000 2017,"@PixelStoreCare hi, can you tell me your opening hours for the holidays?",6434,
+6434,PixelStoreCare,False,Tue Nov 14 16:15:54 +0000 2017,@121535 We're sorry for the trouble. Can you share more details so we can check? ^KT,,6427.0
+6439,121574,True,Wed Nov 15 20:24:27 +0000 2017,@PixelStoreCare I returned an item and need a refund,6442,
+6442,PixelStoreCare,False,Wed Nov 15 21:54:27 +0000 2017,"@121574 Please update your settings and verify your account, that should do it. ^LS",6446,6439.0
+6446,121574,True,Wed Nov 15 22:42:27 +0000 2017,@PixelStoreCare ok thanks,,6442.0
+6447,121574,True,Mon Nov 20 00:31:25 +0000 2017,"@PixelStoreCare ok but after I go to preferences there are like 10 options for my refund, which one?",6448,
+6448,PixelStoreCare,False,Mon Nov 20 02:41:25 +0000 2017,@121574 We're sorry for the trouble. Can you share more details so we can check? ^LS,,6447.0
+6449,121578,True,Thu Oct 26 01:52:53 +0000 2017,@PixelStoreCare I returned an item and need a refund,6453,
+6453,PixelStoreCare,False,Thu Oct 26 05:06:53 +0000 2017,"@121578 Per our policy, a replacement fee applies in this case. -MC",,6449.0
+6454,121578,True,Sun Oct 29 19:18:15 +0000 2017,"@PixelStoreCare your answer is ridiculous, I'm not paying for a replacement",6455,
+6455,PixelStoreCare,False,Sun Oct 29 20:04:15 +0000 2017,"@121578 Thanks for the update, we're on it. -MC",,6454.0
+6460,121598,True,Wed Oct 25 21:47:00 +0000 2017,@PixelStoreCare I returned an item and need a refund,6466,
+6466,PixelStoreCare,False,Thu Oct 26 01:39:00 +0000 2017,@121598 Please check this help article: https://t.co/hlp123 It has all the steps. ^JM,,6460.0
+6468,121598,True,Sat Oct 28 21:41:23 +0000 2017,"@PixelStoreCare I called the number you gave me and waited 40 minutes, nobody picked up",6469,
+6469,PixelStoreCare,False,Sat Oct 28 22:59:23 +0000 2017,@121598 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^LS,,6468.0
+6470,121598,True,Tue Oct 31 16:36:59 +0000 2017,"@PixelStoreCare hey, tried it all again this morning and my refund still acts up exactly like before",6474,
+6474,PixelStoreCare,False,Tue Oct 31 18:32:59 +0000 2017,"@121598 Thanks for the update, we're on it. ^KT",,6470.0
+6477,121607,True,Sat Oct 28 19:30:31 +0000 2017,@PixelStoreCare I returned an item and need a refund,6483,
+6483,PixelStoreCare,False,Sat Oct 28 21:22:31 +0000 2017,@121607 Please check this help article: https://t.co/hlp123 It has all the steps. ^JM,,6477.0
+6490,121607,True,Thu Nov 16 11:40:50 +0000 2017,"@PixelStoreCare hi, can you tell me your opening hours for the holidays?",6496,
+6496,PixelStoreCare,False,Thu Nov 16 15:05:50 +0000 2017,@121607 We're sorry for the trouble. Can you share more details so we can check? -DW,,6490.0
+6501,121608,True,Sun Oct 08 01:12:33 +0000 2017,@PixelStoreCare I returned an item and need a refund,6504,
+6504,PixelStoreCare,False,Sun Oct 08 02:37:33 +0000 2017,"@121608 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^LS",6507,6501.0
+6507,121608,True,Sun Oct 08 03:36:33 +0000 2017,@PixelStoreCare will try,,6504.0
+6514,121608,True,Tue Oct 17 12:24:41 +0000 2017,"@PixelStoreCare hey, is there a student discount?",6518,
+6518,PixelStoreCare,False,Tue Oct 17 12:55:41 +0000 2017,"@121608 Thanks for the update, we're on it. -MC",,6514.0
+6519,121647,True,Sun Nov 12 12:18:01 +0000 2017,@PixelStoreCare my voucher code is not accepted,6520,
+6520,PixelStoreCare,False,Sun Nov 12 15:09:01 +0000 2017,"@121647 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^AB",6523,6519.0
+6523,121647,True,Sun Nov 12 15:46:01 +0000 2017,@PixelStoreCare will try,,6520.0
+6528,121647,True,Tue Nov 14 23:12:55 +0000 2017,@PixelStoreCare I did everything you suggested and the voucher is still not working,6531,
+6531,PixelStoreCare,False,Wed Nov 15 02:32:55 +0000 2017,@121647 We're sorry for the trouble. Can you share more details so we can check? ^KT,,6528.0
+6535,121647,True,Wed Nov 15 08:54:44 +0000 2017,@PixelStoreCare any update on the voucher? nobody replied since monday,6538,
+6538,PixelStoreCare,False,Wed Nov 15 10:12:44 +0000 2017,@121647 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^JM,,6535.0
+6545,121666,True,Sun Oct 08 02:39:14 +0000 2017,@PixelStoreCare I got the wrong item,6552,
+6552,PixelStoreCare,False,Sun Oct 08 05:23:14 +0000 2017,"@121666 Please update your settings and verify your account, that should do it. ^RP",6553,6545.0
+6553,121666,True,Sun Oct 08 06:44:14 +0000 2017,@PixelStoreCare will try,,6552.0
+6559,121666,True,Tue Oct 10 09:41:02 +0000 2017,@PixelStoreCare you told me to update the settings but which option exactly? I can't find it,6566,
+6566,PixelStoreCare,False,Tue Oct 10 10:24:02 +0000 2017,@121666 We're sorry for the trouble. Can you share more details so we can check? -DW,,6559.0
+6571,121666,True,Wed Oct 11 15:54:22 +0000 2017,"@PixelStoreCare it has been 3 days, is anyone there?",6576,
+6576,PixelStoreCare,False,Wed Oct 11 17:41:22 +0000 2017,"@121666 Thanks for the update, we're on it. -DW",,6571.0
+6578,121681,True,Sat Oct 21 23:40:12 +0000 2017,@PixelStoreCare I returned an item and need a refund,6582,
+6582,PixelStoreCare,False,Sat Oct 21 23:57:12 +0000 2017,@121681 Done! It's fixed on our end. Anything else? ^LS,,6578.0
+6587,121681,True,Tue Oct 24 23:01:55 +0000 2017,"@PixelStoreCare hi, can you tell me your opening hours for the holidays?",6588,
+6588,PixelStoreCare,False,Tue Oct 24 23:56:55 +0000 2017,"@121681 Thanks for the update, we're on it. -MC",,6587.0
+6592,121703,True,Mon Nov 06 14:57:20 +0000 2017,@PixelStoreCare I got the wrong item,6598,
+6598,PixelStoreCare,False,Mon Nov 06 16:34:20 +0000 2017,@121703 You can fix this in your account preferences. Let us know! ^AB,6601,6592.0
+6601,121703,True,Mon Nov 06 17:52:20 +0000 2017,@PixelStoreCare ok thanks,,6598.0
+6607,121703,True,Sat Nov 11 16:53:45 +0000 2017,"@PixelStoreCare ok but after I go to preferences there are like 10 options for my order, which one?",6608,
+6608,PixelStoreCare,False,Sat Nov 11 20:31:45 +0000 2017,@121703 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -DW,,6607.0
+6615,121738,True,Wed Nov 15 11:22:34 +0000 2017,@PixelStoreCare I returned an item and need a refund,6621,
+6621,PixelStoreCare,False,Wed Nov 15 13:15:34 +0000 2017,@121738 We've escalated this and someone will call you back tomorrow. -MC,,6615.0
+6628,121763,True,Sun Nov 12 10:45:14 +0000 2017,@PixelStoreCare my voucher code is not accepted,6635,
+6635,PixelStoreCare,False,Sun Nov 12 14:08:14 +0000 2017,@121763 We've escalated this and someone will call you back tomorrow. ^AB,6637,6628.0
+6637,121763,True,Sun Nov 12 15:17:14 +0000 2017,@PixelStoreCare ok thanks,,6635.0
+6644,121763,True,Thu Nov 16 00:47:43 +0000 2017,@PixelStoreCare it's thursday and the money from monday's mistake is still not in my account,6651,
+6651,PixelStoreCare,False,Thu Nov 16 03:31:43 +0000 2017,"@121763 Thanks for the update, we're on it. ^AB",,6644.0
+6657,121763,True,Sat Nov 18 02:14:27 +0000 2017,"@PixelStoreCare it has been 3 days, is anyone there?",6664,
+6664,PixelStoreCare,False,Sat Nov 18 06:01:27 +0000 2017,"@121763 Thanks for the update, we're on it. ^JM",,6657.0
+6671,121792,True,Sat Nov 04 04:02:35 +0000 2017,@PixelStoreCare I got the wrong item,6676,
+6676,PixelStoreCare,False,Sat Nov 04 05:40:35 +0000 2017,"@121792 Happy to help, can you tell us more? ^AB",6679,6671.0
+6679,121792,True,Sat Nov 04 06:35:35 +0000 2017,@PixelStoreCare ok thanks,,6676.0
+6686,121792,True,Wed Nov 08 07:33:12 +0000 2017,@PixelStoreCare ...,6688,
+6688,PixelStoreCare,False,Wed Nov 08 09:50:12 +0000 2017,@121792 Sorry to hear that. Please send us a DM with your account details and we'll take a look. ^KT,,6686.0
+6690,121826,True,Mon Nov 06 23:40:28 +0000 2017,@PixelStoreCare I got the wrong item,6695,
+6695,PixelStoreCare,False,Tue Nov 07 00:30:28 +0000 2017,"@121826 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",6701,6690.0
+6701,121826,True,Tue Nov 07 00:57:28 +0000 2017,@PixelStoreCare ok thanks,,6695.0
+6705,121826,True,Tue Nov 07 07:24:30 +0000 2017,@PixelStoreCare I did everything you suggested and my order is still not working,6707,
+6707,PixelStoreCare,False,Tue Nov 07 08:59:30 +0000 2017,"@121826 Thanks for the update, we're on it. ^KT",,6705.0
+6712,121837,True,Sat Nov 11 07:00:44 +0000 2017,@PixelStoreCare I returned an item and need a refund,6715,
+6715,PixelStoreCare,False,Sat Nov 11 07:53:44 +0000 2017,"@121837 Per our policy, a replacement fee applies in this case. ^AB",,6712.0
+6719,121847,True,Sun Oct 22 08:05:50 +0000 2017,@PixelStoreCare I got the wrong item,6726,
+6726,PixelStoreCare,False,Sun Oct 22 11:38:50 +0000 2017,"@121847 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^AB",6730,6719.0
+6730,121847,True,Sun Oct 22 12:23:50 +0000 2017,@PixelStoreCare ok thanks,,6726.0
+6736,121873,True,Fri Oct 13 23:11:54 +0000 2017,@PixelStoreCare I returned an item and need a refund,6738,
+6738,PixelStoreCare,False,Sat Oct 14 03:07:54 +0000 2017,@121873 Done! It's fixed on our end. Anything else? ^AB,6739,6736.0
+6739,121873,True,Sat Oct 14 03:26:54 +0000 2017,@PixelStoreCare will try,,6738.0
+6740,121873,True,Wed Oct 18 10:29:27 +0000 2017,"@PixelStoreCare hey, is there a student discount?",6747,
+6747,PixelStoreCare,False,Wed Oct 18 13:10:27 +0000 2017,@121873 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,6740.0
+6751,121903,True,Wed Oct 11 04:25:19 +0000 2017,@PixelStoreCare my voucher code is not accepted,6755,
+6755,PixelStoreCare,False,Wed Oct 11 07:40:19 +0000 2017,"@121903 Thanks for reaching out. Try clearing the cache and logging in again, it should be sorted. ^KT",,6751.0
+6758,121903,True,Fri Oct 13 14:34:11 +0000 2017,"@PixelStoreCare hey, tried it all again this morning and the voucher still acts up exactly like before",6765,
+6765,PixelStoreCare,False,Fri Oct 13 14:55:11 +0000 2017,"@121903 Thanks for the update, we're on it. -DW",,6758.0
+6772,121903,True,Mon Oct 16 00:49:01 +0000 2017,@PixelStoreCare that policy makes no sense. I want to speak to a manager,6778,
+6778,PixelStoreCare,False,Mon Oct 16 01:19:01 +0000 2017,@121903 We're sorry for the trouble. Can you share more details so we can check? -MC,,6772.0
+6782,121938,True,Tue Oct 03 04:41:50 +0000 2017,@PixelStoreCare my voucher code is not accepted,6787,
+6787,PixelStoreCare,False,Tue Oct 03 07:25:50 +0000 2017,@121938 We're looking into this and will get back to you shortly. ^JM,6790,6782.0
+6790,121938,True,Tue Oct 03 07:56:50 +0000 2017,@PixelStoreCare ok thanks,,6787.0
+6794,121952,True,Sun Nov 12 15:00:53 +0000 2017,@PixelStoreCare my voucher code is not accepted,,
+6797,121980,True,Wed Oct 18 23:45:32 +0000 2017,@PixelStoreCare my voucher code is not accepted,6800,
+6800,PixelStoreCare,False,Thu Oct 19 01:42:32 +0000 2017,"@121980 We've fixed it on our side, please check now. ^JM",,6797.0
+6805,121980,True,Fri Oct 20 20:03:22 +0000 2017,"@PixelStoreCare problem solved, appreciate it",6810,
+6810,PixelStoreCare,False,Fri Oct 20 21:33:22 +0000 2017,"@121980 Thanks for the update, we're on it. ^KT",,6805.0
+6817,122010,True,Sun Oct 29 13:41:10 +0000 2017,@PixelStoreCare I got the wrong item,6824,
+6824,PixelStoreCare,False,Sun Oct 29 16:35:10 +0000 2017,"@122010 Sorry about that! Please restart your device and reinstall the app, that usually fixes it. ^LS",6826,6817.0
+6826,122010,True,Sun Oct 29 17:11:10 +0000 2017,@PixelStoreCare will try,,6824.0
+6832,122010,True,Tue Oct 31 21:32:59 +0000 2017,"@PixelStoreCare your fix didn't work, my order is broken again",6839,
+6839,PixelStoreCare,False,Tue Oct 31 23:31:59 +0000 2017,@122010 Sorry to hear that. Please send us a DM with your account details and we'll take a look. -MC,,6832.0
+6840,122030,True,Sun Oct 22 19:12:03 +0000 2017,@PixelStoreCare I returned an item and need a refund,6842,
+6842,PixelStoreCare,False,Sun Oct 22 20:48:03 +0000 2017,"@122030 Thanks, we've passed this to the team. We'll reply here soon. ^KT",,6840.0
+6849,122030,True,Thu Oct 26 09:46:54 +0000 2017,@PixelStoreCare hello?? been waiting two days for an answer,6856,
+6856,PixelStoreCare,False,Thu Oct 26 12:49:54 +0000 2017,"@122030 Thanks for the update, we're on it. -DW",,6849.0
+6859,122057,True,Fri Nov 10 13:33:01 +0000 2017,@PixelStoreCare I returned an item and need a refund,6861,
+6861,PixelStoreCare,False,Fri Nov 10 13:43:01 +0000 2017,@122057 Done! It's fixed on our end. Anything else? -DW,6868,6859.0
+6868,122057,True,Fri Nov 10 14:32:01 +0000 2017,@PixelStoreCare ok thanks,,6861.0
+6871,122057,True,Tue Nov 28 07:17:32 +0000 2017,"@PixelStoreCare hey, is there a student discount?",6874,
+6874,PixelStoreCare,False,Tue Nov 28 10:07:32 +0000 2017,"@122057 Thanks for the update, we're on it. -DW",,6871.0
+6880,122083,True,Wed Nov 08 04:52:27 +0000 2017,@PixelStoreCare I returned an item and need a refund,6882,
+6882,PixelStoreCare,False,Wed Nov 08 08:46:27 +0000 2017,"@122083 We've processed it on our side, it should be back within 3 business days. ^LS",,6880.0

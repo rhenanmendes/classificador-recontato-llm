@@ -1,0 +1,49 @@
+# Configuração do pipeline de classificação de recontato.
+# Qualquer valor pode ser sobrescrito pela linha de comando (veja `python main.py --help`).
+
+recontato:
+  # Um contato é recontato quando o mesmo cliente volta à mesma marca/empresa
+  # em até N dias após o fim do contato anterior.
+  janela_dias: 7
+
+llm:
+  # Provedor padrão: gemini | ollama | regras
+  #  - gemini: API do Google, plano gratuito (precisa de GEMINI_API_KEY no arquivo .env)
+  #  - ollama: modelo local, sem custo e sem limite de uso
+  #  - regras: baseline por palavras-chave, sem LLM (serve de comparação)
+  provedor: gemini
+  versao_prompt: v1
+
+  gemini:
+    # Confira os modelos disponíveis no seu plano em https://aistudio.google.com
+    modelo: gemini-3.5-flash-lite
+    # O plano gratuito tem limite baixo de requisições. 5 por minuto é conservador.
+    requisicoes_por_minuto: 5
+    max_tentativas: 5
+
+  ollama:
+    url: http://localhost:11434
+    # Cabe em placas de vídeo com 4 GB (ex.: GTX 1050 Ti). Alternativa mais leve: qwen3.5:2b
+    modelo: qwen3:4b
+    # Desliga o "modo raciocínio" dos modelos Qwen3: mais rápido e suficiente para classificar
+    think: false
+    timeout_segundos: 180
+
+  # Preço por milhão de tokens (USD), usado só para ESTIMAR quanto custaria em escala.
+  # Deixe null se não quiser a estimativa. Consulte a página de preços do provedor.
+  custo_estimado:
+    entrada_usd_por_milhao: null
+    saida_usd_por_milhao: null
+
+classificacao:
+  # Quantos recontatos classificar (amostra aleatória reprodutível)
+  tamanho_amostra: 1500
+  semente: 42
+  # Limite de caracteres de cada contato enviado ao modelo (controla custo e tempo)
+  max_caracteres_contato: 1500
+
+relatorio:
+  # Marcas/empresas com menos contatos que isso ficam fora dos rankings
+  volume_minimo_ranking: 200
+  # Quantos exemplos por motivo mostrar no relatório
+  exemplos_por_motivo: 3

@@ -1,0 +1,22 @@
+# Segredos
+.env
+
+# Dados brutos e intermediários (a base do Kaggle é grande demais para o GitHub)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Resultados de execuções locais (commite só os relatórios finais que quiser mostrar)
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
