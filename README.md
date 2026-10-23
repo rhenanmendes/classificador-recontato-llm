@@ -106,7 +106,7 @@ Pré-requisitos: [Python 3.10+](https://www.python.org/downloads/) e [Git](https
 ### 1. Instalar
 
 ```bash
-git clone https://github.com/<seu-usuario>/classificador-recontato-llm.git
+git clone git clone https://github.com/rhenanmendes/classificador-recontato-llm.git
 cd classificador-recontato-llm
 python -m venv .venv
 .venv\Scripts\activate
